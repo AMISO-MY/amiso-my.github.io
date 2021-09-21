@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Malaysian Alumni in the International Science Olympiads (AMISO) is an alumni network for Malaysians who have represented the country in the International Science Olympiads.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# What are the International Science Olympiads?
+The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences. The competitions are designed for the 4-6 best high school students from each participating country selected through internal National Science Olympiads.
+Wikipedia
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+To get into the national team for any ISO, you must take part in the National Selection Tests (NST). In Malaysia, each ISO have their own NST and local organiser. You can learn more at our Olympiads page.
 
+## Our Mission and Vision
+# Mission
+Provide a networking platform for the Malaysian ISO alumni, and spread awareness about national selection tests in the International Science Olympiads.
 
-[jekyll-organization]: https://github.com/jekyll
+# Vision
+Push Malaysia into a top-performing country in the International Science Olympiads, and inspire the young Malaysian generation in the field of the sciences.
