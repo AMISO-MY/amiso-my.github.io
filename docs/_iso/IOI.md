@@ -30,5 +30,5 @@ is not older than twenty years on the 1st of July of the year of IOI’n.
 In short, a contestant must be a secondary high school Malaysian student up to 20 years old.
 
 # Learning Materials
-Competitive Programming Handbook by Antti Laaksonen
-Competitive Programming 1-4 by Steven Halim
+- Competitive Programming Handbook by Antti Laaksonen
+- Competitive Programming 1-4 by Steven Halim

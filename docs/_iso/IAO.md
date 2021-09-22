@@ -19,23 +19,24 @@ The competing part of IAO consists of three rounds: a theoretical, an observatio
 # Format
 There are 3 rounds.
 
-Theoretical round
-Observational round
-Practical round
-Eligibility
+- Theoretical round
+- Observational round
+- Practical round
+
+# Eligibility
 Alpha:
 
 Only the first time participating in IAOs students and
-not older than 15.00 years on January 1st of the year of the Olympiad
-The last Form educating student cannot participate in the junior group.
+not older than 15.00 years on January 1st of the year of the Olympiad. The last Form educating student cannot participate in the junior group.
+
 Beta:
 
-For the first time participating in IAOs the participants should be: not older than 18.00 years on January 1st of the year of the Olympiad
-For the second time participating in IAOs the participants should be: not older than 17.00 years on January 1st of the year of the Olympiad
-For the third time participating in IAOs the participants should be: students: not older than 16.00 years on January 1st of the year of the Olympiad
-The last Form educating student may participate only in the senior group. Participants of the both groups must be not younger than 14.00 years on December 31st of the year of the Olympiad, and not supposed to study at any institutions of higher education (university or school which can be considered technical colleges).
+- For the first time participating in IAOs the participants should be: not older than 18.00 years on January 1st of the year of the Olympiad
+- For the second time participating in IAOs the participants should be: not older than 17.00 years on January 1st of the year of the Olympiad
+- For the third time participating in IAOs the participants should be: students: not older than 16.00 years on January 1st of the year of the Olympiad
+- The last Form educating student may participate only in the senior group. Participants of the both groups must be not younger than 14.00 years on December 31st of the year of the Olympiad, and not supposed to study at any institutions of higher education (university or school which can be considered technical colleges).
 
 # Learning Materials
-USAAAO resources
+[USAAAO resources](https://usaaao.org/resources/)
 
-Malaysian IAO Training Program
+[Malaysian IAO Training Program](https://docs.google.com/spreadsheets/d/1y1zZf3DQfJR34-ISxy-40IAgm_AuVGO9927W3-DeFTk/edit?usp=sharing)
