@@ -20,7 +20,7 @@
 
 title: AMISO
 description: >- # this means to ignore newlines until "baseurl:"
-  The Malaysian Alumni in the International Science Olympiads (AMISO)
+  Malaysian Alumni in the International Science Olympiads (AMISO)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
