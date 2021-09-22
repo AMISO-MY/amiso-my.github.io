@@ -5,10 +5,18 @@ permalink: /iao/
 nst: MyAO
 ---
 
-Introduction
+# Selection Process
+The top 3+2 contestants will be selected to the IAO.
+
+1. MYAO (October)
+2. MYAO Final Round (February, top 20)
+3. Training camps
+4. IAO (October)
+
+# Introduction
 The competing part of IAO consists of three rounds: a theoretical, an observational, and a practical. Problems of the theoretical round involve classical problems in branches of astronomy, astrophysics, space and planetary physics, and maybe hypothetical situations. The observational round involves recognizing stars, constellations, estimating star magnitude and angular distance, working with telescopes or other observational technique. The practical round consists of problems based on data results of observations, solutions propose analysis of these data. The chairman is Michael Gavrilov.
 
-Format
+# Format
 There are 3 rounds.
 
 Theoretical round
@@ -27,18 +35,7 @@ For the second time participating in IAOs the participants should be: not older 
 For the third time participating in IAOs the participants should be: students: not older than 16.00 years on January 1st of the year of the Olympiad
 The last Form educating student may participate only in the senior group. Participants of the both groups must be not younger than 14.00 years on December 31st of the year of the Olympiad, and not supposed to study at any institutions of higher education (university or school which can be considered technical colleges).
 
-Selection Process
-The top 3+2 contestants will be selected to the IAO.
-
-A typical selection:
-
-MYAO (October)
-MYAO Final Round (February, top 20)
-Training camps
-IAO (October)
-Learning Materials
+# Learning Materials
 USAAAO resources
 
 Malaysian IAO Training Program
-
-Notes
