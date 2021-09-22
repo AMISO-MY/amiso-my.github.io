@@ -17,7 +17,7 @@ Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8f
                         <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
                         <div class="card-body">
                             <h3 class="card-title">{{ alumni.name }}</h3>
-                            <div class="card-text d-flex justify-content-between">
+                            <div class="mb-1 d-flex justify-content-between">
                                 <div class="d-inline-block">
                                     {% for iso in alumni.iso %}
                                         <span class="badge bg-secondary rounded-pill">{{ iso }}</span>
