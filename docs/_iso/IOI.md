@@ -2,6 +2,7 @@
 layout: page
 title: IOI
 permalink: /ioi/
+nst: MCO
 ---
 
 Introduction
