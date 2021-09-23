@@ -12,7 +12,7 @@ Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8f
     <div class="container">
         <div class="row justify-content-center">
             {% for alumni in site.data.alumni %}
-                <div class="col-12 col-md-6 col-lg-4">
+                <div class="col-12 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
                         <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
                         <div class="card-body">
