@@ -47,7 +47,7 @@ Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8f
                                     {% endif %}
                                     {% if alumni.discord != '' %}
                                         <span>
-                                            <a class="text-reset text-decoration-none" href="{{alumni.github}}" rel="noreferrer" target="_blank">
+                                            <a class="text-reset text-decoration-none" href="{{alumni.discord}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-discord"></i>
                                             </a>
                                         </span>
