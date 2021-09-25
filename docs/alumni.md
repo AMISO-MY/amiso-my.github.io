@@ -4,7 +4,7 @@ title: Alumni
 permalink: /alumni/
 ---
 
-Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No){:target="_blank"}.
+Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No){:target="\_blank"}.
 
 <div id="main" hidden>
 <!-- Icons -->
@@ -82,9 +82,11 @@ Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8f
 </div>
 
 <script>
-    let stuff=`<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
+    let stuff=`<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
     `+document.getElementById('main').innerHTML;
-
-document.getElementById('main').attachShadow({mode: 'open'}).innerHTML=stuff;
-document.getElementById('main').removeAttribute('hidden');
+    const root = document.getElementById('main').attachShadow({mode: 'open'});
+    root.innerHTML=stuff;
+    root.getElementById('bootstrap').onload = function() {
+        document.getElementById('main').removeAttribute('hidden');
+    }
 </script>
