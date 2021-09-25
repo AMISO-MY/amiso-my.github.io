@@ -5,6 +5,8 @@ permalink: /imo/
 nst: IMONST
 ---
 
+<a href="https://imo-malaysia.org/">Official IMONST website</a>
+
 # Selection Process
 The IMONST is the competition used in Malaysia to shortlist contestants. After two rounds of IMONST, the top 60 contestants will be invited to selection camps and regional olympiads (Asian Pacific Mathematical Olympiad and Tournament of Towns). The top 6 contestants will be selected to the IMO.
 

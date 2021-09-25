@@ -5,6 +5,8 @@ permalink: /iao/
 nst: MyAO
 ---
 
+<a href="https://myao.my">Official MyAO website</a>
+
 # Selection Process
 The top 3+2 contestants will be selected to the IAO.
 

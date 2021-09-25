@@ -4,6 +4,7 @@ title: IESO
 permalink: /ieso/
 nst: MyESO
 ---
+<a href="https://myeso.my">Official MyESO website</a>
 
 # Selection Process
 The top 4 contestants will be selected to the IESO.
