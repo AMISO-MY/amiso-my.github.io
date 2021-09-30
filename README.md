@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The (website)[https://amiso.my] for the Malaysian Alumni in the International Science Olympiads.
+The [website](https://amiso.my) for the Malaysian Alumni in the International Science Olympiads.
 
 ### Built With
 
