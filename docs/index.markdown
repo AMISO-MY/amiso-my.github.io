@@ -6,6 +6,8 @@ layout: home
 title: AMISO
 ---
 
+Malaysian Alumni in the International Science Olympiads
+
 # Register to our newsletter
 Get updates about Olympiad registrations
 <form accept-charset="UTF-8" action="https://script.google.com/macros/s/AKfycbxGQcp8JVv6k0mtTYg49iemtm7YVVnxX-aTiAREzyqjijgkI16KV7xRhgP6p1AI7bcr/exec" method="GET" target='_blank'>
