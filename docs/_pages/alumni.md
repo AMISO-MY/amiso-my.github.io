@@ -4,15 +4,15 @@ title: Alumni
 permalink: /alumni/
 ---
 
-Sign up as an alumnus [here](https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No){:target="\_blank"}.
-
 <div id="main" hidden>
+<h1>Alumni</h1>
+<p>Sign up as an alumnus <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">here</a></p>
 <!-- Icons -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
     <div class="container">
         <div class="row justify-content-center">
             {% for alumni in site.data.alumni %}
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-lg-3 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
                         <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
                         <div class="card-body">

@@ -23,7 +23,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/alumni-collage.jpeg
     alt: "Malaysian Alumni in the International Science Olympiads"
-    title: "Malaysian Alumni in the International Science Olympiads"
+    title: "The Malaysian Alumni"
     excerpt: 'Learn more about the Malaysians who have represented our country in the International Science Olympiads.'
     url: "/alumni"
     btn_label: "Meet the Alumni"
@@ -37,8 +37,6 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
