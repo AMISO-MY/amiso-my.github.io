@@ -4,5 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact us [here](https://docs.google.com/forms/d/1CW5j75ihVzkT8xLg3tS6HgsmXRmrl650UOpYi-29BLM/edit). We will be notified and respond within a few days.
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG5lAyUvsF1HUFB5MyKyZ1FcI2hwloN28t1Ohn-IbfPbagUQ/viewform?embedded=true" width="640" height="920" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
