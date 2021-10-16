@@ -1,5 +1,4 @@
 ---
-layout: page
 title: IAO
 permalink: /iao/
 nst: MyAO

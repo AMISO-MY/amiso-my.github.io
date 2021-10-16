@@ -1,0 +1,9 @@
+main:
+  - title: "Olympiads"
+    url: /Olympiads/
+  - title: "Alumni"
+    url: /alumni/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
