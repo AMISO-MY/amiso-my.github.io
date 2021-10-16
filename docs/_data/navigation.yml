@@ -1,9 +1,11 @@
 main:
   - title: "Olympiads"
-    url: /Olympiads/
+    url: /olympiads/
   - title: "Alumni"
     url: /alumni/
   - title: "About"
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Register"
+    url: /register/
