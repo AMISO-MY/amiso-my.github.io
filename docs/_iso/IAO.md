@@ -1,7 +1,9 @@
 ---
-title: IAO
+title: IAO - MyAO
 permalink: /iao/
-nst: MyAO
+excerpt: "Malaysian Astronomy Olympiad"
+header:
+  teaser: assets/images/myao-600x400.png
 ---
 
 <a href="https://myao.my">Official MyAO website</a>

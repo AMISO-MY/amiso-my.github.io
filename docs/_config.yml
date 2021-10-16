@@ -277,7 +277,16 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _iso
+  - scope:
+      path: ""
+      type: iso
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 collections:
   iso:
     output: true
+    permalink: /:collection/:path/

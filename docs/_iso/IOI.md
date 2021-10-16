@@ -1,8 +1,9 @@
 ---
-layout: page
-title: IOI
+title: IOI - MCC
 permalink: /ioi/
-nst: MCO
+excerpt: "Malaysian Computing Challenge"
+header:
+  teaser: assets/images/mcc-600x400.png
 ---
 
 # Selection Process

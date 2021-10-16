@@ -1,9 +1,12 @@
 ---
-layout: page
-title: IMO
+title: IMO - IMONST
 permalink: /imo/
-nst: IMONST
+excerpt: "International Mathematics Olympiad National Selection Test"
+header:
+  teaser: assets/images/imonst-600x400.png
 ---
+
+
 
 <a href="https://imo-malaysia.org/">Official IMONST website</a>
 

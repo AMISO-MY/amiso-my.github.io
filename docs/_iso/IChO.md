@@ -1,8 +1,9 @@
 ---
-layout: page
-title: IChO
+title: IChO - K3M
 permalink: /icho/
-nst: K3M
+excerpt: "Kuiz Kimia Kebangsaan"
+header:
+  teaser: assets/images/k3m-600x400.png
 ---
 
 <a href="https://ikm.org.my/outreach-programs/kuiz-kimia-kebangsaaan-malaysia-k3m/">Official K3M website</a>

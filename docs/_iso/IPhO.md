@@ -1,9 +1,11 @@
 ---
-layout: page
-title: IPhO
+title: IPhO - OFM
 permalink: /ipho/
-nst: OFM
+excerpt: "Olimpiad Fizik Malaysia"
+header:
+  teaser: assets/images/ofm-600x400.png
 ---
+
 # Selection Process
 The top 5 contestants will be selected to the IMO.
 

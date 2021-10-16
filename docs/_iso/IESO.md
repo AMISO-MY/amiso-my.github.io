@@ -1,9 +1,11 @@
 ---
-layout: page
-title: IESO
+title: IESO - MyESO
 permalink: /ieso/
-nst: MyESO
+excerpt: "Malaysian Earth Science Olympiad"
+header:
+  teaser: assets/images/myeso-600x400.png
 ---
+
 <a href="https://myeso.my">Official MyESO website</a>
 
 # Selection Process
