@@ -14,5 +14,5 @@ We are the Malaysians who have represented the country in the International Scie
 
 To get into the national team for any ISO, you must take part in the National Selection Tests (NST). In Malaysia, each ISO have their own NST and local organiser. You can learn more about these NST [here](/olympiads/).
 
-# Why MAISO?
+# Why AMISO?
 We want to spread awareness about national selection tests in the International Science Olympiads to every Malaysian student regardless of educational background and circumstances. In the long term, we hope that Malaysia becomes a top-performing country in the International Science Olympiads, and in the process, the young Malaysian generation will be inspired in the field of the sciences.

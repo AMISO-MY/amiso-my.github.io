@@ -16,17 +16,17 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-UK"
-title: "MAISO"
+title: "AMISO"
 title_separator: "-"
 subtitle: "International Science Olympiads"
-name: "Malaysian Alumni in the International Science Olympiads"
+name: "Alumni of Malaysia in the International Science Olympiads"
 description: "Alumni and national selection tests for the International Science Olympiads in Malaysia"
 url: ""
 baseurl: ""
 repository: "AMISO-MY/amiso.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "MAISO"
+masthead_title: "AMISO"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
