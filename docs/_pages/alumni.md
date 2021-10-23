@@ -11,7 +11,8 @@ permalink: /alumni/
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
     <div class="container">
         <div class="row justify-content-center">
-            {% for alumni in site.data.alumni %}
+        {% assign sorted = site.data.alumni | sort: 'name'%}
+            {% for alumni in sorted %}
                 <div class="col-12 col-lg-3 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
                         <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
