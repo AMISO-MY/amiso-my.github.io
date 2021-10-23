@@ -8,4 +8,4 @@ header:
 
 [Official MyCLO website](https://myclo.my/)
 
-If you are an IOL alumni, you can help us complete this page by [registering](/alumni) first. Thank you.
+If you are an IOL alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.

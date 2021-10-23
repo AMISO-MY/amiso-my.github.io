@@ -7,4 +7,4 @@ header:
 ---
 [Official Kijang Economics Competition website](https://kijang.my/)
 
-If you are an IChO alumni, you can help us complete this page by [registering](/alumni) first. Thank you.
+If you are an IChO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.

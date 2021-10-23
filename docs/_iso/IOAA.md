@@ -8,4 +8,4 @@ header:
 
 [Official MOAA website](https://moaa.starfinder.org.my/)
 
-If you are an IOAA alumni, you can help us complete this page by [registering](/alumni) first. Thank you.
+If you are an IOAA alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.

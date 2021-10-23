@@ -6,7 +6,7 @@ permalink: /alumni/
 
 <div id="main" hidden>
 <h1>Alumni</h1>
-<p>Sign up as an alumnus <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">here</a></p>
+<p>If you are an alumnus, please join us by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">this form</a>.</p>
 <!-- Icons -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
     <div class="container">
