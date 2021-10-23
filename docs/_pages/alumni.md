@@ -13,11 +13,11 @@ permalink: /alumni/
         <div class="row justify-content-center">
         {% assign sorted = site.data.alumni | sort: 'name'%}
             {% for alumni in sorted %}
-                <div class="col-12 col-lg-3 col-md-6">
+                <div class="col-12 col-lg-4 col-xl-3 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
                         <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
                         <div class="card-body">
-                            <h3 class="card-title">{{ alumni.name }}</h3>
+                            <h5 class="card-title">{{ alumni.name }}</h5>
                             <div class="mb-1 d-flex justify-content-between">
                                 <div class="d-inline-block">
                                     {% for iso in alumni.iso %}
