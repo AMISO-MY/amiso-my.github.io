@@ -6,7 +6,7 @@ header:
   teaser: assets/images/myao-600x400.png
 ---
 
-<a href="https://myao.my">Official MyAO website</a>
+[Official MyAO website](https://myao.my)
 
 # Selection Process
 The top 3+2 contestants will be selected to the IAO.

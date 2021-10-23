@@ -5,4 +5,7 @@ excerpt: "Malaysian Computational Linguistics Olympiad"
 header:
   teaser: assets/images/myclo-600x400.png
 ---
-<a href="https://myclo.my/">Official MyCLO website</a>
+
+[Official MyCLO website](https://myclo.my/)
+
+If you are an IOL alumni, you can help us complete this page by [registering](/alumni) first. Thank you.

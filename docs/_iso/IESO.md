@@ -6,7 +6,7 @@ header:
   teaser: assets/images/myeso-600x400.png
 ---
 
-<a href="https://myeso.my">Official MyESO website</a>
+[Official MyESO website](https://myeso.my)
 
 # Selection Process
 The top 4 contestants will be selected to the IESO.
