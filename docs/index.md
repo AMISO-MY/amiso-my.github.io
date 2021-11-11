@@ -30,7 +30,7 @@ feature_row3:
     btn_class: "btn--success"
 feature_row4:
   - title: "Get notified"
-    excerpt: 'We will keep you updated with registration, training materials, result announcements and more Olympiad news.'
+    excerpt: 'We will keep you updated with Olympiad registration, training materials, result announcements and more Olympiad news.'
     url: "/register/"
     btn_label: "Register now"
     btn_class: "btn--primary"
