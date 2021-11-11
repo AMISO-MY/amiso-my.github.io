@@ -13,19 +13,6 @@
     "website": "https://chojeq.com"
   },
   {
-    "name": "Vee Hua Zhi",
-    "iso": ["IMO", "IOL", "IOI"],
-    "workplace": "Tsun Jin High School",
-    "job": "SPM",
-    "img": "https://cdn.discordapp.com/attachments/852108613069176863/890501481474719774/Vee_Hua_Zhi_square_-_Hua_Zhi_Vee.jpg",
-    "linkedin": "",
-    "github": "",
-    "discord": "",
-    "facebook": "https://facebook.com/veehz/",
-    "instagram": "",
-    "website": ""
-  },
-  {
     "name": "Amos Tan",
     "iso": ["IOI"],
     "workplace": "University of Malaya",
@@ -49,32 +36,6 @@
     "discord": "折人#6510",
     "facebook": "https://www.facebook.com/jerrenwong1129",
     "instagram": "https://www.instagram.com/jerrenwong/",
-    "website": ""
-  },
-  {
-    "name": "Arif Ismail bin Ruslan",
-    "iso": ["IESO"],
-    "workplace": "Kolej MARA Banting ",
-    "job": "International Baccalaureate (IB)",
-    "img": "https://cdn.discordapp.com/attachments/852108613069176863/892727880038105138/photo_2021-09-26_23.50.10_-_ARIF_ISMAIL_BIN_RUSLAN.jpeg",
-    "linkedin": "",
-    "github": "",
-    "discord": "ayepisme#3887",
-    "facebook": "https://www.facebook.com/arifismail.ruslan",
-    "instagram": "https://www.instagram.com/reef_envole_/",
-    "website": ""
-  },
-  {
-    "name": "Ooi Chun Keat",
-    "iso": ["IESO"],
-    "workplace": "Universiti Putra Malaysia",
-    "job": "Veterinary Medicine",
-    "img": "https://cdn.discordapp.com/attachments/852108613069176863/892727991900188712/Chun_Keat_-_Ooi_Chun_Keat.jpg",
-    "linkedin": "https://www.linkedin.com/in/ooichunkeat/",
-    "github": "",
-    "discord": "Kitty Keat#6277",
-    "facebook": "https://www.facebook.com/ooi.chun.keat.1234/",
-    "instagram": "https://www.instagram.com/kittykeatt/",
     "website": ""
   },
   {
@@ -117,19 +78,6 @@
     "website": ""
   },
   {
-    "name": "Lee Zong Yu",
-    "iso": ["EuPhO*"],
-    "workplace": "Nanyang Technological University",
-    "job": "Y2 Computer Science Undergraduate",
-    "img": "https://cdn.discordapp.com/attachments/894746899754680320/901343299472855040/LEE_ZONG_YU_s_Photo_-_Zong_Yu_Lee.jpg",
-    "linkedin": "https://www.linkedin.com/in/lee-zong-yu6878/",
-    "github": "https://github.com/marvenlee2486",
-    "discord": "",
-    "facebook": "",
-    "instagram": "",
-    "website": ""
-  },
-  {
     "name": "Kenneth Yong",
     "iso": ["IOI"],
     "workplace": "Hong Kong University of Science and Technology",
@@ -166,7 +114,59 @@
     "discord": "kwongweng#1930",
     "facebook": "",
     "instagram": "",
-    "website": "https://codeforces.com/profile/Nelson_loh (codeforces)"
+    "website": "https://codeforces.com/profile/Nelson_loh"
+  },
+  {
+    "name": "Vee Hua Zhi",
+    "iso": ["IMO", "IOL", "IOI"],
+    "workplace": "Tsun Jin High School",
+    "job": "SPM",
+    "img": "https://cdn.discordapp.com/attachments/852108613069176863/890501481474719774/Vee_Hua_Zhi_square_-_Hua_Zhi_Vee.jpg",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "https://facebook.com/veehz/",
+    "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Arif Ismail bin Ruslan",
+    "iso": ["IESO"],
+    "workplace": "Kolej MARA Banting ",
+    "job": "International Baccalaureate (IB)",
+    "img": "https://cdn.discordapp.com/attachments/852108613069176863/892727880038105138/photo_2021-09-26_23.50.10_-_ARIF_ISMAIL_BIN_RUSLAN.jpeg",
+    "linkedin": "",
+    "github": "",
+    "discord": "ayepisme#3887",
+    "facebook": "https://www.facebook.com/arifismail.ruslan",
+    "instagram": "https://www.instagram.com/reef_envole_/",
+    "website": ""
+  },
+  {
+    "name": "Ooi Chun Keat",
+    "iso": ["IESO"],
+    "workplace": "Universiti Putra Malaysia",
+    "job": "Veterinary Medicine",
+    "img": "https://cdn.discordapp.com/attachments/852108613069176863/892727991900188712/Chun_Keat_-_Ooi_Chun_Keat.jpg",
+    "linkedin": "https://www.linkedin.com/in/ooichunkeat/",
+    "github": "",
+    "discord": "Kitty Keat#6277",
+    "facebook": "https://www.facebook.com/ooi.chun.keat.1234/",
+    "instagram": "https://www.instagram.com/kittykeatt/",
+    "website": ""
+  },
+  {
+    "name": "Lee Zong Yu",
+    "iso": ["EuPhO"],
+    "workplace": "Nanyang Technological University",
+    "job": "Y2 Computer Science Undergraduate",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/901343299472855040/LEE_ZONG_YU_s_Photo_-_Zong_Yu_Lee.jpg",
+    "linkedin": "https://www.linkedin.com/in/lee-zong-yu6878/",
+    "github": "https://github.com/marvenlee2486",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": ""
   },
   {
     "name": "Jun Xing Go",
