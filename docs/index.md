@@ -21,7 +21,7 @@ feature_row2:
     btn_label: "Join an Olympiad"
     btn_class: "btn--success"
 feature_row3:
-  - image_path: /assets/images/alumni-collage.jpeg
+  - image_path: /assets/images/alumni-collage.png
     alt: "Alumni of Malaysia in the International Science Olympiads"
     title: "The Malaysian Alumni"
     excerpt: 'Learn more about the Malaysians who have represented our country in the International Science Olympiads.'
