@@ -31,8 +31,8 @@ feature_row3:
 feature_row4:
   - title: "Get notified"
     excerpt: 'We will keep you updated with Olympiad registration, training materials, result announcements and more Olympiad news.'
-    url: "/register/"
-    btn_label: "Register now"
+    url: "/subscribe/"
+    btn_label: "Subscribe now"
     btn_class: "btn--primary"
 ---
 
