@@ -6,6 +6,8 @@ header:
   teaser: assets/images/mcc-600x400.png
 ---
 
+Malaysian Computing Challenge
+
 [Official MCC website](https://ioimalaysia.org/)
 
 # Selection Process
