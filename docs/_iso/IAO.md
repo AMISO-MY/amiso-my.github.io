@@ -6,6 +6,8 @@ header:
   teaser: assets/images/myao-600x400.png
 ---
 
+Malaysian Astronomy Olympiad
+
 [Official MyAO website](https://myao.my)
 
 # Selection Process

@@ -7,5 +7,5 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Register"
-    url: /register/
+  - title: "Subscribe"
+    url: /subscribe/

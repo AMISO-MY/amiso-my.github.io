@@ -80,6 +80,7 @@ permalink: /alumni/
             {% endfor %}
         </div>
     </div>
+    <p class="fst-italic">* national team member, but cannot represent due to special circumstances.</p>
 </div>
 
 <script>
