@@ -29,12 +29,12 @@ There are 3 rounds.
 - Practical round
 
 # Eligibility
-Alpha:
+Alpha: (3 students)
 
 Only the first time participating in IAOs students and
 not older than 15.00 years on January 1st of the year of the Olympiad. The last Form educating student cannot participate in the junior group.
 
-Beta:
+Beta: (2 students)
 
 - For the first time participating in IAOs the participants should be: not older than 18.00 years on January 1st of the year of the Olympiad
 - For the second time participating in IAOs the participants should be: not older than 17.00 years on January 1st of the year of the Olympiad
