@@ -1,18 +1,5 @@
 [
   {
-    "name": "Chooi Je Qin",
-    "iso": ["IESO", "IAO", "IOI"],
-    "workplace": "Kolej Tuanku Ja'afar",
-    "job": "A Levels",
-    "img": "https://cdn.discordapp.com/attachments/826690030084423740/889034989411385384/image0.jpg",
-    "linkedin": "",
-    "github": "",
-    "discord": "",
-    "facebook": "",
-    "instagram": "",
-    "website": "https://chojeq.com"
-  },
-  {
     "name": "Amos Tan",
     "iso": ["IOI"],
     "workplace": "University of Malaya",
@@ -117,6 +104,32 @@
     "website": "https://codeforces.com/profile/Nelson_loh"
   },
   {
+    "name": "Law Bik Li",
+    "iso": ["IEO"],
+    "workplace": "Kolej Tuanku Ja'afar ",
+    "job": "A Levels",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/909972670311981076/20211114_115938_-_Law_Bik_Li_Cropped.jpg",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Chooi Je Qin",
+    "iso": ["IESO", "IAO", "IOI", "IOAA"],
+    "workplace": "Kolej Tuanku Ja'afar",
+    "job": "A Levels",
+    "img": "https://cdn.discordapp.com/attachments/826690030084423740/889034989411385384/image0.jpg",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "https://chojeq.com"
+  },
+  {
     "name": "Vee Hua Zhi",
     "iso": ["IMO", "IOL", "IOI"],
     "workplace": "Tsun Jin High School",
@@ -195,16 +208,42 @@
     "website": ""
   },
   {
-    "name": "Law Bik Li",
-    "iso": ["IEO"],
-    "workplace": "Kolej Tuanku Ja'afar ",
-    "job": "A Levels",
-    "img": "https://cdn.discordapp.com/attachments/894746899754680320/909972670311981076/20211114_115938_-_Law_Bik_Li_Cropped.jpg",
+    "name": "Moey Sean Jean",
+    "iso": ["IOAA"],
+    "workplace": "Kuen Cheng High School",
+    "job": "UEC",
+    "img": "https://drive.google.com/open?id=18NwhwkfLlOq8PlsIftLkMvHVMr16i23g",
     "linkedin": "",
     "github": "",
     "discord": "",
     "facebook": "",
     "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Chin Jia Yao",
+    "iso": ["IJSO", "IOAA"],
+    "workplace": "Chong Hwa Independent High School",
+    "job": "SPM",
+    "img": "https://drive.google.com/open?id=1cl9KfbQrESGRaMGqrFnbqQW5ezU3RhqP",
+    "linkedin": "",
+    "github": "",
+    "discord": "whythofam#3443",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/jiayaooops/",
+    "website": ""
+  },
+  {
+    "name": "Hera Tan Khai Loon",
+    "iso": ["IAO", "IOAA"],
+    "workplace": "Amoson Aesthetic Clinique",
+    "job": "Consultant & Assistant of Micro Cosmetic Surgery ",
+    "img": "https://drive.google.com/open?id=1uFsPMIwPLqMX7WqBrGBSVDBUa-fvh6dJ",
+    "linkedin": "",
+    "github": "",
+    "discord": "Hera#6052",
+    "facebook": "",
+    "instagram": "https://instagram.com/its.hera.official?utm_medium=copy_link",
     "website": ""
   }
 ]
