@@ -1,31 +1,5 @@
 [
   {
-    "name": "Amos Tan",
-    "iso": ["IOI"],
-    "workplace": "University of Malaya",
-    "job": "Computer Science",
-    "img": "https://cdn.discordapp.com/attachments/852108613069176863/891196618676797450/Amos_-_Amos_Li_Sheng_Tan.jpg",
-    "linkedin": "https://www.linkedin.com/in/amostanls/",
-    "github": "",
-    "discord": "",
-    "facebook": "",
-    "instagram": "",
-    "website": ""
-  },
-  {
-    "name": "Wong Jer Ren",
-    "iso": ["IMO", "IOL"],
-    "workplace": "SMJK Chung Ling Butterworth ",
-    "job": "SPM",
-    "img": "https://cdn.discordapp.com/attachments/852108613069176863/891275806993690634/Screenshot_268_-_Jer_Ren_Wong.png",
-    "linkedin": "",
-    "github": "",
-    "discord": "折人#6510",
-    "facebook": "https://www.facebook.com/jerrenwong1129",
-    "instagram": "https://www.instagram.com/jerrenwong/",
-    "website": ""
-  },
-  {
     "name": "Natania Low ",
     "iso": ["IESO"],
     "workplace": "Kolej Yayasan UEM ",
@@ -114,6 +88,58 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Moey Sean Jean",
+    "iso": ["IOAA"],
+    "workplace": "Kuen Cheng High School",
+    "job": "UEC",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/912674009194319872/Moey_Sean_Jean_-_Sean_Jean_Moey.JPG",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Chin Jia Yao",
+    "iso": ["IJSO", "IOAA"],
+    "workplace": "Chong Hwa Independent High School",
+    "job": "SPM",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/912674016836325376/ChinJiaYao_-_Jiayaoo.jpeg",
+    "linkedin": "",
+    "github": "",
+    "discord": "whythofam#3443",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/jiayaooops/",
+    "website": ""
+  },
+  {
+    "name": "Amos Tan",
+    "iso": ["IOI"],
+    "workplace": "University of Malaya",
+    "job": "Computer Science",
+    "img": "https://cdn.discordapp.com/attachments/852108613069176863/891196618676797450/Amos_-_Amos_Li_Sheng_Tan.jpg",
+    "linkedin": "https://www.linkedin.com/in/amostanls/",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": ""
+  },
+  {
+    "name": "Wong Jer Ren",
+    "iso": ["IMO", "IOL"],
+    "workplace": "SMJK Chung Ling Butterworth ",
+    "job": "SPM",
+    "img": "https://cdn.discordapp.com/attachments/852108613069176863/891275806993690634/Screenshot_268_-_Jer_Ren_Wong.png",
+    "linkedin": "",
+    "github": "",
+    "discord": "折人#6510",
+    "facebook": "https://www.facebook.com/jerrenwong1129",
+    "instagram": "https://www.instagram.com/jerrenwong/",
     "website": ""
   },
   {
@@ -208,32 +234,6 @@
     "website": ""
   },
   {
-    "name": "Moey Sean Jean",
-    "iso": ["IOAA"],
-    "workplace": "Kuen Cheng High School",
-    "job": "UEC",
-    "img": "https://cdn.discordapp.com/attachments/894746899754680320/912674009194319872/Moey_Sean_Jean_-_Sean_Jean_Moey.JPG",
-    "linkedin": "",
-    "github": "",
-    "discord": "",
-    "facebook": "",
-    "instagram": "",
-    "website": ""
-  },
-  {
-    "name": "Chin Jia Yao",
-    "iso": ["IJSO", "IOAA"],
-    "workplace": "Chong Hwa Independent High School",
-    "job": "SPM",
-    "img": "https://cdn.discordapp.com/attachments/894746899754680320/912674016836325376/ChinJiaYao_-_Jiayaoo.jpeg",
-    "linkedin": "",
-    "github": "",
-    "discord": "whythofam#3443",
-    "facebook": "",
-    "instagram": "https://www.instagram.com/jiayaooops/",
-    "website": ""
-  },
-  {
     "name": "Hera Tan Khai Loon",
     "iso": ["IAO", "IOAA"],
     "workplace": "Amoson Aesthetic Clinique",
@@ -244,6 +244,19 @@
     "discord": "Hera#6052",
     "facebook": "",
     "instagram": "https://instagram.com/its.hera.official?utm_medium=copy_link",
+    "website": ""
+  },
+  {
+    "name": "Khoo Yun Meng",
+    "iso": ["IAO", "IESO"],
+    "workplace": "",
+    "job": "",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/921400384440897566/Face-Khoo.jpg_Cropped_-_YM_Khoo.jpg",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
     "website": ""
   }
 ]
