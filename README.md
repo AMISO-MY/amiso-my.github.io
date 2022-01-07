@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The [website](https://maiso.my) for the Malaysian Alumni in the International Science Olympiads.
+The [website](https://amiso.my) for the Malaysian Alumni in the International Science Olympiads.
 
 ### Built With
 
@@ -73,4 +73,4 @@ Project Link: [https://github.com/AMISO-MY/amiso-my.github.io](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-We are always on the look out for sponsors. Please [contact us](https://maiso.my/contact).
+We are always on the look out for sponsors. Please [contact us](https://amiso.my/contact).
