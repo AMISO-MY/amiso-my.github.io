@@ -71,9 +71,9 @@ permalink: /alumni/
                             </div>
                             <p class="card-text">
                                 {{ alumni.workplace }}
-                                {% if alumni.workplace != '' and alumni.job != ''%}
+                                <!-- {% if alumni.workplace != '' and alumni.job != ''%} -->
                                 -
-                                {% endif %}
+                                <!-- {% endif %} -->
                                 {{ alumni.job}}
                             </p>
                         </div>
