@@ -43,3 +43,5 @@ There is no minimum age / grade restriction for participation in IOAA.
 [USAAAO resources](https://usaaao.org/resources/)
 
 [Malaysian IAO Training Program](https://docs.google.com/spreadsheets/d/1y1zZf3DQfJR34-ISxy-40IAgm_AuVGO9927W3-DeFTk/edit?usp=sharing)
+
+[IAO for People in a Hurry](https://chojeq.com/iao)
