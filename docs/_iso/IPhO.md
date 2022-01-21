@@ -7,6 +7,7 @@ header:
 ---
 
 Olimpiad Fizik Malaysia
+[Official OFM website](http://www.ukm.my/ipho/)
 
 # Selection Process
 
@@ -37,8 +38,8 @@ The contestants shall be students of general or technical secondary schools i.e.
 
 # Learning Materials
 
-[IphO Syllabus](https://www.ipho2021.lt/uplfiles/2015-12-06%20%20Syllabus%20of%20IPhO_1.pdf){: target="_blank" rel="noopener"}
+[IPhO Syllabus](https://www.ipho2021.lt/uplfiles/2015-12-06%20%20Syllabus%20of%20IPhO_1.pdf){: target="_blank" rel="noopener"}
 
-https://www.ioc.ee/~kalda/ipho/
+<https://www.ioc.ee/~kalda/ipho/>
 
 &nbsp;
