@@ -88,8 +88,8 @@ og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
+  type: Organization
+  name: "Association of the Malaysian Alumni of the International Science Olympiads"
   links: # An array of links to social media profiles
 
 # Analytics
