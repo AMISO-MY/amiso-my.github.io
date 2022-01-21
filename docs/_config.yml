@@ -17,10 +17,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-UK"
-title: "Alumni of Malaysia in the International Science Olympiads"
+title: "Malaysian Alumni of the International Science Olympiads"
 title_separator: "-"
 subtitle: "International Science Olympiads"
-name: "Alumni of Malaysia in the International Science Olympiads"
+name: "Malaysian Alumni of the International Science Olympiads"
 description: "Alumni and national selection tests for the International Science Olympiads in Malaysia"
 url: "https://amiso.my"
 baseurl: ""
