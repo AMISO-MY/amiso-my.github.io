@@ -80,17 +80,18 @@ naver_site_verification:
 twitter:
   username:
 facebook:
-  username:
+  username: amiso.malaysia
   app_id:
   publisher:
-og_image: # Open Graph/Twitter default site image
+og_image: assets/images/amiso.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type: Organization
   name: "Association of the Malaysian Alumni of the International Science Olympiads"
-  links: # An array of links to social media profiles
-
+  links:
+    - "https://www.facebook.com/amiso.malaysia/"
+    - "https://www.instagram.com/amiso.my/"
 # Analytics
 analytics:
   provider: "google"
@@ -133,7 +134,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/amiso.malaysia/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -145,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/amiso.my/"
 
 # Reading Files
 include:
