@@ -6,8 +6,10 @@ header:
   teaser: assets/images/ofm-600x400.png
 ---
 
-Olimpiad Fizik Malaysia
+Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
+
 [Official OFM website](http://www.ukm.my/ipho/)
+[Official IPhO website](https://www.ipho-new.org/)
 
 # Selection Process
 
@@ -26,7 +28,7 @@ Each national delegation is made up of at most five student competitors plus two
 
 # Format
 
-The competition consists of two examination which are theoretical examination and practical examination.*​​​​​​*
+The competition consists of two examination which are theoretical examination and practical examination.
 
 The theoretical examination lasts 5 hours and consists of three questions. Usually these questions involve more than one part.
 

@@ -6,9 +6,10 @@ header:
   teaser: assets/images/myclo-600x400.png
 ---
 
-Malaysian Computational Linguistics Olympiad
+Selection for IOL is through Malaysian Computational Linguistics Olympiad.
 
 [Official MyCLO website](https://myclo.my/)
+[Official IOL website](https://ioling.org/)
 
 # Selection Process
 

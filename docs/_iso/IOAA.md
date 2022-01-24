@@ -6,9 +6,10 @@ header:
   teaser: assets/images/moaa-600x400.png
 ---
 
-Malaysian Olympiad in Astronomy and Astrophysics
+Selection for IOAA is through Malaysian Olympiad in Astronomy and Astrophysics.
 
 [Official MOAA website](https://moaa.starfinder.org.my/)
+[Official IOAA website](https://www.ioaastrophysics.org/)
 
 # Selection Process
 The top 5 contestants will be selected to the IOAA.

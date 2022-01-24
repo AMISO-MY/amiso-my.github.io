@@ -6,9 +6,10 @@ header:
   teaser: assets/images/myao-600x400.png
 ---
 
-Malaysian Astronomy Olympiad
+Selection for IAO is through Malaysian Astronomy Olympiad.
 
 [Official MyAO website](https://myao.my)
+[Official IAO website](http://www.issp.ac.ru/iao/)
 
 # Selection Process
 The top 3+2 contestants will be selected to the IAO.
