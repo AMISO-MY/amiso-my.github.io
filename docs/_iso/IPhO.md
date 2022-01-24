@@ -28,7 +28,7 @@ Each national delegation is made up of at most five student competitors plus two
 
 # Format
 
-The competition consists of two examination which are theoretical examination and practical examination.*​​​​​​*
+The competition consists of two examination which are theoretical examination and practical examination.
 
 The theoretical examination lasts 5 hours and consists of three questions. Usually these questions involve more than one part.
 
