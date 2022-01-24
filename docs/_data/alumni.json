@@ -10,7 +10,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Ian George Taye Cheng Ean",
@@ -23,7 +25,9 @@
     "discord": "Taye#6670",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Baneen Natasya Fairul",
@@ -36,7 +40,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Kenneth Yong",
@@ -49,7 +55,9 @@
     "discord": "Rabbitsthecat#8494",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Yashwanth Naidu",
@@ -62,7 +70,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "https://www.instagram.com/yashnaidu69/",
-    "website": ""
+    "website": "",
+    "tuition": "Yes",
+    "email": ""
   },
   {
     "name": "Loh Kwong Weng",
@@ -75,7 +85,9 @@
     "discord": "kwongweng#1930",
     "facebook": "",
     "instagram": "",
-    "website": "https://codeforces.com/profile/Nelson_loh"
+    "website": "https://codeforces.com/profile/Nelson_loh",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Law Bik Li",
@@ -88,7 +100,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Moey Sean Jean",
@@ -101,7 +115,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Chin Jia Yao",
@@ -114,7 +130,9 @@
     "discord": "whythofam#3443",
     "facebook": "",
     "instagram": "https://www.instagram.com/jiayaooops/",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Amos Tan",
@@ -127,7 +145,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Wong Jer Ren",
@@ -140,7 +160,9 @@
     "discord": "折人#6510",
     "facebook": "https://www.facebook.com/jerrenwong1129",
     "instagram": "https://www.instagram.com/jerrenwong/",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Chooi Je Qin",
@@ -153,7 +175,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": "https://chojeq.com"
+    "website": "https://chojeq.com",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Vee Hua Zhi",
@@ -166,7 +190,9 @@
     "discord": "",
     "facebook": "https://facebook.com/veehz/",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Arif Ismail bin Ruslan",
@@ -179,7 +205,9 @@
     "discord": "ayepisme#3887",
     "facebook": "https://www.facebook.com/arifismail.ruslan",
     "instagram": "https://www.instagram.com/reef_envole_/",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Ooi Chun Keat",
@@ -192,7 +220,9 @@
     "discord": "Kitty Keat#6277",
     "facebook": "https://www.facebook.com/ooi.chun.keat.1234/",
     "instagram": "https://www.instagram.com/kittykeatt/",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Lee Zong Yu",
@@ -205,7 +235,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Go Jun Xing",
@@ -218,7 +250,9 @@
     "discord": "Evirir#5662",
     "facebook": "",
     "instagram": "",
-    "website": "https://codeforces.com/profile/Evirir"
+    "website": "https://codeforces.com/profile/Evirir",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Ong Cheng Yiin",
@@ -231,20 +265,24 @@
     "discord": "Keith50#4121",
     "facebook": "https://m.facebook.com/chengyiin.ong",
     "instagram": "https://www.instagram.com/cheng_yiin_2304/",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "Hera Tan Khai Loon",
     "iso": ["IAO", "IOAA"],
     "workplace": "Amoson Aesthetic Clinique",
     "job": "Consultant & Assistant of Micro Cosmetic Surgery ",
-    "img": "https://cdn.discordapp.com/attachments/894746899754680320/912674036553744384/BB23897C-33E1-4379-8202-13922925EAF8_-_Hera_Tan_Cropped.jpg",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/934829790555418694/fb42faed-0c23-455e-a0c2-347438dc2b56.jpg",
     "linkedin": "",
     "github": "",
     "discord": "Hera#6052",
     "facebook": "",
     "instagram": "https://instagram.com/its.hera.official?utm_medium=copy_link",
-    "website": ""
+    "website": "",
+    "tuition": "Yes",
+    "email": "hera.the.dreamer@gmail.com"
   },
   {
     "name": "Khoo Yun Meng",
@@ -257,7 +295,9 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": ""
+    "website": "",
+    "tuition": "No",
+    "email": "khooym898@gmail.com"
   },
   {
     "name": "Mohd Ilyas Adam Bin Salahuddin",
@@ -270,7 +310,9 @@
     "discord": "Mâge#9416",
     "facebook": "",
     "instagram": "",
-    "website": "https://mahfaa.org"
+    "website": "https://mahfaa.org",
+    "tuition": "No",
+    "email": ""
   },
   {
     "name": "LAI JIAN HOU",
@@ -283,6 +325,38 @@
     "discord": "Lai Jian Hou#0013",
     "facebook": "https://www.facebook.com/profile.php?id=100007617701178",
     "instagram": "https://www.instagram.com/laijianhou1022/",
-    "website": "https://www.facebook.com/physicscoffeetalk"
+    "website": "https://www.facebook.com/physicscoffeetalk",
+    "tuition": "Yes",
+    "email": "laijianhou1122@gmail.com"
+  },
+  {
+    "name": "Yeoh Chin Vern",
+    "iso": ["IPhO"],
+    "workplace": "Monash University Malaysia",
+    "job": "PhD (Mechanical Engineering)",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/934827704732246046/AMISO_Yeoh_Chin_Vern_-_Chin_Vern_Yeoh.png",
+    "linkedin": "https://www.linkedin.com/in/chin-vern-yeoh-a1995186/",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "https://orcid.org/0000-0002-3145-0640",
+    "tuition": "No",
+    "email": ""
+  },
+  {
+    "name": "Tristan Chaang",
+    "iso": ["IMO"],
+    "workplace": "Sunway College",
+    "job": "A Levels",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/934827792804229180/Photo_2_Cropped_-_Tristan_Chaang.jpg",
+    "linkedin": "",
+    "github": "https://github.com/tristanchaang",
+    "discord": "Tristanchaang#9400",
+    "facebook": "https://www.facebook.com/chaangtristan",
+    "instagram": "https://www.instagram.com/tristan_chaang/",
+    "website": "",
+    "tuition": "Yes",
+    "email": "tristan.chaang@gmail.com"
   }
 ]

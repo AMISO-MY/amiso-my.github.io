@@ -23,6 +23,9 @@ permalink: /alumni/
                                     {% for iso in alumni.iso %}
                                         <span class="badge bg-secondary rounded-pill">{{ iso }}</span>
                                     {% endfor %}
+                                    {% if alumni.tuition == 'Yes' %}
+                                        <span class="badge bg-dark rounded-pill">Offers tuition</span>
+                                    {% endif %}
                                 </div>
                                 <div class="d-inline-block">
                                     {% if alumni.linkedin != '' %}
@@ -64,6 +67,13 @@ permalink: /alumni/
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.website}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-globe"></i>
+                                            </a>
+                                        </span>
+                                    {% endif %}
+                                    {% if alumni.email != '' %}
+                                        <span>
+                                            <a class="text-reset text-decoration-none" href="mailto:{{alumni.email}}" rel="noreferrer" target="_blank">
+                                                <i class="bi bi-envelope-fill"></i>
                                             </a>
                                         </span>
                                     {% endif %}

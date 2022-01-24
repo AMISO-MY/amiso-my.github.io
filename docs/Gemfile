@@ -15,6 +15,7 @@ source "https://rubygems.org"
 gem "github-pages", "~> 219", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
+gem "jekyll-remote-theme"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
