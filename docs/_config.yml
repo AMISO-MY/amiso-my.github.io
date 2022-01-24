@@ -83,7 +83,7 @@ facebook:
   username: amiso.malaysia
   app_id:
   publisher:
-og_image: assets/images/amiso.png
+og_image: "assets/images/amiso.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

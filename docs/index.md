@@ -5,6 +5,7 @@ permalink:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  og_image: "assets/images/amiso.png"
   overlay_image: /assets/images/home-gradient.png
   actions:
     - label: "Join an Olympiad"
