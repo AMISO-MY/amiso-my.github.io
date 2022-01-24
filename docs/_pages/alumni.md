@@ -24,7 +24,7 @@ permalink: /alumni/
                                         <span class="badge bg-secondary rounded-pill">{{ iso }}</span>
                                     {% endfor %}
                                     {% if alumni.tuition == 'Yes' %}
-                                        <span class="badge bg-primary rounded-pill">Offers tuition</span>
+                                        <span class="badge bg-dark rounded-pill">Offers tuition</span>
                                     {% endif %}
                                 </div>
                                 <div class="d-inline-block">
