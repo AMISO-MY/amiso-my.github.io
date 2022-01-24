@@ -6,8 +6,10 @@ header:
   teaser: assets/images/ofm-600x400.png
 ---
 
-Olimpiad Fizik Malaysia
+Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
+
 [Official OFM website](http://www.ukm.my/ipho/)
+[Official IPhO website](https://www.ipho-new.org/)
 
 # Selection Process
 

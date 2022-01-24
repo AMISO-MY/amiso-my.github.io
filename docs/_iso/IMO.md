@@ -6,9 +6,10 @@ header:
   teaser: assets/images/imonst-600x400.png
 ---
 
-International Mathematics Olympiad National Selection Test
+Selection for IMO is through International Mathematics Olympiad National Selection Test.
 
 [Official IMONST website](https://imo-malaysia.org/)
+[Official IMO website](https://www.imo-official.org/)
 
 # Selection Process
 

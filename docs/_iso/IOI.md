@@ -6,9 +6,10 @@ header:
   teaser: assets/images/mcc-600x400.png
 ---
 
-Malaysian Computing Challenge
+Selection for IOI is through Malaysian Computing Challenge.
 
 [Official MCC website](https://ioimalaysia.org/)
+[Official IOI website](https://ioinformatics.org/)
 
 # Selection Process
 The MCC, MCO and APIO are the competitions used in Malaysia to shortlist contestants. The top 4 contestants will be selected to the IOI.

@@ -6,9 +6,10 @@ header:
   teaser: assets/images/myeso-600x400.png
 ---
 
-Malaysian Earth Science Olympiad
+Selection for IESO is through Malaysian Earth Science Olympiad.
 
 [Official MyESO website](https://myeso.my)
+[Official IESO website](https://www.ieso-info.org/)
 
 # Selection Process
 The top 4 contestants will be selected to the IESO.
