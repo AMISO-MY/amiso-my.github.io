@@ -31,7 +31,7 @@ The competition consists of two examinations which are the theoretical examinati
 
 The theoretical examination lasts 5 hours and consists of three questions. Usually these questions involve more than one part.
 
-The practical examination may consist of one (or two) laboratory examinations which also lasts for 5 hours.
+The practical examination may consist of one or two laboratory examinations, which also lasts for a total of 5 hours.
 
 # Eligibility
 
