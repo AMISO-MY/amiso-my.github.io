@@ -1,4 +1,6 @@
 main:
+  - title: "News"
+    url: /news/
   - title: "Olympiads"
     url: /olympiads/
   - title: "Alumni"
