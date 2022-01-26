@@ -8,16 +8,15 @@ header:
 
 Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
 
-[Official OFM website](http://www.ukm.my/ipho/)
-[Official IPhO website](https://www.ipho-new.org/)
+[Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)
 
 # Selection Process
 
-The top 5 contestants will be selected to the IPhO.
+The top 5 contestants will be selected to represent Malaysia at the IPhO.
 
 1. National Physics Competition (September)
 2. Bengkel Olimpiad Fizik Kebangsaan (April)
-3. National team trainig (May)
+3. National team training (May)
 4. IPhO (July)
 
 # Introduction
@@ -28,11 +27,11 @@ Each national delegation is made up of at most five student competitors plus two
 
 # Format
 
-The competition consists of two examination which are theoretical examination and practical examination.
+The competition consists of two examinations which are the theoretical examination and the practical examination.
 
 The theoretical examination lasts 5 hours and consists of three questions. Usually these questions involve more than one part.
 
-The practical examination may consist of one (or two) laboratory examination of five hours which lasts for 5 hours.
+The practical examination may consist of one or two laboratory examinations, which also lasts for a total of 5 hours.
 
 # Eligibility
 
@@ -45,6 +44,6 @@ The contestants shall be students of general or technical secondary schools i.e.
 
 [IPhO Syllabus](https://www.ipho2021.lt/uplfiles/2015-12-06%20%20Syllabus%20of%20IPhO_1.pdf){: target="_blank" rel="noopener"}
 
-<https://www.ioc.ee/~kalda/ipho/>
+[https://www.ioc.ee/~kalda/ipho/](https://www.ioc.ee/~kalda/ipho/)
 
-Fundamentals of Physics (Halliday, Resnick, Walker)
+Fundamentals of Physics (Halliday, Resnick, and Walker)
