@@ -38,6 +38,9 @@ The practical examination may consist of one (or two) laboratory examination of 
 
 The contestants shall be students of general or technical secondary schools i.e. schools which cannot be considered technical colleges. Students who have finished their school examinations in the year of the competition can be members of the team as long as they have not commenced their university studies. The age of the contestants should not exceed twenty years on June 30th of the year of the competition.
 
+# Malaysia in IPhO
+[Results](http://www.ukm.my/ipho/participate.htm)
+
 # Learning Materials
 
 [IPhO Syllabus](https://www.ipho2021.lt/uplfiles/2015-12-06%20%20Syllabus%20of%20IPhO_1.pdf){: target="_blank" rel="noopener"}
