@@ -358,5 +358,50 @@
     "website": "",
     "tuition": "Yes",
     "email": "tristan.chaang@gmail.com"
+  },
+  {
+    "name": "Daniel Toong Khong Ang",
+    "iso": ["IPhO"],
+    "workplace": "University of Wisconsin-Madison",
+    "job": "BSc Chemical Engineering",
+    "img": "",
+    "linkedin": "https://www.linkedin.com/in/daniel-khong-ang-toong-a073b6227/",
+    "github": "https://github.com/DanielToong",
+    "discord": "dtka_asdf#9458",
+    "facebook": "https://www.facebook.com/profile.php?id=100005912858499",
+    "instagram": "https://www.instagram.com/dtka_asdf/",
+    "website": "",
+    "tuition": "No",
+    "email": "toong@wisc.edu"
+  },
+  {
+    "name": "KOAY HUI WEN",
+    "iso": ["IPhO"],
+    "workplace": "TRIUMF",
+    "job": "Postdoc",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/935741508127195217/pp_-_huiwen_koay_Cropped.jpg",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
+  },
+  {
+    "name": "Imran Bin Ariffin",
+    "iso": ["IPhO"],
+    "workplace": "d1g1t Inc",
+    "job": "Software Engineer",
+    "img": "https://cdn.discordapp.com/attachments/894746899754680320/935742282467004496/IMG_20211010_112039988_-_Imran_Ariffin_Cropped.jpg",
+    "linkedin": "https://linkedin.com/in/imranariffin",
+    "github": "https://github.com/imranariffin",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
   }
 ]
