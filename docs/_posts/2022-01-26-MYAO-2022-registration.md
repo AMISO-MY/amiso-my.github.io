@@ -14,7 +14,7 @@ Fee: RM 50 (You can request a fee waiver by contacting the organisers)
 
 
 Links
-- [Info pack](https://drive.google.com/file/d/1vqC3pxErFLYNYWpKU8G5QgaVrXDvMQGe/view?usp=sharing).
+- [MyAO info pack](https://drive.google.com/file/d/1vqC3pxErFLYNYWpKU8G5QgaVrXDvMQGe/view?usp=sharing).
 - [Official MyAO page](https://myao.my/).
 - [AMISO page on MyAO](https://amiso.my/iao/).
 
