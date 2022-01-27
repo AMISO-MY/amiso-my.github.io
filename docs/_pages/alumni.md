@@ -15,7 +15,7 @@ permalink: /alumni/
             {% for alumni in sorted %}
                 <div class="col-12 col-lg-4 col-xl-3 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
-                        <img class="mx-auto w-50 rounded-circle mt-2" src="{{ alumni.img }}" alt="">
+                        <img class="mx-auto w-50 rounded-circle mt-2" src="/assets/images/alumni/{{ alumni.name }}.jpg" alt="A nice picture of {{ alumni.name }}">
                         <div class="card-body">
                             <h5 class="card-title">{{ alumni.name }}</h5>
                             <div class="mb-1 d-flex justify-content-between">
