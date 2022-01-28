@@ -37,6 +37,8 @@ The MCQ paper contains 30 questions, awarding students a maximum of 30 marks. On
 
 The Theory paper contains 5 questions and every question consist of 3 parts. The maximum number of marks awarded is 30.&nbsp;
 
-The Practical paper of the competition holds a maximum of 40 marks, given over 3 tasks. The Practical paper will be done in a team of 3 students. All 3 students will be from the same country (each country will generally have 2 teams). Teams will be allocated during the competition itself and cannot be decided prior.&nbsp;
+The Practical paper of the competition holds a maximum of 40 marks, given over 3 tasks. The Practical paper will be done in a team of 3 students. All 3 students will be from the same country (each country will generally have 2 teams). Teams will be allocated during the competition itself and cannot be decided prior.
 
-&nbsp;
+---
+
+*Last updated by Amelia Lim (27 Jan 2022)*

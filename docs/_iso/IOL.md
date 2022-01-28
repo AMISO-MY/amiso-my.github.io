@@ -36,3 +36,5 @@ Knowing a bunch of languages may help, but do not rely on it. There are 7000 lan
 The contest relies most on analytic and deduction skills, so knowing about language will help: phonetics, morphology, semantics, syntax, sociolinguistics, etc.
 
 You can view past problems [here](https://ioling.org/problems/){: target="_blank" rel="noopener"}.
+
+*Last updated by Hua Zhi (16 Jan 2022)*

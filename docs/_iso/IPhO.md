@@ -47,3 +47,5 @@ The contestants shall be students of general or technical secondary schools i.e.
 [https://www.ioc.ee/~kalda/ipho/](https://www.ioc.ee/~kalda/ipho/)
 
 Fundamentals of Physics (Halliday, Resnick, and Walker)
+
+*Last updated by Chin Vern (26 Jan 2022)*
