@@ -8,7 +8,10 @@ header:
 
 Selection for IOL is through Malaysian Computational Linguistics Olympiad.
 
+(Register now!)[https://contesthub.my/register]
+
 [Official MyCLO website](https://myclo.my/)
+
 [Official IOL website](https://ioling.org/)
 
 # Selection Process
