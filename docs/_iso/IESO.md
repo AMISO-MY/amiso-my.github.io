@@ -8,7 +8,10 @@ header:
 
 Selection for IESO is through Malaysian Earth Science Olympiad.
 
+(Register now!)[https://contesthub.my/register]
+
 [Official MyESO website](https://myeso.com.my)
+
 [Official IESO website](https://www.ieso-info.org/)
 
 # Selection Process

@@ -8,7 +8,10 @@ header:
 
 Selection for IAO is through Malaysian Astronomy Olympiad.
 
+(Register now!)[https://contesthub.my/register]
+
 [Official MyAO website](https://myao.my)
+
 [Official IAO website](http://www.issp.ac.ru/iao/)
 
 # Selection Process
