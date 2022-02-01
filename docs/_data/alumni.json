@@ -404,5 +404,47 @@
     "website": "",
     "tuition": "No",
     "email": ""
+  },
+  {
+    "name": "Nur Amalina Diyana binti Azman",
+    "iso": ["IESO"],
+    "workplace": "Pusat Asasi Sains Universiti Malaya",
+    "job": "Foundation",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
+  },
+  {
+    "name": "Zi Song Yeoh",
+    "iso": ["IMO", "IOI", "IOL"],
+    "workplace": "MIT",
+    "job": "Undergraduate",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
+  },
+  {
+    "name": "Tian Xiong Chong",
+    "iso": ["IOAA"],
+    "workplace": "University of Manchester",
+    "job": "BSc Physics with Astrophysics",
+    "linkedin": "https://www.linkedin.com/in/tian-xiong-chong-543208193/",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": "timothy.chongtx@gmail.com"
   }
 ]
