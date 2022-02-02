@@ -6,7 +6,9 @@ header:
   teaser: assets/images/kancil-600x400.png
 ---
 
-[Official Kancil Science Competition website](https://kancilscience.my/) [Official IJSO website](http://www.ijsoweb.org/)
+[Official Kancil Science Competition website](https://kancilscience.my/)
+
+[Official IJSO website](http://www.ijsoweb.org/)
 
 To represent Malaysia in the International Junior Science Olympiad (IJSO), students have to pass two elimination stages: Kancil Science Competition and Malaysia Junior Science Olympiad
 
