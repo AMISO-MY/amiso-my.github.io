@@ -51,7 +51,7 @@ permalink: /alumni/
                                     {% endif %}
                                     {% if alumni.discord != '' %}
                                         <span>
-                                            <a class="text-reset text-decoration-none" href='javascript:void(0)' onClick="alert('{{alumni.discord}}')">
+                                            <a class="text-reset text-decoration-none" href='javascript:void(0)' onClick="copy_text('{{alumni.discord}}')">
                                                 <i class="bi bi-discord"></i>
                                             </a>
                                         </span>
@@ -72,7 +72,7 @@ permalink: /alumni/
                                     {% endif %}
                                     {% if alumni.email != '' %}
                                         <span>
-                                            <a class="text-reset text-decoration-none" href="mailto:{{alumni.email}}" rel="noreferrer" target="_blank">
+                                            <a class="text-reset text-decoration-none"  href='javascript:void(0)' onClick="copy_text('{{alumni.email}}')">
                                                 <i class="bi bi-envelope-fill"></i>
                                             </a>
                                         </span>
@@ -94,8 +94,16 @@ permalink: /alumni/
     </div>
     <p class="fst-italic">* national team member, but cannot represent due to special circumstances.</p>
 </div>
-
 <script>
+    // copy
+    function copy_text(text){
+        try {
+            navigator.clipboard.writeText(text).then(()=>alert(text + ' copied!'));
+        } catch (err) {
+            alert(text);
+        }
+    }
+
     let stuff=`<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
     `+document.getElementById('main').innerHTML;
     const root = document.getElementById('main').attachShadow({mode: 'open'});
@@ -103,4 +111,5 @@ permalink: /alumni/
     root.getElementById('bootstrap').onload = function() {
         document.getElementById('main').removeAttribute('hidden');
     }
+
 </script>
