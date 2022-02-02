@@ -6,7 +6,12 @@ header:
   teaser: assets/images/ppfpm.png
 ---
 
-Selection for IPO is through MyPO by Persatuan Pendidikan Falsafah dan Pemikiran Malaysia (PPFPM). You can find PPFPM's website [here](https://ppfpm.wordpress.com/){: target="_blank" rel="noopener"}.&nbsp;
+Selection for IPO is through MyPO by Persatuan Pendidikan Falsafah dan Pemikiran Malaysia (PPFPM).
+
+
+[Official PPFPM website](https://ppfpm.wordpress.com/)
+
+[Official IPO website](http://www.philosophy-olympiad.org/)
 
 ## Introduction to IPO
 
