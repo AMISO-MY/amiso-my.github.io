@@ -162,7 +162,7 @@
     "github": "",
     "discord": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/chooi_jeq/",
     "website": "https://chojeq.com",
     "tuition": "No",
     "email": ""
@@ -446,5 +446,19 @@
     "website": "",
     "tuition": "No",
     "email": "timothy.chongtx@gmail.com"
+  },
+  {
+    "name": "Esther Ng Yu Xuan",
+    "iso": ["IOL*"],
+    "workplace": "Nanyang Junior College",
+    "job": "A levels",
+    "linkedin": "https://www.linkedin.com/in/estherngyuxuan",
+    "github": "",
+    "discord": "estheryxyx#7865",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/estheryxyx/",
+    "website": "",
+    "tuition": "No",
+    "email": "estheryuxuan@gmail.com"
   }
 ]
