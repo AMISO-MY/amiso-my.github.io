@@ -11,7 +11,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Ian George Taye Cheng Ean",
@@ -25,7 +26,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Baneen Natasya Fairul",
@@ -39,7 +41,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Kenneth Yong",
@@ -53,7 +56,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Yashwanth Naidu",
@@ -67,7 +71,8 @@
     "instagram": "https://www.instagram.com/yashnaidu69/",
     "website": "",
     "tuition": "Yes",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Loh Kwong Weng",
@@ -81,7 +86,8 @@
     "instagram": "",
     "website": "https://codeforces.com/profile/Nelson_loh",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Law Bik Li",
@@ -95,7 +101,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Moey Sean Jean",
@@ -109,7 +116,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Chin Jia Yao",
@@ -123,7 +131,8 @@
     "instagram": "https://www.instagram.com/jiayaooops/",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Amos Tan",
@@ -137,7 +146,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Wong Jer Ren",
@@ -151,7 +161,8 @@
     "instagram": "https://www.instagram.com/jerrenwong/",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Chooi Je Qin",
@@ -165,7 +176,8 @@
     "instagram": "",
     "website": "https://chojeq.com",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Vee Hua Zhi",
@@ -179,7 +191,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Arif Ismail bin Ruslan",
@@ -193,7 +206,8 @@
     "instagram": "https://www.instagram.com/reef_envole_/",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Ooi Chun Keat",
@@ -207,7 +221,8 @@
     "instagram": "https://www.instagram.com/kittykeatt/",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Lee Zong Yu",
@@ -221,7 +236,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Go Jun Xing",
@@ -235,7 +251,8 @@
     "instagram": "",
     "website": "https://codeforces.com/profile/Evirir",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Ong Cheng Yiin",
@@ -249,7 +266,8 @@
     "instagram": "https://www.instagram.com/cheng_yiin_2304/",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Hera Tan Khai Loon",
@@ -263,7 +281,8 @@
     "instagram": "https://instagram.com/its.hera.official?utm_medium=copy_link",
     "website": "",
     "tuition": "Yes",
-    "email": "hera.the.dreamer@gmail.com"
+    "email": "hera.the.dreamer@gmail.com",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Khoo Yun Meng",
@@ -277,7 +296,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": "khooym898@gmail.com"
+    "email": "khooym898@gmail.com",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Mohd Ilyas Adam Bin Salahuddin",
@@ -291,7 +311,8 @@
     "instagram": "",
     "website": "https://mahfaa.org",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Lai Jian Hou",
@@ -305,7 +326,8 @@
     "instagram": "https://www.instagram.com/laijianhou1022/",
     "website": "https://www.facebook.com/physicscoffeetalk",
     "tuition": "Yes",
-    "email": "laijianhou1122@gmail.com"
+    "email": "laijianhou1122@gmail.com",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Yeoh Chin Vern",
@@ -319,7 +341,8 @@
     "instagram": "",
     "website": "https://orcid.org/0000-0002-3145-0640",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Tristan Chaang",
@@ -333,7 +356,8 @@
     "instagram": "https://www.instagram.com/tristan_chaang/",
     "website": "",
     "tuition": "Yes",
-    "email": "tristan.chaang@gmail.com"
+    "email": "tristan.chaang@gmail.com",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Koay Hui Wen",
@@ -347,7 +371,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Imran Bin Ariffin",
@@ -361,7 +386,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Anzo Teh",
@@ -375,7 +401,8 @@
     "instagram": "",
     "website": "https://anzoteh96.github.io/",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Yap Yong Sheng",
@@ -389,7 +416,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": "rayson9103@gmail.com"
+    "email": "rayson9103@gmail.com",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Ong Jing Kai",
@@ -403,21 +431,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
-  },
-  {
-    "name": "Nur Amalina Diyana binti Azman",
-    "iso": ["IESO"],
-    "workplace": "Pusat Asasi Sains Universiti Malaya",
-    "job": "Foundation",
-    "linkedin": "",
-    "github": "",
-    "discord": "",
-    "facebook": "",
-    "instagram": "",
-    "website": "",
-    "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Zi Song Yeoh",
@@ -431,7 +446,8 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": ""
+    "email": "",
+    "status": "EMAIL_SENT"
   },
   {
     "name": "Tian Xiong Chong",
@@ -445,6 +461,22 @@
     "instagram": "",
     "website": "",
     "tuition": "No",
-    "email": "timothy.chongtx@gmail.com"
+    "email": "timothy.chongtx@gmail.com",
+    "status": "EMAIL_SENT"
+  },
+  {
+    "name": "Esther Ng Yu Xuan",
+    "iso": ["IOL"],
+    "workplace": "Nanyang Junior College",
+    "job": "A levels",
+    "linkedin": "https://www.linkedin.com/in/estherngyuxuan",
+    "github": "",
+    "discord": "estheryxyx#7865",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/estheryxyx/",
+    "website": "",
+    "tuition": "No",
+    "email": "estheryuxuan@gmail.com",
+    "status": ""
   }
 ]
