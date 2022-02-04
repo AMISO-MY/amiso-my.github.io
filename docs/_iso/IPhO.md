@@ -4,9 +4,15 @@ permalink: /ipho/
 excerpt: "Olimpiad Fizik Malaysia"
 header:
   teaser: assets/images/ofm-600x400.png
+gallery:
+  - url: assets/images/ofm-600x400.png
+    image_path: assets/images/ofm-600x400.png
+    alt: "Olimpiad Fizik Malaysia"
 ---
 
 Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
+{% include gallery caption="Olimpiad Fizik Malaysia" %}
+
 
 [Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)
 

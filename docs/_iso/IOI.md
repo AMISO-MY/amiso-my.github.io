@@ -4,9 +4,16 @@ permalink: /ioi/
 excerpt: "Malaysian Computing Challenge"
 header:
   teaser: assets/images/mcc-600x400.png
+gallery:
+  - url: assets/images/mcc-600x400.png
+    image_path: assets/images/mcc-600x400.png
+    alt: "Malaysian Computing Challenge"
 ---
 
 Selection for IOI is through Malaysian Computing Challenge.
+
+{% include gallery caption="Malaysian Computing Challenge" %}
+
 
 [Official MCC website](https://ioimalaysia.org/)
 [Official IOI website](https://ioinformatics.org/)

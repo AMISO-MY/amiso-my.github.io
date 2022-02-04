@@ -4,9 +4,16 @@ permalink: /iol/
 excerpt: "Malaysian Computational Linguistics Olympiad"
 header:
   teaser: assets/images/myclo-600x400.png
+gallery:
+  - url: assets/images/myclo-600x400.png
+    image_path: assets/images/myclo-600x400.png
+    alt: "Malaysian Computational Linguistics Olympiad"
 ---
 
-Selection for IOL is through Malaysian Computational Linguistics Olympiad.
+Selection for IOL is through Malaysian Computational Linguistics Olympiad (MyCLO).
+
+{% include gallery caption="Malaysian Computational Linguistics Olympiad" %}
+
 
 [Register now!](https://contesthub.my/register)
 

@@ -4,11 +4,17 @@ permalink: /imo/
 excerpt: "International Mathematics Olympiad National Selection Test"
 header:
   teaser: assets/images/imonst-600x400.png
+gallery:
+  - url: assets/images/imonst-600x400.png
+    image_path: assets/images/imonst-600x400.png
+    alt: "IMONST"
 ---
 
 Selection for IMO is through International Mathematics Olympiad National Selection Test.
+{% include gallery caption="IMONST" %}
 
 [Official IMONST website](https://imo-malaysia.org/)
+
 [Official IMO website](https://www.imo-official.org/)
 
 # Selection Process

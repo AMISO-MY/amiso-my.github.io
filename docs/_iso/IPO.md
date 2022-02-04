@@ -4,10 +4,14 @@ permalink: /ipo/
 excerpt: "Persatuan Pendidikan Falsafah dan Pemikiran Malaysia (PPFPM)"
 header:
   teaser: assets/images/ppfpm.png
+gallery:
+  - url: assets/images/ppfpm.png
+    image_path: assets/images/ppfpm.png
+    alt: "MyPO"
 ---
-
 Selection for IPO is through MyPO by Persatuan Pendidikan Falsafah dan Pemikiran Malaysia (PPFPM).
 
+{% include gallery caption="MyPO" %}
 
 [Official PPFPM website](https://ppfpm.wordpress.com/)
 

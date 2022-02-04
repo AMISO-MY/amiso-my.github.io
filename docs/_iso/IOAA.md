@@ -4,11 +4,18 @@ permalink: /ioaa/
 excerpt: "Malaysian Olympiad in Astronomy and Astrophysics"
 header:
   teaser: assets/images/moaa-600x400.png
+gallery:
+  - url: assets/images/moaa-600x400.png
+    image_path: assets/images/moaa-600x400.png
+    alt: "Malaysian Olympiad in Astronomy and Astrophysics"
 ---
 
 Selection for IOAA is through Malaysian Olympiad in Astronomy and Astrophysics.
 
+{% include gallery caption="Malaysian Olympiad in Astronomy and Astrophysics" %}
+
 [Official MOAA website](https://moaa.starfinder.org.my/)
+
 [Official IOAA website](https://www.ioaastrophysics.org/)
 
 # Selection Process

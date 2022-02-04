@@ -4,9 +4,14 @@ permalink: /iao/
 excerpt: "Malaysian Astronomy Olympiad"
 header:
   teaser: assets/images/myao-600x400.png
+gallery:
+  - url: assets/images/myao-600x400.png
+    image_path: assets/images/myao-600x400.png
+    alt: "MYAO"
 ---
 
-Selection for IAO is through Malaysian Astronomy Olympiad.
+Selection for IAO is through the Malaysian Astronomy Olympiad (MYAO).
+{% include gallery caption="Malaysian Astronomy Olympiad" %}
 
 [Register now!](https://contesthub.my/register)
 
@@ -23,7 +28,7 @@ The top 3+2 contestants will be selected to the IAO.
 4. IAO (October)
 
 # Introduction
-The competing part of IAO consists of three rounds: a theoretical, an observational, and a practical. Problems of the theoretical round involve classical problems in branches of astronomy, astrophysics, space and planetary physics, and maybe hypothetical situations. The observational round involves recognizing stars, constellations, estimating star magnitude and angular distance, working with telescopes or other observational technique. The practical round consists of problems based on data results of observations, solutions propose analysis of these data. The chairman is Michael Gavrilov.
+IAO is the International Astronomy Olympiad. The competing part of IAO consists of three rounds: a theoretical, an observational, and a practical. Problems of the theoretical round involve classical problems in branches of astronomy, astrophysics, space and planetary physics, and maybe hypothetical situations. The observational round involves recognizing stars, constellations, estimating star magnitude and angular distance, working with telescopes or other observational technique. The practical round consists of problems based on data results of observations, solutions propose analysis of these data. The chairman is Michael Gavrilov.
 
 # Format
 There are 3 rounds.

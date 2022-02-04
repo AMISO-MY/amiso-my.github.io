@@ -4,9 +4,14 @@ permalink: /ieso/
 excerpt: "Malaysian Earth Science Olympiad"
 header:
   teaser: assets/images/myeso-600x400.png
+gallery:
+  - url: assets/images/myeso-600x400.png
+    image_path: assets/images/myeso-600x400.png
+    alt: "Malaysian Earth Science Olympiad"
 ---
 
 Selection for IESO is through Malaysian Earth Science Olympiad.
+{% include gallery caption="Malaysian Earth Science Olympiad" %}
 
 [Register now!](https://contesthub.my/register)
 

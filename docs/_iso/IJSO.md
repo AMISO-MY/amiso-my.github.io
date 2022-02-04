@@ -4,7 +4,14 @@ permalink: /ijso/
 excerpt: "Kancil Science Competition"
 header:
   teaser: assets/images/kancil-600x400.png
+gallery:
+  - url: assets/images/kancil-600x400.png
+    image_path: assets/images/kancil-600x400.png
+    alt: "Kancil Science Competition"
 ---
+
+Selection for IJSO is through Kancil Science Competition.
+{% include gallery caption="Kancil Science Competition" %}
 
 [Official Kancil Science Competition website](https://kancilscience.my/)
 
