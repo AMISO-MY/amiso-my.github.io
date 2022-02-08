@@ -47,4 +47,4 @@ All Malaysian nationals who are studying at a high school level or pre-universit
 
 If you are an IPO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
 
-*Last updated by Esther (February 2, 2022)*
+*Last updated by Esther*
