@@ -57,4 +57,7 @@ Recommended books:
 1. Four volumes of Basic of Math Olympiad by Suhaimi Ramly are available for purchase [here](https://www.kangaroomath.com.my/product/fullset-basic-math-olympiad-bomo/){: target="_blank" rel="noopener"}.
 2. Euclidean Geometry in Mathematical Olympiads by Evan Chen
 
+
+# Other link
+[Malaysia and the IMO, presentation](https://docs.google.com/presentation/d/1Ak84VUt3VOhWkruo-bpo57BvsEp2aye6y7S9iLQPOCM/edit?usp=sharing)
 *Last updated by Hua Zhi (16 Jan 2022)*

@@ -47,4 +47,5 @@ The contest relies most on analytic and deduction skills, so knowing about langu
 
 You can view past problems [here](https://ioling.org/problems/){: target="_blank" rel="noopener"}.
 
-*Last updated by Hua Zhi (16 Jan 2022)*
+# Other links
+[MyCLO info pack](https://drive.google.com/file/d/1EADvOGOIDtpc1y-LyZIeLVzmYKU281Kr/view)

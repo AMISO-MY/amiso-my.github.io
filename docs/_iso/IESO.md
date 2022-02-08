@@ -37,3 +37,6 @@ together as a group.
 
 # Eligibility
 Participants should not have been born before July 1, X-19, where X is the year of the Olympiad. The participants must not be university/college students. They can only be students of secondary/high school. If they have already graduated before the competition, the organizer must be informed about the date of their graduation. A student who has already participated in an IESO and who wants to participate in a subsequent IESO may do so only as a guest student and not as a member of a national team. This means that the student will not be eligible for any medals at the second or subsequent IESO.
+
+# Other links
+[MyESO info pack](https://drive.google.com/file/d/13zCO-uHK_38OsCr5qVFuztAPEKXclU7i/view).

@@ -56,3 +56,6 @@ Beta: (2 students)
 [Malaysian IAO Training Program](https://docs.google.com/spreadsheets/d/1y1zZf3DQfJR34-ISxy-40IAgm_AuVGO9927W3-DeFTk/edit?usp=sharing)
 
 [IAO for People in a Hurry](https://chojeq.com/iao)
+
+# Other links
+[MyAO info pack](https://drive.google.com/file/d/1vqC3pxErFLYNYWpKU8G5QgaVrXDvMQGe/view?usp=sharing)
