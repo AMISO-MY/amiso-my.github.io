@@ -30,6 +30,14 @@ feature_row3:
     btn_label: "Meet the Alumni"
     btn_class: "btn--success"
 feature_row4:
+  - image_path: /assets/images/amiso-interview-collage.png
+    alt: "Malaysian Olympiad committees"
+    title: "Hear it from the committees"
+    excerpt: 'Watch our interviews with the local Olympiad committees to learn more about the selections in the Olympiads.'
+    url: "/youtube/"
+    btn_label: "Watch on YouTube"
+    btn_class: "btn--success"
+footer:
   - title: "Get notified"
     excerpt: 'We will keep you updated with Olympiad registration, training materials, result announcements and more Olympiad news.'
     url: "/subscribe/"
@@ -43,4 +51,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="footer" type="center" %}
