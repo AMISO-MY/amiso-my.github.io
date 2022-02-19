@@ -54,4 +54,10 @@ The contestants shall be students of general or technical secondary schools i.e.
 
 Fundamentals of Physics (Halliday, Resnick, and Walker)
 
-*Last updated by Chin Vern (26 Jan 2022)*
+# Other links
+
+[IPhO 2021 selection briefing](https://drive.google.com/file/d/1l4H2U54rJDmMfbFBknRfWUu-oCD2v-2F/view?usp=sharing)
+
+[Should my school join the science Olympiads](https://drive.google.com/file/d/1wvzAA0HgULUXbfdxOhydeO7jUx8Pf_UB/view?usp=sharing)
+
+*Last updated by Chin Vern*

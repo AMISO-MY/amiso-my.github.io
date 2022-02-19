@@ -58,7 +58,7 @@ Recommended books:
 2. Euclidean Geometry in Mathematical Olympiads by Evan Chen
 
 
-# Other link
+# Other links
 [Malaysia and the IMO, presentation](https://docs.google.com/presentation/d/1Ak84VUt3VOhWkruo-bpo57BvsEp2aye6y7S9iLQPOCM/edit?usp=sharing)
 
 *Last updated by Hua Zhi*
