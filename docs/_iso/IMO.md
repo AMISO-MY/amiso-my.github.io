@@ -13,6 +13,8 @@ gallery:
 Selection for IMO is through International Mathematics Olympiad National Selection Test.
 {% include gallery caption="IMONST" %}
 
+[Register now!](https://contesthub.my/register)
+
 [Official IMONST website](https://imo-malaysia.org/)
 
 [Official IMO website](https://www.imo-official.org/)
