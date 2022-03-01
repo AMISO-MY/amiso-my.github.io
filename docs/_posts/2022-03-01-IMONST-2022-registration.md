@@ -7,23 +7,23 @@ You can now register for IMONST 2022 at [ContestHub](https://contesthub.my/regis
 IMONST is a national-level Mathematical Olympiad that tests the talent and skills of students in problem-solving and mathematical thinking, with all the thrilling questions that will bring excitement to students.
 
 
-**Registration Period:**
+**Registration Period:**  
 1 March 2022 – 30 April 2022
 
-**Competition Date:**
+**Competition Date:**  
 21 May 2022 (Saturday), 10 AM onwards
 
-**Fee:**
+**Fee:**  
 RM30 per participant (You can request a fee waiver by contacting the organisers)
 
 
-**Categories:**
-Primary: Standard 1- 6 or Year 1 - 6
-Junior: Form 1 - 3 or Year 7 - 9
+**Categories:**  
+Primary: Standard 1- 6 or Year 1 - 6  
+Junior: Form 1 - 3 or Year 7 - 9  
 Student: Form 4 and above, including Pre-University student or Year 10 and above
 
 
-**Topics:**
+**Topics:**  
 Combinatorics, Geometry, Number Theory, Algebra
 
 
