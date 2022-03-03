@@ -13,7 +13,7 @@ gallery:
 Selection for IAO is through the Malaysian Astronomy Olympiad (MYAO).
 {% include gallery caption="Malaysian Astronomy Olympiad" %}
 
-[Register now!](https://contesthub.my/register)
+<!-- [Register now!](https://contesthub.my/register) -->
 
 [Official MyAO website](https://myao.my)
 

@@ -13,7 +13,7 @@ gallery:
 Selection for IESO is through Malaysian Earth Science Olympiad.
 {% include gallery caption="Malaysian Earth Science Olympiad" %}
 
-[Register now!](https://contesthub.my/register)
+<!-- [Register now!](https://contesthub.my/register) -->
 
 [Official MyESO website](https://myeso.com.my)
 

@@ -15,7 +15,7 @@ Selection for IOL is through Malaysian Computational Linguistics Olympiad (MyCLO
 {% include gallery caption="Malaysian Computational Linguistics Olympiad" %}
 
 
-[Register now!](https://contesthub.my/register)
+<!-- [Register now!](https://contesthub.my/register) -->
 
 [Official MyCLO website](https://myclo.my/)
 
