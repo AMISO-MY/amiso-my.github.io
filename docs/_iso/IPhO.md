@@ -20,10 +20,13 @@ Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
 
 The top 5 contestants will be selected to represent Malaysia at the IPhO.
 
-1. National Physics Competition (September)
-2. Bengkel Olimpiad Fizik Kebangsaan (April)
-3. National team training (May)
-4. IPhO (July)
+1. Training Camp 1 (KPM only, 300 people) - 28 March
+2. Training Camp 2 (Final, All, 50 people) - 18 April
+3. Training Camp 3 (10 people) - 16 May
+4. Training Camp 4 (10 people) - 1 June
+4. IPhO 2022 - 11 July
+
+KPM students should register through their teachers. Private students register individually via Google form. [Subscribe to us](/subscribe) to get notified.
 
 # Introduction
 
