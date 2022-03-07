@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Join an Olympiad"
       url: "/olympiads/"
-excerpt: "Malaysian Alumni of the International Science Olympiads"
+excerpt: "Malaysia in the International Science Olympiads"
 intro: 
   - excerpt: 'The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences. The Malaysian national team for each ISO is selected from competitions by different organisers. '
 feature_row2:
