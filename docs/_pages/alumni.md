@@ -4,7 +4,8 @@ title: Alumni
 permalink: /alumni/
 ---
 
-<div id="main" hidden>
+<div id="main">
+<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
 <h1>Alumni</h1>
 <p>If you are an alumnus, please join us by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">this form</a> for networking opportunities.</p>
 <!-- Icons -->
@@ -15,7 +16,7 @@ permalink: /alumni/
             {% for alumni in sorted %}
                 <div class="col-12 col-lg-4 col-xl-3 col-md-6">
                     <li class="card border-0 shadow-lg my-5">
-                        <img class="mx-auto w-50 rounded-circle mt-2" src="/assets/images/alumni/{{ alumni.name }}.jpg" alt="A nice picture of {{ alumni.name }}">
+                        <img class="mx-auto w-50 rounded-circle mt-2" src="/assets/images/alumni/{{ alumni.name }}.jpg" loading="lazy" alt="A nice picture of {{ alumni.name }}">
                         <div class="card-body">
                             <h5 class="card-title">{{ alumni.name }}</h5>
                             <div class="mb-1 d-flex justify-content-between">
@@ -103,13 +104,7 @@ permalink: /alumni/
             alert(text);
         }
     }
-
-    let stuff=`<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
-    `+document.getElementById('main').innerHTML;
     const root = document.getElementById('main').attachShadow({mode: 'open'});
-    root.innerHTML=stuff;
-    root.getElementById('bootstrap').onload = function() {
-        document.getElementById('main').removeAttribute('hidden');
-    }
+    root.innerHTML=document.getElementById('main').innerHTML;
 
 </script>
