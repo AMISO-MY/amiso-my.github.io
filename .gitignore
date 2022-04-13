@@ -3,3 +3,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .liquidrc
+docs/assets/images/.DS_Store

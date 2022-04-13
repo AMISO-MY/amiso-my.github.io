@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   og_image: "assets/images/amiso.png"
-  overlay_image: /assets/images/home-gradient.png
+  overlay_image: /assets/images/home-gradient.jpg
   actions:
     - label: "Join an Olympiad"
       url: "/olympiads/"
@@ -14,7 +14,7 @@ excerpt: "Malaysia in the International Science Olympiads"
 intro: 
   - excerpt: 'The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences. The Malaysian national team for each ISO is selected from competitions by different organisers. '
 feature_row2:
-  - image_path: /assets/images/collage.png
+  - image_path: /assets/images/collage.jpg
     alt: "National Selection Tests for the International Science Olympiads in Malaysia"
     title: "National Selection Tests"
     excerpt: 'The Malaysian teams for the International Science Olympiads are selected through National Selection Tests. Every Malaysian citizen and foreigners studying in Malaysia can take part in the selections.'
@@ -22,7 +22,7 @@ feature_row2:
     btn_label: "Join an Olympiad"
     btn_class: "btn--success"
 feature_row3:
-  - image_path: /assets/images/alumni-collage.png
+  - image_path: /assets/images/alumni-collage.jpg
     alt: "Malaysian Alumni of the International Science Olympiads"
     title: "The Malaysian Alumni"
     excerpt: 'Learn more about the Malaysians who have represented our country in the International Science Olympiads.'
@@ -30,10 +30,10 @@ feature_row3:
     btn_label: "Meet the Alumni"
     btn_class: "btn--success"
 feature_row4:
-  - image_path: /assets/images/amiso-interview-collage.png
+  - image_path: /assets/images/amiso-interview-collage.jpg
     alt: "Malaysian Olympiad committees"
     title: "Hear it from the committees"
-    excerpt: 'Watch our interviews with the local Olympiad committees to learn more about the selections in the Olympiads.'
+    excerpt: 'Watch our interviews with the local Olympiad committees to learn more about the national selections.'
     url: "/youtube/"
     btn_label: "Watch on YouTube"
     btn_class: "btn--success"
