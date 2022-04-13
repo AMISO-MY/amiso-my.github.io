@@ -12,7 +12,7 @@ header:
       url: "/olympiads/"
 excerpt: "Malaysia in the International Science Olympiads"
 intro: 
-  - excerpt: 'The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences. The Malaysian national team for each ISO is selected from competitions by different organisers. '
+  - excerpt: 'The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences.'
 feature_row2:
   - image_path: /assets/images/collage.jpg
     alt: "National Selection Tests for the International Science Olympiads in Malaysia"
