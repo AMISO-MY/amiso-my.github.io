@@ -57,5 +57,7 @@ Beta: (2 students)
 
 [IAO for People in a Hurry](https://chojeq.com/iao)
 
+[IAO Malaysian Team Training Resources](https://drive.google.com/drive/folders/1CDOBfAv7YHTIMzkLQ_9duc2EsbOC7a0X?usp=sharing)
+
 # Other links
 [MyAO info pack](https://drive.google.com/file/d/1vqC3pxErFLYNYWpKU8G5QgaVrXDvMQGe/view?usp=sharing)

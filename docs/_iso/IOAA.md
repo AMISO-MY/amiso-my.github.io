@@ -56,4 +56,6 @@ Students participating in IOAA must satisfy BOTH of the following eligibility co
 
 [Malaysian IAO Training Program](https://docs.google.com/spreadsheets/d/1y1zZf3DQfJR34-ISxy-40IAgm_AuVGO9927W3-DeFTk/edit?usp=sharing)
 
+[IAO Malaysian Team Training Resources](https://drive.google.com/drive/folders/1CDOBfAv7YHTIMzkLQ_9duc2EsbOC7a0X?usp=sharing)
+
 [IAO for People in a Hurry](https://chojeq.com/iao)
