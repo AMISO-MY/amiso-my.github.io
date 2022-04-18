@@ -13,6 +13,8 @@ gallery:
 Selection for IJSO is through Kancil Science Competition.
 {% include gallery caption="Kancil Science Competition" %}
 
+[Register now!](https://contesthub.my/register)
+
 [Official Kancil Science Competition website](https://kancilscience.my/)
 
 [Official IJSO website](http://www.ijsoweb.org/)
