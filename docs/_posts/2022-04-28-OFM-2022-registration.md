@@ -1,5 +1,5 @@
 ---
-title:  "Updates and registration for Malaysian Physics Olympiad 2022"
+title:  "Updates and registration for the Malaysian Physics Olympiad 2022"
 ---
 
 A flyer recently released by the Malaysian Physics Olympiad can be found [here](https://drive.google.com/file/d/1W3DQUNVNhbFVX0t-NGxEkS9uFPNWes9O/view?usp=sharing){:target="_blank"}.
