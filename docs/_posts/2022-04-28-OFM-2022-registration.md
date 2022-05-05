@@ -6,6 +6,8 @@ A flyer recently released by the Malaysian Physics Olympiad committee can be fou
 
 In addition to the flyer, please note the following for the second round selection test (first round for private students).
 
+Registration deadline: Friday 6th May 2022 11.59pm
+
 Date: Wednesday 11th May 2022
 
 8.00 - 9.00 pm. Paper 2 - E&M (30 MCQ, 1 hour)
