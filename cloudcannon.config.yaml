@@ -25,6 +25,7 @@ _editables:
     table: true
     undo: true
     redo: true
+    link: true
     removeformat: true
     copyformatting: true
     left: align-left
