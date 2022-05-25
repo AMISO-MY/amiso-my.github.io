@@ -21,4 +21,4 @@ Here are our Malaysian representatives.
     <figcaption>Muhammad Emil Hafiz Hafiznizam, Kolej MARA Banting</figcaption>
 </figure>
 
-We wish them all the best in making our country proud!
+The 2022 IPO has 45 participating countries and takes place from May 26 to 29. We wish them all the best in making our country proud!
