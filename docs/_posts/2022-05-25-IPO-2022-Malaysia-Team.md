@@ -22,3 +22,5 @@ Here are our Malaysian representatives.
 </figure>
 
 The 2022 IPO has 45 participating countries and takes place from May 26 to 29. We wish them all the best in making our country proud!
+
+(Photos are provided by [Persatuan Pendidikan Falsafah dan Pemikiran Malaysia](https://www.facebook.com/ppfpm/))
