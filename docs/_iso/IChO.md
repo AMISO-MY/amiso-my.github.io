@@ -12,7 +12,9 @@ gallery:
 
 Selection for IChO is through Kuiz Kimia Kebangsaan. {% include gallery caption="Kuiz Kimia Kebangsaan" %}
 
-[Official K3M website](https://ikm.org.my/outreach-programs/kuiz-kimia-kebangsaaan-malaysia-k3m/) [Official IChO website<br>​​](https://www.ichosc.org/)
+[Official K3M website](https://ikm.org.my/outreach-programs/kuiz-kimia-kebangsaaan-malaysia-k3m/)
+
+[Official IChO website​​](https://www.ichosc.org/)
 
 # Selection Process
 

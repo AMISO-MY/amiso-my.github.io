@@ -13,7 +13,7 @@ gallery:
 Selection for IEO is through Kijang Economics Competition.
 {% include gallery caption="Kijang Economics Competition" %}
 
-[Register now!](https://contesthub.my/register)
+<!-- [Register now!](https://contesthub.my/register) -->
 
 [Official Kijang Economics Competition website](https://kijang.my/)
 
