@@ -17,7 +17,7 @@ feature_row:
     alt: "Chang Kian Yau"
     title: "Chang Kian Yau"
     excerpt: "Sunway College, Selangor"
-  - image_path: /assets/images/posts/2022-06-08-IPhO-2022-Malaysia-Team/farris.jpg
+  - image_path: /assets/images/posts/2022-06-08-IPhO-2022-Malaysia-Team/farris-athmar.jpg
     alt: "Farris Athmar bin Shahrulniza"
     title: "Farris Athmar bin Shahrulniza"
     excerpt: "Kolej MARA Banting, Selangor"
