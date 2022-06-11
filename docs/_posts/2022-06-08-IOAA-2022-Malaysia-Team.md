@@ -26,7 +26,7 @@ feature_row:
     excerpt: "SMK Sentosa"
 ---
 
-Congratulations to the five students who will be representing Malaysia at the 2022 International Olympiad on Astronomy and Astrophysics Olympiad ([IOAA](https://www.ioaastrophysics.org/)) at Georgia!
+Congratulations to the five students who will be representing Malaysia at the 2022 International Olympiad on Astronomy and Astrophysics ([IOAA](https://www.ioaastrophysics.org/)) at Georgia!
 
 {% include gallery caption="IOAA 2022 Malaysia team at Planetarium Negara" %}
 
