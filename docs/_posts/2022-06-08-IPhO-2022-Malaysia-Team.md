@@ -23,7 +23,7 @@ feature_row:
     excerpt: "Kolej MARA Banting, Selangor"
 ---
 
-Congratulations to the five students who will be representing Malaysia at the 2022 International Physics Olympiad ([IPhO](https://www.ipho-new.org/)) at Switzerland!
+Congratulations to the five students who will be representing Malaysia at the 2022 International Physics Olympiad ([IPhO](https://www.ipho-new.org/)) organised onlined by Switzerland!
 
 These five students had underwent selection rounds known as the [Olimpiad Fizik Malaysia](/ipho) before being chosen to represent the country.
 
