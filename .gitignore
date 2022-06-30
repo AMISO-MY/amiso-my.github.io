@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 .liquidrc
 docs/assets/images/.DS_Store
+docs/_data/.DS_Store
