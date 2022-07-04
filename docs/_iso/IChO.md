@@ -10,6 +10,8 @@ gallery:
     alt: K3M
 ---
 
+[Click here](/K3M-2022-registration/) for more details and registration.
+
 Selection for IChO is through Kuiz Kimia Kebangsaan. {% include gallery caption="Kuiz Kimia Kebangsaan" %}
 
 [Official K3M website](https://ikm.org.my/outreach-programs/kuiz-kimia-kebangsaaan-malaysia-k3m/)
