@@ -5,11 +5,11 @@ feature_row:
     alt: "Joyton Fu Hung Li"
     title: "Joyton Fu Hung Li"
     excerpt: "Methodist College Kuala Lumpur"
-  - image_path: /assets/images/posts/2022-07-15-IChO-2022-Malaysia-Team/brandon.jpg
+  - image_path: /assets/images/posts/2022-07-15-IChO-2022-Malaysia-Team/brandon.jpeg
     alt: "Low Zhen Xuen, Brandon"
     title: "Low Zhen Xuen, Brandon"
     excerpt: "Sunway College"
-  - image_path: /assets/images/posts/2022-07-15-IChO-2022-Malaysia-Team/rick.jpg
+  - image_path: /assets/images/posts/2022-07-15-IChO-2022-Malaysia-Team/rick.jpeg
     alt: "Pua E Rick"
     title: "Pua E Rick"
     excerpt: "Kolej Yayasan UEM"
