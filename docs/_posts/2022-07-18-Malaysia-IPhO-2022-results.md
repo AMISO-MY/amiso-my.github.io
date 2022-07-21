@@ -30,6 +30,8 @@ Detailed results can be found soon at the [IPhO 2022 results page](https://ipho2
 
 {% include feature_row %}
 
+Students interested in the physics Olympiad should look out for [Olimpiad Fizik Malaysia (OFM)](/ipho), which is the national selection test in Malaysia for IPhO.
+
 Congratulations to the team, and we wish them all the best!
 
 Photos are provided by the Malaysia Physics Olympiad committee.
