@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Honourable mention"
 ---
 
-The Malaysia [IMO](/imo) 2022 team made our country proud winning 1 Gold, 1 Silver, 1 Bronze, and 3 Honourable Mentions.
+The [Malaysia IMO 2022 team](/IMO-2022-Malaysia-Team) made our country proud winning 1 Gold, 1 Silver, 1 Bronze, and 3 Honourable Mentions.
 
 {% include gallery caption="The Malaysia IMO 2022 team with their medals and Jalur Gemilang" %}
 

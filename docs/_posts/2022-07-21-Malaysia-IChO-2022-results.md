@@ -22,7 +22,7 @@ feature_row:
     excerpt: "Team member"
 ---
 
-The Malaysia [IChO](/icho) 2022 team made our country proud winning 1 Silver and 2 Bronzes.
+The [Malaysia IChO 2022 team](/IChO-2022-Malaysia-Team/) made our country proud winning 1 Silver and 2 Bronzes.
 
 {% include gallery caption="The Malaysia IChO 2022 team" %}
 

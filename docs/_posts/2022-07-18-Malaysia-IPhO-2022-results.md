@@ -22,7 +22,7 @@ feature_row:
     excerpt: "Honourable mention"
 ---
 
-The Malaysia [IPhO](/ipho) 2022 team made our country proud winning 3 Bronzes and 1 Honourable Mention.
+The [Malaysia IPhO 2022 team]((/IPhO-2022-Malaysia-Team/)) made our country proud winning 3 Bronzes and 1 Honourable Mention.
 
 {% include gallery caption="The Malaysia IPhO 2022 team after the online closing ceremony at Bangunan Sains Fizik, UKM" %}
 
