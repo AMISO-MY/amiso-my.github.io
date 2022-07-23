@@ -233,7 +233,7 @@
     "discord": "",
     "facebook": "",
     "instagram": "",
-    "website": "https://chojeq.com",
+    "website": "https://stalk.chojeq.com",
     "tuition": "No",
     "email": ""
   },
@@ -465,7 +465,7 @@
     "name": "Joyton Fu Hung Li",
     "iso": ["IChO"],
     "workplace": "Methodist College Kuala Lumpur",
-    "job": "studying A levels",
+    "job": "A levels",
     "linkedin": "",
     "github": "",
     "discord": "ＰгØ-𝐓𝐨η#9807",
@@ -513,8 +513,36 @@
     "discord": "kwongweng#1930",
     "facebook": "",
     "instagram": "",
-    "website": "",
+    "website": "https://codeforces.com/profile/Nelson_loh",
     "tuition": "Yes",
     "email": "nelson.kwloh@hotmail.com"
+  },
+  {
+    "name": "Lim Yu Cheng",
+    "iso": ["IPhO", "IOAA"],
+    "workplace": "SMK Damansara Jaya",
+    "job": "SPM",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
+  },
+  {
+    "name": "Low Zhen Xuen, Brandon",
+    "iso": ["IChO"],
+    "workplace": "Monash University Malaysia",
+    "job": "Bachelor of Medical Science and Doctor of Medicine",
+    "linkedin": "",
+    "github": "",
+    "discord": "Makiせ#8874",
+    "facebook": "https://www.facebook.com/brandonlow/",
+    "instagram": "",
+    "website": "",
+    "tuition": "Yes",
+    "email": ""
   }
 ]
