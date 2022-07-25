@@ -544,5 +544,19 @@
     "website": "",
     "tuition": "Yes",
     "email": ""
+  },
+  {
+    "name": "Chang Kian Yau",
+    "iso": ["IPhO"],
+    "workplace": "",
+    "job": "",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": ""
   }
 ]
