@@ -226,8 +226,8 @@
   {
     "name": "Chooi Je Qin",
     "iso": ["IESO", "IAO", "IOI", "IOAA", "IPhO*"],
-    "workplace": "Kolej Tuanku Ja'afar",
-    "job": "A Levels",
+    "workplace": "Harvard College",
+    "job": "B.A.",
     "linkedin": "",
     "github": "",
     "discord": "",
@@ -558,5 +558,19 @@
     "website": "",
     "tuition": "No",
     "email": ""
+  },
+  {
+    "name": "Julian Yang Tze Hao",
+    "iso": ["IEO"],
+    "workplace": "Bocconi University",
+    "job": "BSc Economic and Social Sciences",
+    "linkedin": "https://www.linkedin.com/in/julian-y/",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/julian.yang_th/",
+    "website": "",
+    "tuition": "Yes",
+    "email": "julianthyang@gmail.com"
   }
 ]
