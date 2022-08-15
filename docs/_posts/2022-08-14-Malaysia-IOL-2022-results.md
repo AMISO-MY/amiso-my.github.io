@@ -5,8 +5,8 @@ gallery:
     alt: "The Malaysia IOL 2022 team"
 feature_row:
   - image_path: /assets/images/posts/2022-08-14-Malaysia-IOL-2022-results/Wong Jer Ren.jpeg
-    alt: "Low Zhen Xuen, Brandon"
-    title: "Low Zhen Xuen, Brandon"
+    alt: "Wong Jer Ren"
+    title: "Wong Jer Ren"
     excerpt: "Honourable Mention"
   - image_path: /assets/images/posts/2022-08-14-Malaysia-IOL-2022-results/Muhammad Hafizuddin Akhtar bin Mohd Zainal Abidin.jpg
     alt: "Muhammad Hafizuddin Akhtar bin Mohd Zainal Abidin"
