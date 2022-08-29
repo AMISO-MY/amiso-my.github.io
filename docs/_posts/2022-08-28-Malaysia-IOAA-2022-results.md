@@ -34,7 +34,7 @@ The 15th IOAA was held from 14th to 21st August 2022 in hybrid mode, with 37 mai
 
 {% include feature_row %}
 
-Malaysian students interested in the informatics Olympiad can keep an eye out for the [Malaysia Olympiad on Astronomy and Astrophysics](/IOAA/), which is the national selection test in Malaysia for IOAA.
+Malaysian students interested in the astrophysics Olympiad can keep an eye out for the [Malaysia Olympiad on Astronomy and Astrophysics](/IOAA/), which is the national selection test in Malaysia for IOAA.
 
 Congratulations to the team, and we wish them all the best in their future journeys!
 
