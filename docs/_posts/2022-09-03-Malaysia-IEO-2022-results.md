@@ -34,7 +34,7 @@ IEO 2022 was held from 26th July to 1st August 2022 online by SKT Education Grou
 
 {% include feature_row %}
 
-Malaysian students interested in the economics Olympiad can keep an eye out for the [Malaysian Economics Olympiad](/IEO/), which is the national selection test in Malaysia for IEO.
+If you are interested in the economics Olympiad, look out for the [Malaysian Economics Olympiad](/IEO/), which is the national selection test in Malaysia for IEO.
 
 Congratulations to the team, and we wish them all the best in their future journeys!
 
