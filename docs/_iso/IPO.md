@@ -13,7 +13,7 @@ Selection for IPO is through MyPO by Persatuan Pendidikan Falsafah dan Pemikiran
 
 {% include gallery caption="MyPO" %}
 
-[Official PPFPM website](https://ppfpm.wordpress.com/)
+[Official PPFPM website](https://ppfpm.org/mypo2022/)
 
 [Official IPO website](http://www.philosophy-olympiad.org/)
 
