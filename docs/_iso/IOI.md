@@ -14,6 +14,8 @@ Selection for IOI is through Malaysian Computing Challenge.
 
 {% include gallery caption="Malaysian Computing Challenge" %}
 
+[Register now!](/MCC-2022-registration/)
+
 [Official MCC website](https://ioimalaysia.org/)
 
 [Official IOI website](https://ioinformatics.org/)
