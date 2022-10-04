@@ -58,6 +58,8 @@ The contestants shall be students of general or technical secondary schools i.e.
 
 Fundamentals of Physics (Halliday, Resnick, and Walker)
 
+[Basic references provided by Mr Wan](https://drive.google.com/drive/folders/1qATZt4_7ykTgDVnEC-wtYVj9PnpVlFTk?usp=sharing)
+
 # Other links
 
 [IPhO 2021 selection briefing](https://drive.google.com/file/d/1l4H2U54rJDmMfbFBknRfWUu-oCD2v-2F/view?usp=sharing)
