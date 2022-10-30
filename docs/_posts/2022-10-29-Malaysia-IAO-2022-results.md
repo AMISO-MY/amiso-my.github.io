@@ -24,6 +24,10 @@ feature_row:
     alt: "Ng Kin Him"
     title: "Ng Kin Him"
     excerpt: "Team member"
+  - image_path: /assets/images/posts/2022-10-29-Malaysia-IRAO-2022-results/Ong Cheng Yiin.jpg
+    alt: "Ong Cheng Yiin"
+    title: "Ong Cheng Yiin"
+    excerpt: "Team member"
 ---
 
 Our Malaysian team won 1 II-nd Prize Diploma at the [2022 International Remote Astronomy Olympiad (IRAO)](http://www.issp.ac.ru/IRAO/2022/) held by Matera, Italy.
