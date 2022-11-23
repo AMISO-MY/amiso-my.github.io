@@ -4,7 +4,7 @@ title:  "MOAA 2022 Registration Opens!"
 
 You can now participate in the 2023 Malaysia Olympiad on Astronomy and Astrophysics (MOAA2023) online pre-selection test at [https://moaa.starfinder.org.my](https://moaa.starfinder.org.my)!
 
-![MOAA2023 Poster](/amiso-my.github.io/docs/assets/images/posts/2022-11-22-MOAA-2022-registration/moaa-poster.jpeg)
+![MOAA2023 Poster](/assets/images/posts/2022-11-22-MOAA-2022-registration/moaa-poster.jpeg)
 
 Star-finder and Planetarium Negara are pleased to extend our invitation to eligible students to participate in the 2023 Malaysia Olympiad on Astronomy and Astrophysics (MOAA2023) online pre-selection test. 30 successful winners from this test will be invited to attend the MOAA2023 Camp during the school holidays in March 2023. Ten students will be selected from the camp to undergo further training where five students will ultimately be selected to represent Malaysia in the International Olympiad on Astronomy and Astrophysics (IOAA2023) in Poland.
 
