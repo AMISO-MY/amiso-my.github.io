@@ -10,7 +10,7 @@ gallery:
     alt: "Malaysian Olympiad in Astronomy and Astrophysics"
 ---
 
-[Register now!](https://moaa.starfinder.org.my/)
+[Register now!](/MOAA-2022-registration/)
 
 Selection for IOAA is through Malaysian Olympiad in Astronomy and Astrophysics.
 
