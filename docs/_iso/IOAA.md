@@ -61,3 +61,8 @@ Students participating in IOAA must satisfy BOTH of the following eligibility co
 [IAO Malaysian Team Training Resources](https://drive.google.com/drive/folders/1CDOBfAv7YHTIMzkLQ_9duc2EsbOC7a0X?usp=sharing)
 
 [IAO for People in a Hurry](https://chojeq.com/iao)
+
+If you are an IOAA alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IOAA? Talk by Mr. Fong Keng Yin
+{% include video id="01iwXo85SJk" provider="youtube" %}

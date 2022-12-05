@@ -49,3 +49,8 @@ You can view past problems [here](https://ioling.org/problems/){: target="_blank
 
 # Other links
 [MyCLO info pack](https://drive.google.com/file/d/1EADvOGOIDtpc1y-LyZIeLVzmYKU281Kr/view)
+
+If you are an IOL alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IOL? Talk by Mr. Khairul Anwar
+{% include video id="aL5z2D3zDeo" provider="youtube" %}

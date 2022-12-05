@@ -66,4 +66,7 @@ Fundamentals of Physics (Halliday, Resnick, and Walker)
 
 [Should my school join the science Olympiads](https://drive.google.com/file/d/1wvzAA0HgULUXbfdxOhydeO7jUx8Pf_UB/view?usp=sharing)
 
-*Last updated by Chin Vern*
+If you are an IPhO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IPhO? Talk by Mr. Wan Mohd Amirul
+{% include video id="lYZ7qqHmpog" provider="youtube" %}

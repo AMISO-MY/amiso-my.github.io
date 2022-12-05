@@ -63,3 +63,8 @@ In short, a contestant must be a secondary high school Malaysian student up to 2
 * [Codeforces](https://codeforces.com/)
 * [AtCoder](https://atcoder.jp/)
 * [oj.uz](https://oj.uz/)
+
+If you are an IOI alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IOI? Talk by Mr. Tan Wei Xin
+{% include video id="vYOMYK-PVhg" provider="youtube" %}

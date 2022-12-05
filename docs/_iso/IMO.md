@@ -63,4 +63,7 @@ Recommended books:
 # Other links
 [Malaysia and the IMO, presentation](https://docs.google.com/presentation/d/1Ak84VUt3VOhWkruo-bpo57BvsEp2aye6y7S9iLQPOCM/edit?usp=sharing)
 
-*Last updated by Hua Zhi*
+If you are an IMO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IMO? Talk by Dr. Muhammad Syafiq Johar
+{% include video id="xK5idg_Kjag" provider="youtube" %}

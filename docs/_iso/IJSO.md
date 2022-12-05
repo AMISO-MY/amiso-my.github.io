@@ -50,4 +50,7 @@ The Theory paper contains 5 questions and every question consist of 3 parts. The
 
 The Practical paper of the competition holds a maximum of 40 marks, given over 3 tasks. The Practical paper will be done in a team of 3 students. All 3 students will be from the same country (each country will generally have 2 teams). Teams will be allocated during the competition itself and cannot be decided prior.
 
-*Last updated by Amelia Lim*
+If you are an IJSO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IJSO? Talk by Ms. Anis Shahira Hadis
+{% include video id="3dvmxaVqr5E" provider="youtube" %}

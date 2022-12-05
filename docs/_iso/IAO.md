@@ -61,3 +61,8 @@ Beta: (2 students)
 
 # Other links
 [MyAO info pack](https://drive.google.com/file/d/1vqC3pxErFLYNYWpKU8G5QgaVrXDvMQGe/view?usp=sharing)
+
+If you are an IAO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IAO? Talk by Dr. Chong Hon Yew
+{% include video id="OczUq6i8ahE" provider="youtube" %}

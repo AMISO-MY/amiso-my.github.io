@@ -40,3 +40,8 @@ Participants should not have been born before July 1, X-19, where X is the year 
 
 # Other links
 [MyESO info pack](https://drive.google.com/file/d/13zCO-uHK_38OsCr5qVFuztAPEKXclU7i/view).
+
+If you are an IESO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
+
+# What is IESO? Talk by Dr. Jasmi Hafiz
+{% include video id="dDneiQRjrQc" provider="youtube" %}

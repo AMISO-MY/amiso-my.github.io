@@ -40,8 +40,8 @@ Do note that due to the recent pandemic, IChO 2020, 2021 and 2022 were organised
 
 Contestants must be younger than 20 years old, and are not enrolled in any tertiary education institutes at the day of competition.
 
-If you are an IChO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
-
 # Resources
 
 [Topical handouts by CK Yau](https://drive.google.com/drive/folders/1_YMI3C_rzULoGbdFbkBGiLnUULl1z4ek?usp=sharing){: target="_blank" rel="noopener noreferrer"}
+
+If you are an IChO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.

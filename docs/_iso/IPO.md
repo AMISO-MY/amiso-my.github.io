@@ -49,4 +49,5 @@ All Malaysian nationals who are studying at a high school level or pre-universit
 
 If you are an IPO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
 
-*Last updated by Esther*
+# What is IPO? Talk by Mr. Hazman Baharom
+{% include video id="PS0IDSRuMwI" provider="youtube" %}
