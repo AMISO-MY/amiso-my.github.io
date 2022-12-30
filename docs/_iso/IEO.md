@@ -19,5 +19,7 @@ Selection for IEO is through Kijang Economics Competition.
 
 [Official IEO website](https://ecolymp.org/)
 
+# What is IEO? Talk by Mr. Hamidi Razak
+{% include video id="RPMWp5axA4M" provider="youtube" %}
 
 If you are an IEO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
