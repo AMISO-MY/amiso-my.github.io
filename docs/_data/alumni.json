@@ -490,20 +490,6 @@
     "email": "ongzhizheng@gmail.com"
   },
   {
-    "name": "Matthew Heng Yu Jie",
-    "iso": ["IPhO"],
-    "workplace": "SMJK Jit Sin",
-    "job": "STPM",
-    "linkedin": "",
-    "github": "",
-    "discord": "",
-    "facebook": "https://www.facebook.com/heng.matthew.39",
-    "instagram": "https://www.instagram.com/matthewheng_/",
-    "website": "",
-    "tuition": "No",
-    "email": "matthew15220@gmail.com"
-  },
-  {
     "name": "Nelson Loh Kwong Weng",
     "iso": ["IEO", "IMO", "IOI"],
     "workplace": "Brickfields Asia College (BAC)",
@@ -656,5 +642,19 @@
     "website": "",
     "tuition": "No",
     "email": "harshana.gunalan@gmail.com"
+  },
+  {
+    "name": "Matthew Heng Yu Jie",
+    "iso": ["IPhO 2022"],
+    "workplace": "Nanyang Technological University",
+    "job": "BEng Electrical and Electronic Engineering",
+    "linkedin": "",
+    "github": "",
+    "discord": "",
+    "facebook": "",
+    "instagram": "",
+    "website": "",
+    "tuition": "No",
+    "email": "matthew15220@gmail.com"
   }
 ]
