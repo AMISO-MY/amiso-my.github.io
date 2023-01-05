@@ -1,5 +1,5 @@
 ---
-title: IPO - PPFPM
+title: IPO - MyPO
 permalink: /ipo/
 excerpt: "Persatuan Pendidikan Falsafah dan Pemikiran Malaysia (PPFPM)"
 header:
