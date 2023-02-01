@@ -4,6 +4,8 @@ title:  "MyAO 2023 Registration Opens!"
 
 The Galaxy Explorer Competition (previously known as MyAO) is now open for registration at [ContestHub](https://contesthub.my/register)! Other olympiads can be found on the website as well.
 
+![Galaxy Explorer Competition 2023 Poster](/assets/images/galaxy-explorer-competition.png)
+
 Format: Online
 
 Registration date: 23 December 2022 - 3 February 2023

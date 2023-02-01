@@ -4,6 +4,8 @@ title:  "MyESO 2023 Registration Opens!"
 
 The Earth Explorer Competition (previously known as MyESO) is now open for registration at [ContestHub](https://contesthub.my/register)! Other olympiads can be found on the website as well.
 
+![Earth Explorer Competition 2023 Poster](/assets/images/earth-explorer-competition.png)
+
 Format: Online  
 
 Registration date: 23 December 2022 - 3 February 2023
