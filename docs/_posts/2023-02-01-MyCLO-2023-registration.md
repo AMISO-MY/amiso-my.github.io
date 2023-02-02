@@ -22,7 +22,7 @@ Links
 - [MyCLO info pack](https://myclo.my/wp-content/uploads/2023/01/LANGUAGE-EXPLORER-COMPETITION.pdf).
 - [Official MyCLO page](https://myclo.my/).
 - [AMISO page on MyCLO](https://amiso.my/iol/).
-- [MyESO Sample Questions](https://drive.google.com/file/d/1iyiW_hTFIF1BQt6XEKi71CLPRxT_ZIHv/view?usp=sharing)
+- [MyCLO Sample Questions](https://drive.google.com/file/d/1iyiW_hTFIF1BQt6XEKi71CLPRxT_ZIHv/view?usp=sharing)
 
 Contact:
 - 018-3920204 (Miss Suri)
