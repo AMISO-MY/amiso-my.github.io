@@ -6,3 +6,12 @@
 #red {
     color: red;
 }
+
+#page-title{
+    display: none;
+}
+
+#logo {
+    width: fit-content;
+    margin: 0 auto;
+}
