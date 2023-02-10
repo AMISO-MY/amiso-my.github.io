@@ -68,5 +68,5 @@ Fundamentals of Physics (Halliday, Resnick, and Walker)
 
 If you are an IPhO alumnus, you can help us complete this page by [registering](/alumni) first. Thank you.
 
-# What is IPhO? Talk by Mr. Wan Mohd Amirul
+# What is IPhO? Talk by Mr. Wan Mohd Aimran
 {% include video id="lYZ7qqHmpog" provider="youtube" %}
