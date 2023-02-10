@@ -4,8 +4,6 @@ title:  "OFM 2023 Registration Opens!"
 
 Olimpiad Fizik Malaysia (OFM) is here - read below to find out how you can participate in the National Selection Test for the International Physics Olympiad!
 
-![OFM Logo](/assets/images/ofm.png)
-
 # TABLE OF CONTENTS
 - [Introduction](#introduction)
 - [Information for Students](#information-for-students)
@@ -92,9 +90,9 @@ The tentative dates are as follows:
 - Training camp 5 (face-to-face at UKM Bangi)
 - International Physics Olympiad 2023 in Tokyo, Japan
 
-STUDENTS who are interested to participate in the selection process, please complete this form: [https://forms.gle/iWGKW7HFcPFz89rYA](https://forms.gle/iWGKW7HFcPFz89rYA) 
+**<u>STUDENTS</u>** who are interested to participate in the selection process, please complete this form: [https://forms.gle/iWGKW7HFcPFz89rYA](https://forms.gle/iWGKW7HFcPFz89rYA) 
 
-EDUCATORS who are interested to volunteer in the selection process, please complete this form: [https://forms.gle/zXjo6GX2HbPQQ93W9](https://forms.gle/zXjo6GX2HbPQQ93W9)   
+**<u>EDUCATORS</u>** who are interested to volunteer in the selection process, please complete this form: [https://forms.gle/zXjo6GX2HbPQQ93W9](https://forms.gle/zXjo6GX2HbPQQ93W9)   
 
 ![OFM Selection Process](/assets/images/posts/2023-02-10-OFM-2023-registration/ofm-selection-process.png)
 
@@ -107,7 +105,7 @@ EDUCATORS who are interested to volunteer in the selection process, please compl
 **Websites**:
 - International Physics Olympiad official website: [https://www.ipho-new.org/](https://www.ipho-new.org/) 
 - Malaysian Physics Olympiad Committee: [http://www.ukm.my/ipho/](http://www.ukm.my/ipho/) 
-- AMISO Olimpiad Fizik Malaysia Discord channel: [](https://discordapp.com/channels/890904730304393226/932861379843592272)
+- AMISO Olimpiad Fizik Malaysia Discord channel: [https://amiso.my/discord](https://amiso.my/discord)
 - AMISO Page on IPhO: [https://amiso.my/ipho](https://amiso.my/ipho)
 - AMISO Interview: "What is IPhO?": [https://youtu.be/lYZ7qqHmpog](https://youtu.be/lYZ7qqHmpog)
 
