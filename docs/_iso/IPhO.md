@@ -15,7 +15,7 @@ Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
 
 <!-- [Register now!](https://forms.gle/bzLDxHdGN83L8JiX7){:target="_blank"} -->
 
-[Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)&nbsp;&nbsp;[Register Now!](/OFM-2023-Registration)
+[Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)&nbsp;&nbsp;[Register Now!](/OFM-2023-registration)
 
 # Selection Process
 
