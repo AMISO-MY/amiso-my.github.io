@@ -11,7 +11,19 @@
     display: none;
 }
 
-#logo {
-    width: fit-content;
-    margin: 0 auto;
+#hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
+
+#countdown {
+    width: 60%;
+}
+
+#logo {
+    width: 40%;
+    /* margin: 0 auto; */
+}
+

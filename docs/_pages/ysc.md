@@ -6,9 +6,17 @@ classes: wide
 ---
 
 <link href="/assets/css/ysc.css" type="text/css" rel="stylesheet" />
+<script src="/assets/css/ysc.js"></script>
 
+<div id="hero">
+<div id="countdown">
+<h2>2nd March 2023, Online</h2>
+<h1>Team Science Competition for Malaysians</h1>
+<h3>AMISO's first ever, student-led olympiad.</h3>
+<h1>Days Left: 69 days 42 hours 10 minutes</h1>
+</div>
 <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
-
+</div>
 # Introduction
 The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University!
 
@@ -29,25 +37,6 @@ The important details are as follows:
 - **Date**			: 2nd April 2023
 - **Time**			: 10:00am - 5:00pm
 - **Venue**			: Heriot-Watt University Malaysia
-
-
-**Prizes and Awards**:
-- Junior level (High school students aged 13 to 18 years old)
-    - 1st Place: RM350 and certificate with ranking
-    - 2nd Place: RM250 and certificate with ranking
-    - 3rd Place: RM150 and certificate with ranking
-    - Highest scorer in subject: certificate of best subject award
-
-- Senior level (Pre-U students aged 18 to 19 years old):
-    - 1st Place: RM350 and certificate with ranking
-    - 2nd Place: RM250 and certificate with ranking
-    - 3rd Place: RM150 and certificate with ranking
-    - Highest scorer in subject: certificate of best subject award
-
-- Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members.
-    (eg: first place team will get a total of RM350 to be shared among its team members)
-
-- Certificate of participation is awarded to all participants. Finalists that attended the final round physically will also be given a certificate of finalists.
 
 
 
@@ -85,6 +74,7 @@ The important details are as follows:
 # Social Media
 
 
+<!-- throw rules into a separate google docs
 
 # Rules
 **Preliminary round**
@@ -111,4 +101,4 @@ The important details are as follows:
 - The YSC committee accepts no responsibility for any damage, losses, liabilities suffered by the participants as a result of participation in the competition.
 - Any violation of the rules stated above will result in automatic disqualification of the perpetrator and his/her group.
 - In the case that a member of a finalist team withdraws from his/her team, the team may join the final with its remaining members.
-
+ -->
