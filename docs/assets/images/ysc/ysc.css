@@ -1,0 +1,69 @@
+.page {
+    width: 100%;
+    float: left;
+}
+.e-content {
+    padding: 0 8em;
+}
+.rainbowText {
+    background: conic-gradient(#EB5757, #F2994A, #F2C94C, #6FCF97, #56CCF2, #BB6BD9);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#page-title{
+    display: none;
+}
+
+#hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#countdown {
+    width: 60%;
+}
+#countdown > a {
+    font-size: 1.25em;
+}
+
+#logo {
+    width: 40%;
+}
+
+#timer {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#logos > img {
+    width: 30vw;
+}
+
+#cmts > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 20vw;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: grey;
+}
+
+#cmts > div > img {
+    border-radius: 9999px;
+}
+#cmts > div > p {
+    margin-bottom: 0;
+}
