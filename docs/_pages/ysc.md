@@ -77,6 +77,7 @@ The important details are as follows:
 - *Basic Mathematics* by Serge Lang
 - *A First Course in Calculus* by Serge Lang
 - *Junior Problem Seminar* by D.A. Santos
+- [Tristan Chaang's Book](https://tristanchaang.github.io/mybook/)
 
 ### Physics
 - *An Introduction to Mechanics* by Kleppner and Kolenkow
