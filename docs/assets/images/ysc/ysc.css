@@ -5,6 +5,7 @@
 .e-content {
     padding: 0 8em;
 }
+
 .rainbowText {
     background: conic-gradient(#EB5757, #F2994A, #F2C94C, #6FCF97, #56CCF2, #BB6BD9);
     background-clip: text;
@@ -50,6 +51,15 @@
     width: 30vw;
 }
 
+#cmts-wrapper { 
+    overflow-x: scroll; 
+}
+#cmts {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 #cmts > div {
     display: flex;
     flex-direction: column;
@@ -59,11 +69,40 @@
     padding: 1em;
     border-radius: 1em;
     background-color: grey;
+
+    margin: 0 1em;
 }
 
 #cmts > div > img {
     border-radius: 9999px;
+    object-fit: cover;
+    width: calc(20vw - 3em);
+    height: calc(20vw - 3em);
 }
 #cmts > div > p {
     margin-bottom: 0;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .e-content {
+      padding: 0;
+    }
+    #hero {
+        flex-direction: column-reverse;
+    }
+    #logo {
+        width: 80%;
+    }
+    #timer {
+        font-size: 1.5em;
+    }
+    #cmts > div {
+        width: 12em;
+    }
+    #cmts > div > img {
+        width: 6em;
+        height: 6em;
+    }
 }

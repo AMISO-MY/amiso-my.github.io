@@ -23,7 +23,7 @@ classes: wide
 # Introduction
 The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University!
 
-Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. YSC 2023 consists of 50 questions in total and encompasses Mathematics, Biology, Physics, Chemistry and Astronomy. (10 questions for each subject).
+Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
 
 YSC 2023 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
@@ -71,18 +71,6 @@ The important details are as follows:
     <img src="/assets/images/amiso-logo.png"/>
 </div>
 
-<!-- 
-# (Committee)
-<div id="cmts">
-    <div>
-        <img src="/assets/images/ysc/Ong Zhi Zheng.jpg"/>
-        <h6>Ong Zhi Zheng</h6>
-        <p>Publicity</p>
-    </div>
-
-</div> 
--->
-
 # Reading Materials
 
 ### Mathematics
@@ -106,3 +94,8 @@ The important details are as follows:
 # Links
 - [YSC Infopack](https://drive.google.com/drive/folders/1LjtgadPgM0KnxEAdvccQXBA0nJTEBHcO?usp=share_link)
 - [Instagram](https://instagram.com/youthstemcup)
+
+
+<div id="cmts-wrapper">
+    <div id="cmts"></div> 
+</div>
