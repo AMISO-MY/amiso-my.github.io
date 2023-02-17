@@ -50,11 +50,12 @@ The important details are as follows:
 
 
 # Timeline
-- 11/02/23: Commencement of registration period
-- 18/03/23: Registration is closed
-- 19/03/23: Finalists are announced
-- 28/03/23: Deadline of confirmation of finalist attendance
-- 02/04/23: Competition day (see 5.3)
+- 11/02/23: Registration Starts
+- 18/03/23: Registration Deadline
+- 19/03/23: Preliminary Round
+- 20/03/23: Announcement of Finalists
+- 28/03/23: Finalist Attendance Confirmation Deadline
+- 02/04/23: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
@@ -82,8 +83,26 @@ The important details are as follows:
 </div> 
 -->
 
+# Reading Materials
+
+### Mathematics
+- *Basic Mathematics* by Serge Lang
+- *A First Course in Calculus* by Serge Lang
+- *Junior Problem Seminar* by D.A. Santos
+
+### Physics
+- *An Introduction to Mechanics* by Kleppner and Kolenkow
+
+### Chemistry
+- [CK Yau's Handouts](https://drive.google.com/drive/folders/1_YMI3C_rzULoGbdFbkBGiLnUULl1z4ek?usp=sharing)
+
+### Biology
+- *Campbell Biology* by Lisa A. Urry
+
+### Astronomy & Astrophysics
+- [https://chojeq.com/iao](https://chojeq.com/iao)
+
 
 # Links
 - [YSC Infopack](https://drive.google.com/drive/folders/1LjtgadPgM0KnxEAdvccQXBA0nJTEBHcO?usp=share_link)
-- Reading Material
 - [Instagram](https://instagram.com/youthstemcup)
