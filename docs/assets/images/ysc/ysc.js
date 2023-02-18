@@ -49,10 +49,11 @@ let cmts = [
 window.addEventListener("load", () => {
     for (let cmt of cmts) {
         let cmtNode = document.createElement("div");
+        cmtNode.className = "tooltip";
         cmtNode.innerHTML = `
         <img src="/assets/images/ysc/${cmt.name.replace(/ /g, "_")}.jpg"/>
         <h6>${cmt.name}</h6>
-        <p>${cmt.pos}</p>
+        <span class="tooltiptext">${cmt.pos}</span>
     `;
         document.getElementById("cmts").appendChild(cmtNode);
     }

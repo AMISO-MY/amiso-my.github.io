@@ -53,54 +53,88 @@
     width: 30vw;
 }
 
-#cmts-wrapper {
-    overflow-x: scroll;
-}
+
 
 #cmts {
-    display: inline-flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding: 1em 0;
+    display: grid;
+    grid-template-columns: repeat(5, calc(80vw/6));
+    grid-template-rows: repeat(4, calc(80vw/5));
+    gap: 0.5em;
 }
 
 #cmts>div {
+    width: calc(80vw/6);
+    /* height: calc(80vw/6 + 5vw); */
+
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    width: 20vw;
     padding: 1em;
     border-radius: 1em;
     background-color: gray;
 
-    margin: 0 1em;
 }
 
 #cmts>div>img {
     border-radius: 9999px;
     object-fit: cover;
-    width: calc(20vw - 3em);
-    height: calc(20vw - 3em);
+    width: calc(80vw/10);
+    height: calc(80vw/10);
 }
 
-#cmts>div>p {
-    margin-bottom: 0;
+#cmts>div>h6 {
+    margin-top: 0.5em;
+    font-size: 0.8em;
+    text-align: center;
 }
 
-#cmts-wrapper::-webkit-scrollbar {
-    height: 8px;
+#cmts>div:hover #cmts>div>p {
+    display: block;
 }
 
-#cmts-wrapper::-webkit-scrollbar-track {
-    border-radius: 8px;
-}
+@media only screen and (min-width: 769px) {
+    .tooltip {
+        position: relative;
+    }
 
-#cmts-wrapper::-webkit-scrollbar-thumb {
-    background: gray;
-    border-radius: 8px;
-}
+    .tooltip .tooltiptext {
+        /* visibility: hidden; */
+        opacity: 0;
+        width: 9em;
+        font-size: 0.6em;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
 
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+
+        top: 90%;
+        left: 50%;
+        margin-left: -4.5em;
+
+    }
+
+    .tooltip:hover .tooltiptext {
+        /* visibility: visible; */
+        opacity: 1;
+    }
+
+    .tooltip .tooltiptext::after {
+        content: " ";
+        position: absolute;
+        bottom: 100%;
+        /* At the top of the tooltip */
+        left: 50%;
+        margin-left: -0.75em;
+        border-width: 0.75em;
+        border-style: solid;
+        border-color: transparent transparent black transparent;
+    }
+}
 
 @media only screen and (max-width: 768px) {
 
@@ -131,11 +165,42 @@
     }
 
     #cmts>div {
-        width: 12em;
+        width: 10em;
     }
 
     #cmts>div>img {
         width: 6em;
         height: 6em;
     }
+
+    #cmts {
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding: 1em 0;
+    }
+
+    #cmts-wrapper {
+        overflow-x: scroll;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar-track {
+        border-radius: 8px;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar-thumb {
+        background: gray;
+        border-radius: 8px;
+    }
+
+    #cmts>div>span {
+        margin-bottom: 0;
+        display: block;
+        font-size: 0.8em;
+    }
+
 }
