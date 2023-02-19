@@ -50,7 +50,7 @@ The important details are as follows:
 
 
 # Timeline
-- 11/02/23: Registration Starts
+- 16/02/23: Registration Starts
 - 18/03/23: Registration Deadline
 - 19/03/23: Preliminary Round
 - 20/03/23: Announcement of Finalists
