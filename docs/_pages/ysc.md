@@ -81,9 +81,11 @@ The important details are as follows:
 
 ### Physics
 - *An Introduction to Mechanics* by Kleppner and Kolenkow
+- *Fundamentals of Physics* by Halliday, Resnick, Walker
 
 ### Chemistry
 - [CK Yau's Handouts](https://drive.google.com/drive/folders/1_YMI3C_rzULoGbdFbkBGiLnUULl1z4ek?usp=sharing)
+- [Introduction to Lattice Structures in Crystalline Solid](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/07%3A_The_Crystalline_Solid_State/7.02%3A_Formulas_and_Structures_of_Solids/7.2.02%3A_Lattice_Structures_in_Crystalline_Solids)
 
 ### Biology
 - *Campbell Biology* by Lisa A. Urry

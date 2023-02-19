@@ -41,7 +41,7 @@ let cmts = [
     { name: "Tristan Chaang", pos: "Problem Selection Committee Head" },
     { name: "Pua E Rick", pos: "Problem Selection Committee" },
     { name: "Chooi Je Qin", pos: "Problem Selection Committee" },
-    { name: "Ms Ong Si Ing", pos: "Problem Selection Committee" },
+    { name: "Ms Ong Sy Ing", pos: "Problem Selection Committee" },
     { name: "Vee Hua Zhi", pos: "Problem Selection Committee" },
     { name: "Wong Jer Ren", pos: "Problem Selection Committee" },
 ];
