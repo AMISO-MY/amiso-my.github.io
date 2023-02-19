@@ -67,7 +67,7 @@ The important details are as follows:
 # Special Thanks
 <!-- HWU Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysc/hwu.png"/>
+    <img src="/assets/images/ysc/hwu.jpg"/>
     <img src="/assets/images/amiso-logo.png"/>
 </div>
 
