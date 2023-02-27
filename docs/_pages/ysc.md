@@ -73,7 +73,7 @@ The important details are as follows:
 
 # Reading Materials
 Below are some reading materials recommended by the YSC Problem Setting Committee.
-A broader list is included [here](/assets/images/ysc/YSC_Scope_Of_Syllabus.pdf).
+A broader list is included [here](/assets/images/ysc/YSC_Scope_of_Syllabus.pdf).
 
 ### Mathematics
 - *A First Course in Calculus* by Serge Lang
