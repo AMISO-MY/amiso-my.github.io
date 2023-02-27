@@ -72,9 +72,10 @@ The important details are as follows:
 </div>
 
 # Reading Materials
+Below are some reading materials recommended by the YSC Problem Setting Committee.
+A broader list is included [here](/assets/images/ysc/YSC_Scope_Of_Syllabus.pdf).
 
 ### Mathematics
-- *Basic Mathematics* by Serge Lang
 - *A First Course in Calculus* by Serge Lang
 - *Junior Problem Seminar* by D.A. Santos
 - [Tristan Chaang's Book](https://play.google.com/store/books/details?id=N-WuEAAAQBAJ)
@@ -92,6 +93,7 @@ The important details are as follows:
 
 ### Astronomy & Astrophysics
 - [https://chojeq.com/iao](https://chojeq.com/iao)
+- [https://usaaao.org/resources/](https://usaaao.org/resources/)
 
 
 # Links
