@@ -2,6 +2,8 @@
 title:  "OFM 2023 Registration Opens!"
 ---
 
+** As of 9th March 2023, there has been an update for OFM 2023 - find out more [here](/OFM-2023-update).
+
 Olimpiad Fizik Malaysia (OFM) is here - read below to find out how you can participate in the National Selection Test for the International Physics Olympiad!
 
 # TABLE OF CONTENTS
