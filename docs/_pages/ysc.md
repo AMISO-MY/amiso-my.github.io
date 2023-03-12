@@ -20,6 +20,7 @@ classes: wide
 </div>
 
 
+
 # Introduction
 The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University!
 
@@ -42,6 +43,13 @@ The important details are as follows:
 - **Venue**			: Heriot-Watt University Malaysia
 
 
+
+# Registration
+- Registration for YSC 2023 is **free of charge**
+- [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
+
+
+
 # Cash prize and certificate awarded:
 ### Junior level (High school students aged 13 to 18 years old)
 - 1st Place: RM350 and certificate with ranking
@@ -55,13 +63,7 @@ The important details are as follows:
 - 3rd Place: RM150 and certificate with ranking
 - Highest scorer in subject: certificate of best subject award
 
-<h6>Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members.
-(eg. The team who wins first place will get a total of RM350 only to be shared among its team members)</h6>
-
-
-# Registration
-- Registration for YSC 2023 is **free of charge**
-- [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
+<sup><sup>Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members. (eg. The team who wins first place will get a total of RM350 only to be shared among its team members)</sup></sup>
 
 
 
@@ -76,7 +78,6 @@ The important details are as follows:
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
 ![Final Round Day-Of Schedule]() -->
-
 
 
 
