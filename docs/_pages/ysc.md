@@ -42,6 +42,22 @@ The important details are as follows:
 - **Venue**			: Heriot-Watt University Malaysia
 
 
+# Cash prize and certificate awarded:
+### Junior level (High school students aged 13 to 18 years old)
+- 1st Place: RM350 and certificate with ranking
+- 2nd Place: RM250 and certificate with ranking
+- 3rd Place: RM150 and certificate with ranking
+- Highest scorer in subject: certificate of best subject award
+
+### Senior level (Pre-U studentsaged 18 to 19 years old):
+- 1st Place: RM350 and certificate with ranking
+- 2nd Place: RM250 and certificate with ranking
+- 3rd Place: RM150 and certificate with ranking
+- Highest scorer in subject: certificate of best subject award
+
+<h6>Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members.
+(eg. The team who wins first place will get a total of RM350 only to be shared among its team members)</h6>
+
 
 # Registration
 - Registration for YSC 2023 is **free of charge**
