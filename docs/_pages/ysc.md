@@ -39,7 +39,7 @@ The important details are as follows:
 
 **Final Round**:
 - **Date**			: 2nd April 2023
-- **Time**			: 10:00am - 5:00pm
+- **Time**			: 9:00am - 5:00pm
 - **Venue**			: Heriot-Watt University Malaysia
 
 
