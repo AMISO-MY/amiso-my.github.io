@@ -817,5 +817,21 @@
         "website": "",
         "tuition": "Yes",
         "email": "sheeyirong333@gmail.com"
+    },
+    {
+        "name": "Choong Khye Xuin",
+        "iso": [
+            "IPhO"
+        ],
+        "workplace": "University Science Malaysia",
+        "job": "Industrial Chemistry",
+        "linkedin": "",
+        "github": "",
+        "discord": "yinro#9713",
+        "facebook": "https://www.facebook.com/imchoong.rabbit/",
+        "instagram": "https://www.instagram.com/khyexuin/",
+        "website": "https://www.legendary-six.com/",
+        "tuition": "No",
+        "email": "choong@legendary-six.com"
     }
 ]
