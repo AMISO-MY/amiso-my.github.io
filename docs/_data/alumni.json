@@ -833,5 +833,21 @@
         "website": "https://www.legendary-six.com/",
         "tuition": "No",
         "email": "choong@legendary-six.com"
+    },
+    {
+        "name": "Quincy Jules Tan Yi Liing",
+        "iso": [
+            "IESO"
+        ],
+        "workplace": "HELP University",
+        "job": "A Levels",
+        "linkedin": "https://www.linkedin.com/in/quincytan/",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "https://www.instagram.com/quinbeeproject/",
+        "tuition": "No",
+        "email": ""
     }
 ]
