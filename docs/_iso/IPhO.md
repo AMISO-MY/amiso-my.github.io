@@ -21,7 +21,7 @@ Selection for IPhO is through Olimpiad Fizik Malaysia by UKM.
 
 The top 5 contestants will be selected to represent Malaysia at the IPhO.
 
-For 2023, the selection process will consist of 5 training camps. Please refer to [this page](/OFM-2023-Registration) to learn more.
+For 2023, the selection process will consist of 5 training camps. Please refer to [this page](/OFM-2023-registration) to learn more.
 
 KPM students should register through their teachers. Private students register individually via Google form. [Subscribe to us](/subscribe) to get notified.
 

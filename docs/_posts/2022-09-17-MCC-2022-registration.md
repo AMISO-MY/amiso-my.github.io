@@ -35,7 +35,7 @@ Python is recommended for beginners, and C++ is recommended as it is the only la
 
 
 ## Preparation:
-Materials available at the [official website](https://ioimalaysia.org/resource/for-student/). Join the [Discord server](amiso.my/discord) to chat with IOI alumni!
+Materials available at the [official website](https://ioimalaysia.org/resource/for-student/). Join the [Discord server](https://amiso.my/discord) to chat with IOI alumni!
 
 ## Eligibility:
 
