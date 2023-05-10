@@ -54,7 +54,7 @@ More details can be found on the [TEDC Infopack](https://docs.google.com/documen
 - 1st - 5th Place: Certificates with ranking.
 - Total cash pool: RM 1000
 
-Details for distribution of cash prizes will be set on the [info pack document](https://docs.google.com/document/d/1-yJGEG4GnmXQE-G87WCXIa2Cze2lEG9hnx4jIABt7NI/).
+Details for the distribution of cash prizes will be outlined in the [TEDC Info Pack](https://docs.google.com/document/d/1-yJGEG4GnmXQE-G87WCXIa2Cze2lEG9hnx4jIABt7NI/).
 
 
 
