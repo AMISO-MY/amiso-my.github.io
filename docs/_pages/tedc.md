@@ -69,7 +69,7 @@ Details for the distribution of cash prizes will be outlined in the [TEDC Info P
 
 # Special Thanks
 <div id="logos">
-    <img src="/assets/images/tedc/ameu.jpg"/>
+    <img src="/assets/images/tedc/ameu.png"/>
     <img src="/assets/images/amiso-logo.png"/>
 </div>
 
