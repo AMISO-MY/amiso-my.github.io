@@ -40,7 +40,7 @@ The important details are as follows:
 - **Time**      : 2:00pm - 3:30pm
 - **Venue**     : Asia Pacific University of Technology & Innovation
 
-More details can be found on the [TEDC Infopack](https://docs.google.com/document/d/1-yJGEG4GnmXQE-G87WCXIa2Cze2lEG9hnx4jIABt7NI/).
+More details can be found on the [TEDC Info Pack](https://docs.google.com/document/d/1-yJGEG4GnmXQE-G87WCXIa2Cze2lEG9hnx4jIABt7NI/).
 
 
 
