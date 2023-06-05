@@ -11,7 +11,7 @@ classes: wide
 <div id="hero">
     <div id="countdown">
         <h2>19th March 2023, Online</h2>
-        <h1>Team Science Competition for Malaysians</h1>
+        <h1>A Team Science Competition for Malaysians</h1>
         <p>AMISO's first ever, student-led olympiad.</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform" target="_blank">Register now!</a>
         <p id="timer">0d 0h 0m 0s</p>
