@@ -45,7 +45,7 @@ The important details are as follows:
 
 
 # Registration
-- Registration for YSC 2023 is **free of charge**!
+- Registration for YSC 2023 is **Not free of charge**!
 - [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
 
 
