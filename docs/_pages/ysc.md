@@ -68,12 +68,12 @@ The important details are as follows:
 
 
 # Timeline
-- 16/02/23: Registration Starts
-- 18/03/23: Registration Deadline
-- 19/03/23: Preliminary Round
-- 20/03/23: Announcement of Finalists
-- 28/03/23: Finalist Attendance Confirmation Deadline
-- 02/04/23: Final Round
+- 16/02/2023: Registration Starts
+- 18/03/2023: Registration Deadline
+- 19/03/2023: Preliminary Round
+- 20/03/2023: Announcement of Finalists
+- 28/03/2023: Finalist Attendance Confirmation Deadline
+- 02/04/2023: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
