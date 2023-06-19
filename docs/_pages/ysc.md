@@ -6,15 +6,17 @@ classes: wide
 ---
 
 <link href="/assets/images/ysc/ysc.css" type="text/css" rel="stylesheet" />
-<script src="/assets/images/ysc/ysc.js"></script>
+<!-- <script src="/assets/images/ysc/ysc.js"></script> -->
 
 <div id="hero">
     <div id="countdown">
         <h2>19th March 2023, Online</h2>
         <h1>A Team Science Competition for Malaysians</h1>
         <p>AMISO's first ever, student-led olympiad.</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform" target="_blank">Register now!</a>
-        <p id="timer">0d 0h 0m 0s</p>
+        <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform" target="_blank">Register now!</a> -->
+        <!-- <p id="timer">0d 0h 0m 0s</p> -->
+        <p id="timer">It's a wrap!</p>
+        <p>Thanks to everyone who joined YSC!</p>
     </div>
     <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
 </div>
