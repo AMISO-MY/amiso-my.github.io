@@ -24,7 +24,7 @@ classes: wide
 
 
 # Introduction
-The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University!
+The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University! Yeah that's it!
 
 Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
 
@@ -47,7 +47,7 @@ The important details are as follows:
 
 
 # Registration
-- Registration for YSC 2023 is **free of charge**!
+- Application for YSC 2023 is **free of charge**!
 - [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
 
 
@@ -70,12 +70,12 @@ The important details are as follows:
 
 
 # Timeline
-- 16/02/23: Registration Starts
-- 18/03/23: Registration Deadline
-- 19/03/23: Preliminary Round
-- 20/03/23: Announcement of Finalists
-- 28/03/23: Finalist Attendance Confirmation Deadline
-- 02/04/23: Final Round
+- 16/02/2023: Registration Starts
+- 18/03/2023: Registration Deadline
+- 19/03/2023: Preliminary Round
+- 20/03/2023: Announcement of Finalists
+- 28/03/2023: Finalist Attendance Confirmation Deadline
+- 02/04/2023: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
