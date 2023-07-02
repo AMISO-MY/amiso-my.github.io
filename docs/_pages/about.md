@@ -17,9 +17,9 @@ To get into the national team for any ISO, you must take part in the national se
 
 # Why AMISO?
 
-Background of AMISO
+## Background of AMISO
 The Association of Malaysian Alumni in the International Science Olympiads, termed AMISO, is a not-for-profit, student-run organisation that gathers Malaysian alumni of the International Science Olympiads (such as IMO, IChO, IPhO) and Malaysian youth aspiring towards representing the nation in the sciences. 
 
-Vision and Mission
+## Vision and Mission
 Responding to the under-awareness of the Science Olympiads in the Malaysian academic climate, AMISO aims to create exposure of the diversity of opportunities that the Science Olympiads present to the Malaysian youth at every level, which serve as the inspiration for our initiatives. We envision driving social change through forging an academic climate that renders Malaysia a top-performing country in the Olympiads.
 
