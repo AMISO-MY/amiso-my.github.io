@@ -5,7 +5,7 @@ permalink: /ysec/
 classes: wide
 ---
 
-<link href="/assets/images/ysc/ysc.css" type="text/css" rel="stylesheet" />
+<link href="/assets/images/ysec/ysec.css" type="text/css" rel="stylesheet" />
 <!-- <script src="/assets/images/ysc/ysc.js"></script> -->
 
 <div id="hero">
