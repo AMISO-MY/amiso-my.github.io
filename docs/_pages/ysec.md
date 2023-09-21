@@ -72,7 +72,7 @@ The final experiment camp, held in DISTED College in Penang, includes practical 
 <!-- DISTED Logo, AMISO Logo -->
 <div id="logos">
     <img src="/assets/images/ysec/disted.png"/>
-    <!-- <img src="/assets/images/ysec/nsa.png"/> -->
+    <img src="/assets/images/ysec/nsa.png"/>
     <img src="/assets/images/amiso-logo.png"/>
 </div>
 
