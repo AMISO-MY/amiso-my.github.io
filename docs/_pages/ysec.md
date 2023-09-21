@@ -6,7 +6,7 @@ classes: wide
 ---
 
 <link href="/assets/images/ysec/ysec.css" type="text/css" rel="stylesheet" />
-<!-- <script src="/assets/images/ysc/ysc.js"></script> -->
+<script src="/assets/images/ysec/ysec.js"></script>
 
 <div id="hero">
     <div id="countdown">
