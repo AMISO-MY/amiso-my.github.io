@@ -42,7 +42,7 @@ let cmts = [
     { name: "Lam Wei Heng", pos: "Publicity" },
     { name: "Wong Jer Ren", pos: "Problem Selection Committee Head" }, 
     { name: "Nelson Loh Kwong Weng", pos: "Problem Selection Committee" },
-    { name: "Aaron Oong", pos: "Problem Selection Committee" },
+    { name: "Aaron Oong Zhu Wen", pos: "Problem Selection Committee" },
     { name: "Ng Kin Him", pos: "Problem Selection Committee" },
     { name: "Tan Zhi Qi", pos: "Problem Selection Committee" },
     { name: "Shee Yi Rong", pos: "Logistics" },
