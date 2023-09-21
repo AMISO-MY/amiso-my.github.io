@@ -10,72 +10,57 @@ classes: wide
 
 <div id="hero">
     <div id="countdown">
-        <h2>19th March 2023, Online</h2>
-        <h1>A Team Science Competition for Malaysians</h1>
-        <p>AMISO's first ever, student-led olympiad.</p>
-        <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform" target="_blank">Register now!</a> -->
-        <!-- <p id="timer">0d 0h 0m 0s</p> -->
-        <p id="timer">It's a wrap!</p>
-        <p>Thanks to everyone who joined YSC!</p>
+        <h2>16-17th December @ DISTED College, Penang</h2>
+        <h1>An experimental camp for Malaysians</h1>
+        <p>A student led exploration into practical science.</p>
+        <a href="" target="_blank">Register now!</a>
+        <p id="timer">0d 0h 0m 0s</p>
+        <!-- <p id="timer">It's a wrap!</p> -->
+        <!-- <p>Thanks to everyone who joined YSC!</p> -->
     </div>
-    <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png"/></div>
 </div>
 
 
 
 # Introduction
-The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University! Yeah that's it!
+The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO, in collaboration with DISTED College!
 
-Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
+The camp aims to foster participants’ knowledge in the experimental aspects of STEM and introduce **high school and pre-university** participants to the practical aspects of the International Science Olympiads. In a world where science is used as a guiding light, it is crucial to also use science in the dark; to apply the scientific method in foreign scenarios and better understand the incricate world around us when not much else is understood! Covering **Biology, Chemistry, and Physics**, YSEC welcomes students to explore the world together!
 
-YSC 2023 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
+YSEC 2023 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
-The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Final Round**. Participants will have to qualify in the preliminary round in order to proceed.
+The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Screening Round**, and the **Final Experiment Camp**. Participants will have to qualify in the preliminary round in order to proceed.
 
 The important details are as follows:
 
-**Preliminary Round:**
-- **Date**			: 19th March 2023 
-- **Time**			: 10:00am - 10:32am
+**Preliminary Round**
+- **Date**			: 25th November 2023 
+- **Time**			: 10:00am - 11:32am
 - **Venue**			: Online
 
-**Final Round**:
-- **Date**			: 2nd April 2023
-- **Time**			: 9:00am - 5:00pm
-- **Venue**			: Heriot-Watt University Malaysia
+**Experiment Camp**
+- **Date**			: 16th to 17th December 2023
+- **Time**			: 8:00am (16th) - 5:00pm (17th)
+- **Venue**			: DISTED College @ Penang
 
-
+The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events!
 
 # Registration
 - Application for YSC 2023 is **free of charge**!
-- [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
+- [Sign up today!](https://forms.gle/G561WFRcMLX4zfr29)
 
 
-
-# Cash prize and certificate awarded:
-### Junior level (High school students aged 13 to 18 years old)
-- 1st Place: RM350 and certificate with ranking
-- 2nd Place: RM250 and certificate with ranking
-- 3rd Place: RM150 and certificate with ranking
-- Highest scorer in subject: certificate of best subject award
-
-### Senior level (Pre-U studentsaged 18 to 19 years old):
-- 1st Place: RM350 and certificate with ranking
-- 2nd Place: RM250 and certificate with ranking
-- 3rd Place: RM150 and certificate with ranking
-- Highest scorer in subject: certificate of best subject award
-
-<sup><sup>Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members. (eg. The team who wins first place will get a total of RM350 only to be shared among its team members)</sup></sup>
-
+<!-- # Prizes awarded: -->
 
 
 # Timeline
-- 16/02/2023: Registration Starts
-- 18/03/2023: Registration Deadline
-- 19/03/2023: Preliminary Round
-- 20/03/2023: Announcement of Finalists
-- 28/03/2023: Finalist Attendance Confirmation Deadline
-- 02/04/2023: Final Round
+- 01/09/2023: Registration Starts
+- 11/11/2023: Registration Deadline
+- 25/11/2023: Preliminary Round
+- 28/11/2023: Announcement of Top Scorers
+- 04/12/2023: Finalist Attendance Confirmation Deadline
+- 16/12/2023: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
@@ -84,13 +69,14 @@ The important details are as follows:
 
 
 # Special Thanks
-<!-- HWU Logo, AMISO Logo -->
+<!-- DISTED Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysc/hwu.jpg"/>
+    <img src="/assets/images/ysec/disted.png"/>
+    <!-- <img src="/assets/images/ysec/nsa.png"/> -->
     <img src="/assets/images/amiso-logo.png"/>
 </div>
 
-# Reading Materials
+<!-- # Reading Materials
 Below are some reading materials recommended by the YSC Problem Setting Committee.
 A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_Syllabus.pdf) as well.
 
@@ -112,12 +98,12 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 
 ### Astronomy & Astrophysics
 - [https://chojeq.com/iao](https://chojeq.com/iao)
-- [https://usaaao.org/resources/](https://usaaao.org/resources/)
+- [https://usaaao.org/resources/](https://usaaao.org/resources/) -->
 
 
 # Links
-- [YSC Infopack](https://drive.google.com/drive/folders/1LjtgadPgM0KnxEAdvccQXBA0nJTEBHcO?usp=share_link)
-- [Instagram](https://instagram.com/youthstemcup)
+- [YSEC Infopack](https://docs.google.com/document/d/1z4oLtsypTcpf7X5R42FE8y_79gJ14lWaZdiih1w6Aak/edit?usp=sharing)
+- [Instagram](https://instagram.com/youthstemexperimentcamp)
 
 
 <div id="cmts-wrapper">

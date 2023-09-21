@@ -51,7 +51,7 @@ window.addEventListener("load", () => {
         let cmtNode = document.createElement("div");
         cmtNode.className = "tooltip";
         cmtNode.innerHTML = `
-        <img src="/assets/images/ysc/${cmt.name.replace(/ /g, "_")}.jpg"/>
+        <img src="/assets/images/cmt/${cmt.name.replace(/ /g, "_")}.jpg"/>
         <h6>${cmt.name}</h6>
         <span class="tooltiptext">${cmt.pos}</span>
     `;
