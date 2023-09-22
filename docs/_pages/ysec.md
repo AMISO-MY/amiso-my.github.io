@@ -13,7 +13,7 @@ classes: wide
         <h2>16-17th December @ DISTED College, Penang</h2>
         <h1>An experimental camp for Malaysians</h1>
         <p>A student led exploration into practical science.</p>
-        <a href="" target="_blank">Register now!</a>
+        <a href="https://forms.gle/G561WFRcMLX4zfr29" target="_blank">Register now!</a>
         <p id="timer">0d 0h 0m 0s</p>
         <!-- <p id="timer">It's a wrap!</p> -->
         <!-- <p>Thanks to everyone who joined YSC!</p> -->
