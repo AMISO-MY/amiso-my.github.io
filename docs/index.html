@@ -27,6 +27,13 @@ amisomc:
     url: "https://forms.gle/hC7emHrEZg3cuGuZ7"
     btn_label: "JOIN THE CHALLENGE"
     btn_class: "btn--success"
+ysec:
+  - image_path: "/assets/images/ysec/ysec-logo.png"
+    alt: "YSEC Image"
+    excerpt: "AMISO is organizing a science experiment camp in December!"
+    url: "/ysec/"
+    btn_label: "Learn more about YSEC here!"
+    btn_class: "btn--success"
 feature_row2:
   - image_path: /assets/images/collage.jpg
     alt: "National Selection Tests for the International Science Olympiads in Malaysia"
@@ -61,9 +68,11 @@ footer:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="newsletter" type="center" %}
+{% include feature_row id="newsletter" type="left" %}
 
-{% include feature_row id="amisomc" type="center" %}
+{% include feature_row id="amisomc" type="right" %}
+
+{% include feature_row id="ysec" type="center" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
