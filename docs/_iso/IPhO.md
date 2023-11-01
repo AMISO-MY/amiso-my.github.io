@@ -30,6 +30,8 @@ The details are as follows:
 
 After the first two rounds, JKOFM will have full authority in the selection process in the subsequent rounds, and selected students will be informed via email following the online rounds hosted by AMISO.
 
+Each participant will receive a participation certificate. Certificates of achievement will only be provided after Round 2.
+
 The top 5 contestants will be selected to represent Malaysia at the IPhO.
 
 Fee waivers will be considered upon request, and is given on a case-to-case basis.
