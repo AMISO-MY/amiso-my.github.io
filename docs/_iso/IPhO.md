@@ -19,8 +19,11 @@ The Selection for the 2024 IPhO is done through Olimpiad Fizik Malaysia, hosted 
 
 For the 2024 IPhO, AMISO will be hosting the 1st and 2nd rounds of the online selection test - [register here!](https://forms.gle/ppghLqargbVbcEZu6){:target="_blank"} 
 
+![OFM 2024 Poster](assets/images/ofm-2024-poster.png)
+
 The details are as follows:
 - Registration Fee: RM50
+- Registration Deadline: 30th November 2023
 - Venue: Online (Google Forms and Zoom)
 - First Round: 2nd December 2023, 8:00pm - 10:30pm
   - Format: 2 papers, each with 25 MCQ lasting for 1 hour
