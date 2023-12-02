@@ -62,7 +62,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - 11/11/2023: Registration Deadline
 - 25/11/2023: Preliminary Round
 - 28/11/2023: Announcement of Top Scorers
-- 04/12/2023: Finalist Attendance Confirmation Deadline
+- 06/12/2023: Finalist Attendance Confirmation Deadline
 - 16/12/2023: Final Round
 
 <!-- # Schedule 
