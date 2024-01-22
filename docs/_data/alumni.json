@@ -708,16 +708,17 @@
     {
         "name": "Yahaya bin Basiron",
         "iso": [
-            "IRAO 2022"
+            "IRAO 2022",
+            "IAO 2023"
         ],
-        "workplace": "Kolej GENIUS Insan",
-        "job": "",
+        "workplace": "Kolej PERMATA Insan",
+        "job": "SPM",
         "linkedin": "https://www.linkedin.com/in/yahayabasiron/",
         "github": "https://github.com/Yahayabb",
         "discord": "Yahayabb#5886",
         "facebook": "https://www.facebook.com/yahaya.bin.basiron/",
         "instagram": "https://www.instagram.com/yahayabasiron/",
-        "website": "https://www.youtube.com/channel/UC5plWrwBJSMYRb5UbgYeOrQ",
+        "website": "https://linktr.ee/yahayabb",
         "tuition": "No",
         "email": "ybasiron6@gmail.com"
     },
@@ -866,5 +867,85 @@
         "website": "",
         "tuition": "Yes",
         "email": "csqsaysuwu@gmail.com"
+    },
+    {
+        "name": "Wong Jian Bin",
+        "iso": [
+            "IPhO 2023"
+        ],
+        "workplace": "Chong Hwa Independent High School",
+        "job": "UEC",
+        "linkedin": "",
+        "github": "",
+        "discord": "wjb12345",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": "wongjb35@gmail.com"
+    },
+    {
+        "name": "Sunyit Singh",
+        "iso": [
+            "IOAA 2023"
+        ],
+        "workplace": "University of Southampton Malaysia",
+        "job": "MEng Aeronautics and Astronautics",
+        "linkedin": "",
+        "github": "",
+        "discord": "Sunyit#8751",
+        "facebook": "https://www.facebook.com/sunyit.singh",
+        "instagram": "https://instagram.com/_suny1tt",
+        "website": "",
+        "tuition": "No",
+        "email": "sunyitsingh12@gmail.com"
+    },
+    {
+        "name": "Tang Yee Yin",
+        "iso": [
+            "IOAA 2023"
+        ],
+        "workplace": "Kuen Cheng High School",
+        "job": "UEC",
+        "linkedin": "",
+        "github": "",
+        "discord": "yeeyin#1600",
+        "facebook": "",
+        "instagram": "https://instagram.com/yeeyinnnn",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Evan Lim Hong Yan",
+        "iso": [
+            "IESO 2023"
+        ],
+        "workplace": "Akademi Sains Pendang",
+        "job": "SPM",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Neo Yong Li",
+        "iso": [
+            "IOI 2023"
+        ],
+        "workplace": "Kolej Tuanku Jaafar",
+        "job": "A Levels",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://instagram.com/neo_yong_li",
+        "website": "",
+        "tuition": "Yes",
+        "email": "josanneo22@gmail.com"
     }
 ]
