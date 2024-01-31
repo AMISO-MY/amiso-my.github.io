@@ -42,7 +42,7 @@ Participants should not have been born before July 1, X-19, where X is the year 
 
 # Other links
 
-[MyESO info pack](https://drive.google.com/file/d/13zCO-uHK_38OsCr5qVFuztAPEKXclU7i/view).
+[MyESO info pack 2022](https://drive.google.com/file/d/13zCO-uHK_38OsCr5qVFuztAPEKXclU7i/view).
 
 [MyESO info pack 2024](https://myeso.com.my/wp-content/uploads/2024/01/Earth-Explorer-2024-Infopack.pdf)
 
