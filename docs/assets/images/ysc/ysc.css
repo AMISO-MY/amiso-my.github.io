@@ -68,8 +68,8 @@
 }
 
 #past-imgs > div > img {
-    width: min(300px, 21vw);
-    height: min(200px, 14vw);
+    width: max(300px, 21vw);
+    height: max(200px, 14vw);
     margin: 10px;
 }
 
