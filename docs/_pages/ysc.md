@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Youth STEM Cup 2023
+title: Youth STEM Cup
 permalink: /ysc/
 classes: wide
 ---
@@ -28,7 +28,7 @@ The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olymp
 
 Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
 
-YSC 2023 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
+The Youth STEM Cup is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
 The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Final Round**. Participants will have to qualify in the preliminary round in order to proceed.
 
@@ -46,7 +46,7 @@ The important details are as follows:
 
 
 # Registration
-- Application for YSC 2023 is **free of charge**!
+- Application for YSC is **free of charge**!
 - [Sign up today!](https://forms.gle/knUMAEqTRhF2mjJ88)
 
 
@@ -69,10 +69,10 @@ The important details are as follows:
 
 
 # Timeline
-- 01/01/2023: Registration Starts
-- 31/03/2023: Registration Deadline
-- 13/04/2023: Preliminary Round
-- 22/06/2023: Final Round
+- 01/01/2024: Registration Starts
+- 31/03/2024: Registration Deadline
+- 13/04/2024: Preliminary Round
+- 22/06/2024: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
