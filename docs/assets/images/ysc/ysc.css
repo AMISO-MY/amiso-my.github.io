@@ -55,13 +55,20 @@
 
 #past-imgs {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-#past-imgs > img {
+#past-imgs > div {
+    display: flex;
+    flex-direction: row;
+}
+
+#past-imgs > div > img {
     width: 30vw;
+    height: 20vw;
+    margin: 10px;
 }
 
 #cmts {
