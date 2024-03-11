@@ -122,7 +122,7 @@ Below are some reading materials recommended by the YSC Problem Setting Committe
 - [Instagram](https://instagram.com/youthstemcup)
 
 # Past YSC Events
-The first YSC was held in 2023, with huge support from Heriot-Watt University Malaysia - the event was a success, and garnered the participation of over N students from all across Malaysia! A post-event writeup can be found here, and below are some images from the Final Round of YSC 2023:
+The first YSC was held in 2023, with huge support from Heriot-Watt University Malaysia - the event was a success, and garnered the participation of over 1k students from all across Malaysia! A post-event writeup can be found here, and below are some images from the Final Round of YSC 2023:
 
 <div id="past-imgs">
     <img src="/assets/images/ysc-2023-group.jpg"/>
