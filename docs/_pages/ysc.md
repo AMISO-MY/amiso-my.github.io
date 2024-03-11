@@ -6,17 +6,17 @@ classes: wide
 ---
 
 <link href="/assets/images/ysc/ysc.css" type="text/css" rel="stylesheet" />
-<!-- <script src="/assets/images/ysc/ysc.js"></script> -->
+<script src="/assets/images/ysc/ysc.js"></script>
 
 <div id="hero">
     <div id="countdown">
         <h2>19th March 2023, Online</h2>
         <h1>A Team Science Competition for Malaysians</h1>
-        <p>AMISO's first ever, student-led olympiad.</p>
-        <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform" target="_blank">Register now!</a> -->
-        <!-- <p id="timer">0d 0h 0m 0s</p> -->
-        <p id="timer">It's a wrap!</p>
-        <p>Thanks to everyone who joined YSC!</p>
+        <p>AMISO's student-led olympiad returns once again in 2024!</p>
+        <a href="https://forms.gle/knUMAEqTRhF2mjJ88" target="_blank">Register now!</a>
+        <p id="timer">0d 0h 0m 0s</p>
+        <!-- <p id="timer">It's a wrap!</p>
+        <p>Thanks to everyone who joined YSC!</p> -->
     </div>
     <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
 </div>
@@ -24,7 +24,7 @@ classes: wide
 
 
 # Introduction
-The Youth STEM Cup (YSC) is the first ever student-led, nation-wide competitive science olympiad hosted by AMISO, in collaboration with Heriot-Watt University! 
+The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olympiad hosted by AMISO in collaboration with Heriot-Watt University! 
 
 Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
 
@@ -35,20 +35,19 @@ The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Fi
 The important details are as follows:
 
 **Preliminary Round:**
-- **Date**			: 19th March 2023 
-- **Time**			: 10:00am - 10:32am
+- **Date**			: 13th April 2024 
+- **Time**			: 10:00am - 11:02am
 - **Venue**			: Online
 
 **Final Round**:
-- **Date**			: 2nd April 2023
-- **Time**			: 9:00am - 5:00pm
+- **Date**			: 22th June 2024
 - **Venue**			: Heriot-Watt University Malaysia
 
 
 
 # Registration
 - Application for YSC 2023 is **free of charge**!
-- [Sign up today!](https://docs.google.com/forms/d/e/1FAIpQLSdc2pFR1OkagDBaTEmdLv5l76_yE1qJ-vc1S5Tte1SrqmOj5A/viewform?usp=sf_link)
+- [Sign up today!](https://forms.gle/knUMAEqTRhF2mjJ88)
 
 
 
@@ -70,12 +69,10 @@ The important details are as follows:
 
 
 # Timeline
-- 16/02/2023: Registration Starts
-- 18/03/2023: Registration Deadline
-- 19/03/2023: Preliminary Round
-- 20/03/2023: Announcement of Finalists
-- 28/03/2023: Finalist Attendance Confirmation Deadline
-- 02/04/2023: Final Round
+- 01/01/2023: Registration Starts
+- 31/03/2023: Registration Deadline
+- 13/04/2023: Preliminary Round
+- 22/06/2023: Final Round
 
 <!-- # Schedule 
 ![Preliminary Round Schedule]()
@@ -92,7 +89,7 @@ The important details are as follows:
 
 # Reading Materials
 Below are some reading materials recommended by the YSC Problem Setting Committee.
-A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_Syllabus.pdf) as well.
+<!-- A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_Syllabus.pdf) as well. -->
 
 ### Mathematics
 - *A First Course in Calculus* by Serge Lang
@@ -102,6 +99,7 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 ### Physics
 - *An Introduction to Mechanics* by Kleppner and Kolenkow
 - *Fundamentals of Physics* by Halliday, Resnick, Walker
+- *The Art of Insight* by Sanjoy Mahajan
 
 ### Chemistry
 - [CK Yau's Handouts](https://drive.google.com/drive/folders/1_YMI3C_rzULoGbdFbkBGiLnUULl1z4ek?usp=sharing)
@@ -110,15 +108,25 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 ### Biology
 - *Campbell Biology* by Lisa A. Urry
 
-### Astronomy & Astrophysics
+### Earth Science
 - [https://chojeq.com/iao](https://chojeq.com/iao)
 - [https://usaaao.org/resources/](https://usaaao.org/resources/)
+- [USESO Guide](https://useso.guide/)
 
+### Social Science
+- Economics
+- Linguistics
 
 # Links
-- [YSC Infopack](https://drive.google.com/drive/folders/1LjtgadPgM0KnxEAdvccQXBA0nJTEBHcO?usp=share_link)
+- [YSC Infopack](https://docs.google.com/document/d/1ej1z8iqn6imAR55sf9l56yg-s0S6UsG8uD-S3_msdqc/view)
 - [Instagram](https://instagram.com/youthstemcup)
 
+# Past YSC Events
+The first YSC was held in 2023, with huge support from Heriot-Watt University Malaysia - the event was a success, and garnered the participation of over N students from all across Malaysia! A post-event writeup can be found here, and below are some images from the Final Round of YSC 2023:
+![YSC 2023 Group Photo](/assets/images/ysc-2023-group.jpg)
+![Students during the exam](/assets/images/ysc-2023-exam.jpg)
+![Youth STEM Forum](/assets/images/ysc-2023-forum.jpg)
+![Olympiad alumni giving talks about their respective Olympiads!](/assets/images/ysc-2023-talk.jpg)
 
 <div id="cmts-wrapper">
     <div id="cmts"></div> 
