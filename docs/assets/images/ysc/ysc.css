@@ -58,6 +58,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #past-imgs > div {
@@ -66,8 +68,8 @@
 }
 
 #past-imgs > div > img {
-    width: 30vw;
-    height: 20vw;
+    width: min(300px, 30vw);
+    height: min(300px, 20vw);
     margin: 10px;
 }
 
