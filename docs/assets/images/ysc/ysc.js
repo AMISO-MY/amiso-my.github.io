@@ -1,6 +1,6 @@
 
-let prelimDate = new Date("Apr 13, 2023 10:00:00").getTime();
-// console.log(prelimDate);
+let prelimDate = new Date("Apr 13, 2024 10:00:00").getTime();
+console.log(prelimDate);
 
 let countdown = setInterval(() => {
     let now = new Date().getTime();

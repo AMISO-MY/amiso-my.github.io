@@ -10,7 +10,7 @@ classes: wide
 
 <div id="hero">
     <div id="countdown">
-        <h2>19th March 2023, Online</h2>
+        <h2>13th April 2024, Online</h2>
         <h1>A Team Science Competition for Malaysians</h1>
         <p>AMISO's student-led olympiad returns once again in 2024!</p>
         <a href="https://forms.gle/knUMAEqTRhF2mjJ88" target="_blank">Register now!</a>
