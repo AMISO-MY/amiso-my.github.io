@@ -41,7 +41,7 @@ let cmts = [
     { name: "Ong Kok Rhui", pos: "Publicity" },
     { name: "Lam Wei Heng", pos: "Publicity" },
     { name: "Shee Yi Rong", pos: "Logistics" },
-    { name: "Chin Wei Yang", pos: "Logistics" },
+    { name: "Ching Wei Yang", pos: "Logistics" },
     { name: "Ooi Zhen Khoon", pos: "Logistics" },
     { name: "Ho Hao Yuan", pos: "Logistics" },
     { name: "Wong Jer Ren", pos: "Problem Selection Committee Head of Math" },
