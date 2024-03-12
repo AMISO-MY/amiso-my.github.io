@@ -114,8 +114,8 @@ Below are some reading materials recommended by the YSC Problem Setting Committe
 - [USESO Guide](https://useso.guide/)
 
 ### Social Science
-- Economics
-- Linguistics
+- [The Economy 1.0 by the CORE team](https://www.core-econ.org/the-economy/v1/book/text/0-3-contents.html)
+- [Materials from the UK Linguistics Olympiad](https://www.uklo.org/how-do-i-prepare/)
 
 # Links
 - [YSC Infopack](https://docs.google.com/document/d/1ej1z8iqn6imAR55sf9l56yg-s0S6UsG8uD-S3_msdqc/view)
