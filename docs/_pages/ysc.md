@@ -52,7 +52,7 @@ The important details are as follows:
 
 
 # Cash prize and certificate awarded:
-### Junior level (High school students aged 13 to 18 years old)
+### Junior level (High school students aged 13 to 17 years old)
 - 1st Place: RM350 and certificate with ranking
 - 2nd Place: RM250 and certificate with ranking
 - 3rd Place: RM150 and certificate with ranking
