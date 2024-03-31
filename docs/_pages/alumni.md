@@ -29,49 +29,49 @@ permalink: /alumni/
                                     {% endif %}
                                 </div>
                                 <div class="d-inline-block">
-                                    {% if alumni.linkedin != '' %}
+                                    {% if alumni.linkedin != '' and alumni.linkedin != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.linkedin}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-linkedin"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.github != '' %}
+                                    {% if alumni.github != '' and alumni.github != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.github}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-github"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.facebook != '' %}
+                                    {% if alumni.facebook != '' and alumni.facebook != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.facebook}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-facebook"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.discord != '' %}
+                                    {% if alumni.discord != '' and alumni.discord != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href='javascript:void(0)' onClick="copy_text('{{alumni.discord}}')">
                                                 <i class="bi bi-discord"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.instagram  != ''%}
+                                    {% if alumni.instagram != '' and alumni.instagram != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.instagram}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-instagram"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.website != '' %}
+                                    {% if alumni.website != '' and alumni.website != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.website}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-globe"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.email != '' %}
+                                    {% if alumni.email != '' and alumni.email != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none"  href='javascript:void(0)' onClick="copy_text('{{alumni.email}}')">
                                                 <i class="bi bi-envelope-fill"></i>
