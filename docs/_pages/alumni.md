@@ -5,11 +5,11 @@ permalink: /alumni/
 ---
 
 <div id="main">
-<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <h1>Alumni</h1>
 <p>If you are an alumnus, please join us by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">this form</a> for networking opportunities.</p>
 <!-- Icons -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     <div class="container">
         <div class="row justify-content-center">
         {% assign sorted = site.data.alumni | sort: 'name'%}
