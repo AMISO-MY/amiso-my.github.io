@@ -64,6 +64,7 @@ Details for the distribution of cash prizes will be outlined in the [TEDC Info P
 - 03/06/23: Preliminary Round
 - 03/06/23: Announcement of Finalists
 - 03/06/23: Final Round
+- 11/06/23: It's over!
 
 
 

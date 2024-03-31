@@ -94,9 +94,9 @@ social:
     - "https://www.instagram.com/amiso.my/"
 # Analytics
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: UA-208563000-1
+    tracking_id: G-530DLN2HBR
     anonymize_ip: # true, false (default)
 
 # # Site Author

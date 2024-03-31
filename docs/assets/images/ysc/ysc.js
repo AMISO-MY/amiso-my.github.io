@@ -1,6 +1,6 @@
 
-let prelimDate = new Date("Mar 19, 2023 10:00:00").getTime();
-// console.log(prelimDate);
+let prelimDate = new Date("Apr 13, 2024 10:00:00").getTime();
+console.log(prelimDate);
 
 let countdown = setInterval(() => {
     let now = new Date().getTime();
@@ -26,24 +26,30 @@ let countdown = setInterval(() => {
 
 
 let cmts = [
-    { name: "Joyton Fu Hung Li", pos: "Event Coordinator, Problem Selection Committee" },
-    { name: "Chang Kian Yau", pos: "Event Coordinator, Problem Selection Committee" },
-    { name: "Dr Yew Weng Kean", pos: "Advisor from HWU" },
-    { name: "Yap Yong Sheng", pos: "Advisor, Problem Selection Committee" },
-    { name: "Lee Han Yang", pos: "Secretary" },
-    { name: "Mah Hoew Yang", pos: "Secretary" },
-    { name: "Liew Ze Wei", pos: "Secretary" },
-    { name: "Chin Jia Yao", pos: "Publicity, Problem Selection Committee" },
-    { name: "Ong Zhi Zheng", pos: "Publicity, Problem Selection Committee" },
-    { name: "Annie Lim Wei-Shyuen", pos: "Logistics" },
-    { name: "Lee Cheng Zhen", pos: "Logistics" },
-    { name: "Ooi Chun Keat", pos: "Treasurer" },
-    { name: "Tristan Chaang", pos: "Problem Selection Committee Head" },
-    { name: "Pua E Rick", pos: "Problem Selection Committee" },
-    { name: "Chooi Je Qin", pos: "Problem Selection Committee" },
-    { name: "Ms Ong Sy Ing", pos: "Problem Selection Committee" },
-    { name: "Vee Hua Zhi", pos: "Problem Selection Committee" },
-    { name: "Wong Jer Ren", pos: "Problem Selection Committee" },
+    { name: "Joyton Fu Hung Li", pos: "Advisor" },
+    { name: "Lee Han Yang", pos: "Advisor" },
+    { name: "Liew Ze Wei", pos: "Event Coordinator" },
+    { name: "Lee Ke Yin", pos: "Event Coordinator" },
+    { name: "Joel Pang Kai Chen", pos: "Event Coordinator" },
+    { name: "Ong Zhi Zheng", pos: "Event Coordinator" },
+    { name: "Ng Kin Him", pos: "Secretary" },
+    { name: "Tan Zhi Qi", pos: "Secretary" },
+    { name: "Yahaya Bin Basiron", pos: "Secretary" },
+    { name: "Bok Zhe Shing", pos: "Treasurer" },
+    { name: "Quincy Jules Tan Yi Liing", pos: "Publicity" },
+    { name: "Eunice Lee Xin Yi", pos: "Publicity" },
+    { name: "Ong Kok Rhui", pos: "Publicity" },
+    { name: "Lam Wei Heng", pos: "Publicity" },
+    { name: "Shee Yi Rong", pos: "Logistics" },
+    { name: "Ching Wei Yang", pos: "Logistics" },
+    { name: "Ooi Zhen Khoon", pos: "Logistics" },
+    { name: "Ho Hao Yuan", pos: "Logistics" },
+    { name: "Wong Jer Ren", pos: "Problem Selection Committee Head of Math" },
+    { name: "Nelson Loh Kwong Weng", pos: "Problem Selection Committee Head of Physics" },
+    { name: "Ms Ong Sy Ing", pos: "Problem Selection Committee Head of Biology" },
+    { name: "Aaron Oong Zhu Wen", pos: "Problem Selection Committee Head of Chemistry" },
+    { name: "Ng Kin Him", pos: "Problem Selection Committee Head of Earth Science" },
+    { name: "Shee Yi Rong", pos: "Problem Selection Committee Head of Social Science" },
 ];
 
 window.addEventListener("load", () => {
@@ -51,7 +57,7 @@ window.addEventListener("load", () => {
         let cmtNode = document.createElement("div");
         cmtNode.className = "tooltip";
         cmtNode.innerHTML = `
-        <img src="/assets/images/ysc/${cmt.name.replace(/ /g, "_")}.jpg"/>
+        <img src="/assets/images/cmt/${cmt.name.replace(/ /g, "_")}.jpg"/>
         <h6>${cmt.name}</h6>
         <span class="tooltiptext">${cmt.pos}</span>
     `;
