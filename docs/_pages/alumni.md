@@ -82,9 +82,9 @@ permalink: /alumni/
                             </div>
                             <p class="card-text">
                                 {{ alumni.workplace }}
-                                <!-- {% if alumni.workplace != '' and alumni.job != ''%} -->
+                                {% if alumni.workplace != '' and alumni.workplace != null and alumni.job != '' and alumni.job != null %}
                                 -
-                                <!-- {% endif %} -->
+                                {% endif %}
                                 {{ alumni.job}}
                             </p>
                         </div>
