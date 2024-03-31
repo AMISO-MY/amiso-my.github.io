@@ -5,11 +5,11 @@ permalink: /alumni/
 ---
 
 <div id="main">
-<link id="bootstrap" crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <h1>Alumni</h1>
 <p>If you are an alumnus, please join us by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">this form</a> for networking opportunities.</p>
 <!-- Icons -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     <div class="container">
         <div class="row justify-content-center">
         {% assign sorted = site.data.alumni | sort: 'name'%}
@@ -29,49 +29,49 @@ permalink: /alumni/
                                     {% endif %}
                                 </div>
                                 <div class="d-inline-block">
-                                    {% if alumni.linkedin != '' %}
+                                    {% if alumni.linkedin != '' and alumni.linkedin != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.linkedin}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-linkedin"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.github != '' %}
+                                    {% if alumni.github != '' and alumni.github != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.github}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-github"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.facebook != '' %}
+                                    {% if alumni.facebook != '' and alumni.facebook != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.facebook}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-facebook"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.discord != '' %}
+                                    {% if alumni.discord != '' and alumni.discord != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href='javascript:void(0)' onClick="copy_text('{{alumni.discord}}')">
                                                 <i class="bi bi-discord"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.instagram  != ''%}
+                                    {% if alumni.instagram != '' and alumni.instagram != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.instagram}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-instagram"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.website != '' %}
+                                    {% if alumni.website != '' and alumni.website != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none" href="{{alumni.website}}" rel="noreferrer" target="_blank">
                                                 <i class="bi bi-globe"></i>
                                             </a>
                                         </span>
                                     {% endif %}
-                                    {% if alumni.email != '' %}
+                                    {% if alumni.email != '' and alumni.email != null %}
                                         <span>
                                             <a class="text-reset text-decoration-none"  href='javascript:void(0)' onClick="copy_text('{{alumni.email}}')">
                                                 <i class="bi bi-envelope-fill"></i>
@@ -82,9 +82,9 @@ permalink: /alumni/
                             </div>
                             <p class="card-text">
                                 {{ alumni.workplace }}
-                                <!-- {% if alumni.workplace != '' and alumni.job != ''%} -->
+                                {% if alumni.workplace != '' and alumni.workplace != null and alumni.job != '' and alumni.job != null %}
                                 -
-                                <!-- {% endif %} -->
+                                {% endif %}
                                 {{ alumni.job}}
                             </p>
                         </div>
