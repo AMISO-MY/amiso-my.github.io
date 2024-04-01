@@ -4,8 +4,40 @@ title: Alumni
 permalink: /alumni/
 ---
 
+<style>
+    #main {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+
+    @media (min-width: 80em) {
+        #main {
+            width: calc(100% - 300px);
+        }
+    }
+
+    @media (min-width: 64em) {
+        #main {
+            width: calc(100% - 200px);
+        }
+    }
+</style>
+
 <div id="main">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<style>
+    h1 {
+        line-height: 1.2;
+        font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+        font-weight: bold;
+        font-size: 1.563em;
+        color: #3d4144;
+        text-decoration: none;
+    }
+</style>
 <h1>Alumni</h1>
 <p>If you are an alumnus, please join us by filling <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIr2m-i8fgx0ytzb8AKDZwGUkWuqZeJhiOvrf-bT0FgBF6FQ/viewform?usp=pp_url&entry.637111673=Yes&entry.1721707236=Yes&entry.1517891735=Yes&entry.2058844838=No" target="_blank">this form</a> for networking opportunities.</p>
 <!-- Icons -->
