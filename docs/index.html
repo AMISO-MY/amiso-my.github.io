@@ -1,7 +1,7 @@
 ---
 title: "AMISO"
 layout: splash
-permalink: 
+permalink:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,7 +11,7 @@ header:
     - label: "Join an Olympiad"
       url: "/olympiads/"
 excerpt: "Malaysia in the International Science Olympiads"
-intro: 
+intro:
   - excerpt: 'The International Science Olympiads are a group of worldwide annual competitions in various areas of the formal sciences, natural sciences, and social sciences.'
 newsletter:
   - image_path: /assets/images/AMISO_Newsletter_FALL23.png
@@ -19,21 +19,21 @@ newsletter:
     excerpt: ""
     url: "https://drive.google.com/file/d/1jDvmc3uTuLSyKiAkrdi207uPAm1v_3fG/view?usp=sharing&amisogtag=newsletter"
     btn_label: "Read it now!"
-    btn_class: "btn--success"
+    btn_class: "btn--success mt-10"
 amisomc:
-  - image_path: "/assets/images/AMISOMC_Website_Banner_24MAR.png" 
+  - image_path: "/assets/images/AMISOMC_Website_Banner_24MAR.png"
     alt: "AMISO Monthly Challenge Website Banner"
     excerpt: ""
-    url: "https://docs.google.com/forms/d/1qG2b_GV9c1xteo8plI1uiyAcoyb1OO3EH6hesJYXUBo" 
+    url: "https://docs.google.com/forms/d/1qG2b_GV9c1xteo8plI1uiyAcoyb1OO3EH6hesJYXUBo"
     btn_label: "JOIN THE CHALLENGE!"
-    btn_class: "btn--success"
+    btn_class: "btn--success mt-10"
 recruitment:
-    - image_path: "/assets/images/amiso-recruitment-2024.jpg" 
+    - image_path: "/assets/images/amiso-recruitment-2024.jpg"
       alt: "AMISO Recruitment Poster"
       excerpt: ""
-      url: "https://forms.gle/enPhMrfHFtCnPjsv9" 
+      url: "https://forms.gle/enPhMrfHFtCnPjsv9"
       btn_label: "Apply today!"
-      btn_class: "btn--success"
+      btn_class: "btn--success mt-10"
 ysec:
   - image_path: "/assets/images/ysec/ysec-logo-nobg-cropped.png"
     alt: "YSEC Image"
@@ -41,7 +41,7 @@ ysec:
     url: "/ysec/"
     btn_label: "Learn more about YSEC here!"
     btn_class: "btn--success"
-feature_row2:
+national_selection_tests:
   - image_path: /assets/images/collage.jpg
     alt: "National Selection Tests for the International Science Olympiads in Malaysia"
     title: "National Selection Tests"
@@ -49,7 +49,7 @@ feature_row2:
     url: "/olympiads/"
     btn_label: "Join an Olympiad"
     btn_class: "btn--success"
-feature_row3:
+alumni:
   - image_path: /assets/images/alumni-collage.jpg
     alt: "Malaysian Alumni of the International Science Olympiads"
     title: "The Malaysian Alumni"
@@ -57,7 +57,7 @@ feature_row3:
     url: "/alumni/"
     btn_label: "Meet the Alumni"
     btn_class: "btn--success"
-feature_row4:
+committee_interviews:
   - image_path: /assets/images/amiso-interview-collage.jpg
     alt: "Malaysian Olympiad committees"
     title: "Hear it from the committees"
@@ -73,6 +73,12 @@ footer:
     btn_class: "btn--primary"
 ---
 
+<style>
+  .mt-10 {
+    margin-top: 10px;
+  }
+</style>
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="recruitment" type="center" %}
@@ -81,10 +87,10 @@ footer:
 
 {% include feature_row id="newsletter" type="center" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="national_selection_tests" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="alumni" type="right" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="committee_interviews" type="left" %}
 
 {% include feature_row id="footer" type="center" %}
