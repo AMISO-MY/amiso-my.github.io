@@ -6,3 +6,5 @@ collection: iso
 entries_layout: grid
 classes: wide
 ---
+
+{% include content-float-middle.html %}
