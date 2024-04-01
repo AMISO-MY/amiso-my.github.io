@@ -147,6 +147,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/amiso.my/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://amiso.my/discord/"
 
 # Reading Files
 include:
