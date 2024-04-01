@@ -19,12 +19,11 @@ jobs:
         with:
           ruby-version: '3.0'
           bundler-cache: true
+          working-directory: ./docs/
 
-      - name: Install dependencies and build 
+      - name: Build
         run: |
-          gem install jekyll bundler
           cd docs
-          bundle install
           bundle exec jekyll build
           cd _site
           touch .nojekyll
