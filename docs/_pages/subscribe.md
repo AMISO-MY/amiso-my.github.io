@@ -5,6 +5,8 @@ permalink: /subscribe/
 classes: wide
 ---
 
+{% include content-float-middle.html %}
+
 Subscribe below to get notified with news on the Olympiads.
 
 You can also [join our Discord server](https://amiso.my/discord) to chat about anything Olympiad.

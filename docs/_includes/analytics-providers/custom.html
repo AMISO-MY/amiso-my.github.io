@@ -1,0 +1,11 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.analytics.google.tracking_id }}');
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.analytics.google.tag_manager_id }}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

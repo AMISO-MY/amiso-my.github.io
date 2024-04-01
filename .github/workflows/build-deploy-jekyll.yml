@@ -1,0 +1,36 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+          working-directory: ./docs/
+
+      - name: Build
+        run: |
+          cd docs
+          JEKYLL_ENV=production bundle exec jekyll build
+          cd _site
+          touch .nojekyll
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/_site  # Directory where Jekyll builds the site.
+          publish_branch: gh-pages  # Branch to which the site is deployed.
