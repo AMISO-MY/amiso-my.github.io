@@ -94,10 +94,10 @@ social:
     - "https://www.instagram.com/amiso.my/"
 # Analytics
 analytics:
-  provider: "google-gtag"
+  provider: "custom"
   google:
+    tag_manager_id: GTM-5LL3MJ79
     tracking_id: G-530DLN2HBR
-    anonymize_ip: # true, false (default)
 
 # # Site Author
 author:

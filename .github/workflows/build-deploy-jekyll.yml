@@ -24,7 +24,7 @@ jobs:
       - name: Build
         run: |
           cd docs
-          bundle exec jekyll build
+          JEKYLL_ENV=production bundle exec jekyll build
           cd _site
           touch .nojekyll
 
