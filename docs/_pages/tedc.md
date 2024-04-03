@@ -14,7 +14,7 @@ custom_css:
         <p>AMISO's first ever, student-led social science game show and quiz challenge.</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_tHVpmEi-oty0Ncu3LdJiyFlTBz_bPdbe6fTB4E3rYMTvTw/viewform" target="_blank">Register now!</a>
     </div>
-    <div id="logo"><img src="/assets/images/tedc/tedc-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/tedc/tedc-logo.png" alt="Logo of TEDC"/></div>
 </div>
 
 # Introduction
@@ -68,8 +68,8 @@ Details for the distribution of cash prizes will be outlined in the [TEDC Info P
 
 # Special Thanks
 <div id="logos">
-    <img src="/assets/images/tedc/ameu.png"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/tedc/ameu.png" alt="Logo of AMEU"/>
+    <img src="/assets/images/amiso-logo.png" alt="Logo of AMISO"/>
 </div>
 
 

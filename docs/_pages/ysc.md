@@ -19,7 +19,7 @@ custom_js:
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
     </div>
-    <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/ysc/ysc-logo.png" alt="Logo of YSC"/></div>
 </div>
 
 
@@ -84,8 +84,8 @@ The important details are as follows:
 # Special Thanks
 <!-- HWU Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysc/hwu.jpg"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/ysc/hwu.jpg" alt="HWU Logo"/>
+    <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
 # Reading Materials
@@ -130,12 +130,12 @@ The first YSC was held in 2023, with huge support from Heriot-Watt University Ma
 
 <div id="past-imgs">
     <div>
-        <img src="/assets/images/ysc-2023-group.jpg"/>
-        <img src="/assets/images/ysc-2023-exam.jpg"/>
+        <img src="/assets/images/ysc-2023-group.jpg" alt="YSC 2023 Group Photo"/>
+        <img src="/assets/images/ysc-2023-exam.jpg" alt="YSC 2023 Exam Photo"/>
     </div>
     <div>
-        <img src="/assets/images/ysc-2023-forum.jpg"/>
-        <img src="/assets/images/ysc-2023-talk.jpg"/>
+        <img src="/assets/images/ysc-2023-forum.jpg" alt="YSC 2023 Forum Photo"/>
+        <img src="/assets/images/ysc-2023-talk.jpg" alt="YSC 2023 Economics Talk Photo"/>
     </div>
 </div>
 

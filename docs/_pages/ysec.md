@@ -19,7 +19,7 @@ custom_js:
         <!-- <p id="timer">It's a wrap!</p> -->
         <!-- <p>Thanks to everyone who joined YSC!</p> -->
     </div>
-    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo"/></div>
 </div>
 
 
@@ -75,9 +75,9 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 # Special Thanks
 <!-- DISTED Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysec/disted.png"/>
-    <img src="/assets/images/ysec/nsa.png"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/>
+    <img src="/assets/images/ysec/nsa.png" alt="National STEM Association Logo"/>
+    <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
 <!-- # Reading Materials
