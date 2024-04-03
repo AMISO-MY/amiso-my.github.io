@@ -1,0 +1,12 @@
+{
+"version": 3,
+"file": "home.css",
+"sources": [
+"home.scss"
+],
+"sourcesContent": [
+".mt-10 {\n  margin-top: 10px;\n}\n\n.amiso__feature__grid {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 10px;\n  justify-content: center; /* Center items by default */\n}\n\n.amiso__feature__item__teaser {\n  width: 80%;\n  margin: 0 auto; /* Centering the item */\n  display: block; /* Ensure this element is treated as a block-level element for margins to take effect */\n}\n\n.amiso__full__height {\n  height: 100%;\n}\n\n.amiso__flex__col {\n  display: flex;\n  flex-direction: column; /* Stack items vertically */\n  justify-content: space-between; /* Align one item to the top, the other to the bottom */\n}\n\n.amiso__feature__grid__item {\n  width: calc(50% - 10px); /* Adjust for gap */\n}\n\n/* Responsive adjustment for narrower screens */\n@media (max-width: 600px) {\n  .amiso__feature__grid__item {\n    width: 100%; /* Full width for single column layout */\n  }\n}\n"
+],
+"names": [],
+"mappings": "AAAA,AAAA,MAAM,AAAC,CACL,UAAU,CAAE,IAAI,CACjB,AAED,AAAA,qBAAqB,AAAC,CACpB,OAAO,CAAE,IAAI,CACb,SAAS,CAAE,IAAI,CACf,GAAG,CAAE,IAAI,CACT,eAAe,CAAE,MAAM,CACxB,AAED,AAAA,6BAA6B,AAAC,CAC5B,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,MAAM,CACd,OAAO,CAAE,KAAK,CACf,AAED,AAAA,oBAAoB,AAAC,CACnB,MAAM,CAAE,IAAI,CACb,AAED,AAAA,iBAAiB,AAAC,CAChB,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,aAAa,CAC/B,AAED,AAAA,2BAA2B,AAAC,CAC1B,KAAK,CAAE,gBAAgB,CACxB,AAGD,MAAM,mBACJ,CAAA,AAAA,2BAA2B,AAAC,CAC1B,KAAK,CAAE,IAAI,CACZ,CAAA"
+}
