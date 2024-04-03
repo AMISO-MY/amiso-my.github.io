@@ -1,0 +1,43 @@
+{%- assign ids = include.id | split: ' ' -%}
+
+<div class="feature__wrapper">
+  <div class="amiso__feature__grid">
+    {% for fid in ids %}
+    {%- assign flist = page[fid] -%}
+    {% for f in flist %}
+    <div class="amiso__feature__grid__item">
+      <div class="feature__item--center amiso__full__height">
+        <div class="archive__item amiso__full__height amiso__flex__col">
+          {% if f.image_path %}
+          <div class="amiso__feature__item__teaser">
+            <img src="{{ f.image_path | relative_url }}" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+            <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>"
+              }}</span>
+            {% endif %}
+          </div>
+          {% endif %}
+
+          <div class="archive__item-body">
+            {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% endif %}
+
+            {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+            {% endif %}
+
+            {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default:
+                site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% endfor %}
+  </div>
+</div>
