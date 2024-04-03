@@ -1,3 +1,6 @@
+---
+---
+
 .rainbowText {
     background: conic-gradient(#EB5757, #F2994A, #F2C94C, #6FCF97, #56CCF2, #BB6BD9);
     background-clip: text;
@@ -50,9 +53,47 @@
 }
 
 #logos>img {
-    width: 30vw;
+    width: 20vw;
 }
 
+
+
+#cmts {
+    display: grid;
+    grid-template-columns: repeat(5, calc(80vw/6));
+    grid-template-rows: repeat(4, calc(80vw/5));
+    gap: 0.5em;
+}
+
+#cmts>div {
+    width: calc(80vw/6);
+    /* height: calc(80vw/6 + 5vw); */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    border-radius: 1em;
+    background-color: gray;
+
+}
+
+#cmts>div>img {
+    border-radius: 9999px;
+    object-fit: cover;
+    width: calc(80vw/10);
+    height: calc(80vw/10);
+}
+
+#cmts>div>h6 {
+    margin-top: 0.5em;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#cmts>div:hover #cmts>div>p {
+    display: block;
+}
 
 @media only screen and (min-width: 769px) {
     .tooltip {
@@ -124,6 +165,45 @@
 
     #logos>img {
         width: 80%;
+    }
+
+    #cmts>div {
+        width: 10em;
+    }
+
+    #cmts>div>img {
+        width: 6em;
+        height: 6em;
+    }
+
+    #cmts {
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding: 1em 0;
+    }
+
+    #cmts-wrapper {
+        overflow-x: scroll;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar-track {
+        border-radius: 8px;
+    }
+
+    #cmts-wrapper::-webkit-scrollbar-thumb {
+        background: gray;
+        border-radius: 8px;
+    }
+
+    #cmts>div>span {
+        margin-bottom: 0;
+        display: block;
+        font-size: 0.8em;
     }
 
 }

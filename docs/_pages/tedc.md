@@ -3,9 +3,9 @@ layout: single
 title: The Econference Discovery Challenge 2023
 permalink: /tedc/
 classes: wide
+custom_css:
+  - tedc
 ---
-
-<link href="/assets/images/tedc/tedc.css" type="text/css" rel="stylesheet" />
 
 <div id="hero">
     <div id="countdown">
@@ -16,8 +16,6 @@ classes: wide
     </div>
     <div id="logo"><img src="/assets/images/tedc/tedc-logo.png"/></div>
 </div>
-
-
 
 # Introduction
 The Econference Discovery Challenge (TEDC) is the first ever student-led, nation-wide competitive social science quiz challenge hosted by AMISO, in collaboration with Asia Pacific University of Technology & Innovation!

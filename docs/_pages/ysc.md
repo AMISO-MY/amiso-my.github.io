@@ -3,10 +3,11 @@ layout: single
 title: Youth STEM Cup
 permalink: /ysc/
 classes: wide
+custom_css:
+    - ysc
+custom_js:
+    - ysc
 ---
-
-<link href="/assets/images/ysc/ysc.css" type="text/css" rel="stylesheet" />
-<script src="/assets/images/ysc/ysc.js"></script>
 
 <div id="hero">
     <div id="countdown">
@@ -24,9 +25,9 @@ classes: wide
 
 
 # Introduction
-The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olympiad hosted by AMISO in collaboration with Heriot-Watt University! 
+The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olympiad hosted by AMISO in collaboration with Heriot-Watt University!
 
-Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
+Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads.
 
 The Youth STEM Cup is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
@@ -35,7 +36,7 @@ The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Fi
 The important details are as follows:
 
 **Preliminary Round:**
-- **Date**			: 13th April 2024 
+- **Date**			: 13th April 2024
 - **Time**			: 10:00am - 11:02am
 - **Venue**			: Online
 
@@ -74,7 +75,7 @@ The important details are as follows:
 - 13/04/2024: Preliminary Round
 - 22/06/2024: Final Round
 
-<!-- # Schedule 
+<!-- # Schedule
 ![Preliminary Round Schedule]()
 ![Final Round Day-Of Schedule]() -->
 
@@ -139,5 +140,5 @@ The first YSC was held in 2023, with huge support from Heriot-Watt University Ma
 </div>
 
 <div id="cmts-wrapper">
-    <div id="cmts"></div> 
+    <div id="cmts"></div>
 </div>

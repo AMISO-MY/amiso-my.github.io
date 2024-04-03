@@ -3,10 +3,11 @@ layout: single
 title: Youth STEM Experimentation Camp 2023
 permalink: /ysec/
 classes: wide
+custom_css:
+    - ysec
+custom_js:
+    - ysec
 ---
-
-<link href="/assets/images/ysec/ysec.css" type="text/css" rel="stylesheet" />
-<script src="/assets/images/ysec/ysec.js"></script>
 
 <div id="hero">
     <div id="countdown">
@@ -35,7 +36,7 @@ The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Screening 
 The important details are as follows:
 
 **Preliminary Round**
-- **Date**			: 25th November 2023 
+- **Date**			: 25th November 2023
 - **Time**			: 10:00am - 11:32am
 - **Venue**			: Online
 
@@ -65,7 +66,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - 06/12/2023: Finalist Attendance Confirmation Deadline
 - 16/12/2023: Final Round
 
-<!-- # Schedule 
+<!-- # Schedule
 ![Preliminary Round Schedule]()
 ![Final Round Day-Of Schedule]() -->
 
@@ -110,5 +111,5 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 
 
 <div id="cmts-wrapper">
-    <div id="cmts"></div> 
+    <div id="cmts"></div>
 </div>
