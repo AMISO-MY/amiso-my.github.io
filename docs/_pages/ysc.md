@@ -192,7 +192,7 @@ The first YSC was held in 2023, with huge support from Heriot-Watt University Ma
 <div id="cmts">
 {% for cmt in page.cmts %}
 <div class="tooltip">
-  <img src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
+  <img loading="lazy" src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
   <h6>{{ cmt.name }}</h6>
   <span class="tooltiptext">{{ cmt.pos }}</span>
 </div>

@@ -163,7 +163,7 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 <div id="cmts">
 {% for cmt in page.cmts %}
 <div class="tooltip">
-  <img src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
+  <img loading="lazy" src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
   <h6>{{ cmt.name }}</h6>
   <span class="tooltiptext">{{ cmt.pos }}</span>
 </div>
