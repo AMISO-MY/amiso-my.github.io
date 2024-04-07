@@ -1,7 +1,8 @@
 ---
 title: "AMISO"
 layout: splash
-permalink:
+custom_css:
+  - home
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,24 +17,21 @@ intro:
 newsletter:
   - image_path: /assets/images/AMISO_Newsletter_FALL23.png
     alt: "AMISO Fall Newsletter"
-    excerpt: ""
     url: "https://drive.google.com/file/d/1jDvmc3uTuLSyKiAkrdi207uPAm1v_3fG/view?usp=sharing&amisogtag=newsletter"
     btn_label: "Read it now!"
     btn_class: "btn--success mt-10"
 amisomc:
   - image_path: "/assets/images/AMISOMC_Website_Banner_24APR.png"
     alt: "AMISO Monthly Challenge Website Banner"
-    excerpt: ""
     url: "https://forms.gle/HUXSBLKYGEM63aX56"
     btn_label: "JOIN THE CHALLENGE!"
     btn_class: "btn--success mt-10"
 recruitment:
-    - image_path: "/assets/images/amiso-recruitment-2024.jpg"
-      alt: "AMISO Recruitment Poster"
-      excerpt: ""
-      url: "https://forms.gle/enPhMrfHFtCnPjsv9"
-      btn_label: "Apply today!"
-      btn_class: "btn--success mt-10"
+  - image_path: "/assets/images/amiso-recruitment-2024.jpg"
+    alt: "AMISO Recruitment Poster"
+    url: "https://forms.gle/enPhMrfHFtCnPjsv9"
+    btn_label: "Apply today!"
+    btn_class: "btn--success mt-10"
 ysec:
   - image_path: "/assets/images/ysec/ysec-logo-nobg-cropped.png"
     alt: "YSEC Image"
@@ -81,19 +79,9 @@ footer:
     btn_class: "btn--primary"
 ---
 
-<style>
-  .mt-10 {
-    margin-top: 10px;
-  }
-</style>
-
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="recruitment" type="center" %}
-
-{% include feature_row id="amisomc" type="center" %}
-
-{% include feature_row id="newsletter" type="center" %}
+{% include multi_button_row id="recruitment amisomc newsletter" %}
 
 {% include feature_row id="national_selection_tests" type="left" %}
 

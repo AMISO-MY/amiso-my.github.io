@@ -12,12 +12,12 @@ Good luck to the team of Malaysia in the 2022 [International Philosophy Olympiad
 
 Here are our Malaysian representatives.
 <figure class="half">
-    <img src="/assets/images/posts/2022-05-25-IPO-2022-Malaysia-Team/ng-yu-xuan.jpeg">
+    <img src="/assets/images/posts/2022-05-25-IPO-2022-Malaysia-Team/ng-yu-xuan.jpeg" alt="Picture of Ng Yu Xuan">
     <figcaption>Ng Yu Xuan, Nanyang Junior College</figcaption>
 </figure>
 
 <figure class="half">
-    <img src="/assets/images/posts/2022-05-25-IPO-2022-Malaysia-Team/emil-hafiz.jpeg">
+    <img src="/assets/images/posts/2022-05-25-IPO-2022-Malaysia-Team/emil-hafiz.jpeg" alt="Picture of Muhammad Emil Hafiz Hafiznizam">
     <figcaption>Muhammad Emil Hafiz Hafiznizam, Kolej MARA Banting</figcaption>
 </figure>
 

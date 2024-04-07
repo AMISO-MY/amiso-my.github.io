@@ -3,10 +3,60 @@ layout: single
 title: Youth STEM Cup
 permalink: /ysc/
 classes: wide
+custom_css:
+    - ysc
+custom_js:
+    - ysc
+cmts:
+    - name: "Joyton Fu Hung Li"
+      pos: "Advisor"
+    - name: "Lee Han Yang"
+      pos: "Advisor"
+    - name: "Liew Ze Wei"
+      pos: "Event Coordinator"
+    - name: "Lee Ke Yin"
+      pos: "Event Coordinator"
+    - name: "Joel Pang Kai Chen"
+      pos: "Event Coordinator"
+    - name: "Ong Zhi Zheng"
+      pos: "Event Coordinator"
+    - name: "Ng Kin Him"
+      pos: "Secretary"
+    - name: "Tan Zhi Qi"
+      pos: "Secretary"
+    - name: "Yahaya Bin Basiron"
+      pos: "Secretary"
+    - name: "Bok Zhe Shing"
+      pos: "Treasurer"
+    - name: "Quincy Jules Tan Yi Liing"
+      pos: "Publicity"
+    - name: "Eunice Lee Xin Yi"
+      pos: "Publicity"
+    - name: "Ong Kok Rhui"
+      pos: "Publicity"
+    - name: "Lam Wei Heng"
+      pos: "Publicity"
+    - name: "Shee Yi Rong"
+      pos: "Logistics"
+    - name: "Ching Wei Yang"
+      pos: "Logistics"
+    - name: "Ooi Zhen Khoon"
+      pos: "Logistics"
+    - name: "Ho Hao Yuan"
+      pos: "Logistics"
+    - name: "Wong Jer Ren"
+      pos: "Problem Selection Committee Head of Math"
+    - name: "Nelson Loh Kwong Weng"
+      pos: "Problem Selection Committee Head of Physics"
+    - name: "Ms Ong Sy Ing"
+      pos: "Problem Selection Committee Head of Biology"
+    - name: "Aaron Oong Zhu Wen"
+      pos: "Problem Selection Committee Head of Chemistry"
+    - name: "Ng Kin Him"
+      pos: "Problem Selection Committee Head of Earth Science"
+    - name: "Shee Yi Rong"
+      pos: "Problem Selection Committee Head of Social Science"
 ---
-
-<link href="/assets/images/ysc/ysc.css" type="text/css" rel="stylesheet" />
-<script src="/assets/images/ysc/ysc.js"></script>
 
 <div id="hero">
     <div id="countdown">
@@ -18,15 +68,15 @@ classes: wide
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
     </div>
-    <div id="logo"><img src="/assets/images/ysc/ysc-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/ysc/ysc-logo.png" alt="Logo of YSC"/></div>
 </div>
 
 
 
 # Introduction
-The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olympiad hosted by AMISO in collaboration with Heriot-Watt University! 
+The Youth STEM Cup (YSC) is a student-led, nation-wide competitive science olympiad hosted by AMISO in collaboration with Heriot-Watt University!
 
-Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads. 
+Our main purpose is to promote interests in competitive STEM subjects (especially Olympiad competitions) amongst **high school and pre-university students** in Malaysia, while also equipping participants with the knowledge to prepare themselves for the selection tests of International Science Olympiads.
 
 The Youth STEM Cup is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
@@ -35,7 +85,7 @@ The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Fi
 The important details are as follows:
 
 **Preliminary Round:**
-- **Date**			: 13th April 2024 
+- **Date**			: 13th April 2024
 - **Time**			: 10:00am - 11:02am
 - **Venue**			: Online
 
@@ -74,7 +124,7 @@ The important details are as follows:
 - 13/04/2024: Preliminary Round
 - 22/06/2024: Final Round
 
-<!-- # Schedule 
+<!-- # Schedule
 ![Preliminary Round Schedule]()
 ![Final Round Day-Of Schedule]() -->
 
@@ -83,8 +133,8 @@ The important details are as follows:
 # Special Thanks
 <!-- HWU Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysc/hwu.jpg"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/ysc/hwu.jpg" alt="HWU Logo"/>
+    <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
 # Reading Materials
@@ -129,15 +179,23 @@ The first YSC was held in 2023, with huge support from Heriot-Watt University Ma
 
 <div id="past-imgs">
     <div>
-        <img src="/assets/images/ysc-2023-group.jpg"/>
-        <img src="/assets/images/ysc-2023-exam.jpg"/>
+        <img src="/assets/images/ysc-2023-group.jpg" alt="YSC 2023 Group Photo"/>
+        <img src="/assets/images/ysc-2023-exam.jpg" alt="YSC 2023 Exam Photo"/>
     </div>
     <div>
-        <img src="/assets/images/ysc-2023-forum.jpg"/>
-        <img src="/assets/images/ysc-2023-talk.jpg"/>
+        <img src="/assets/images/ysc-2023-forum.jpg" alt="YSC 2023 Forum Photo"/>
+        <img src="/assets/images/ysc-2023-talk.jpg" alt="YSC 2023 Economics Talk Photo"/>
     </div>
 </div>
 
 <div id="cmts-wrapper">
-    <div id="cmts"></div> 
+<div id="cmts">
+{% for cmt in page.cmts %}
+<div class="tooltip">
+  <img loading="lazy" src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
+  <h6>{{ cmt.name }}</h6>
+  <span class="tooltiptext">{{ cmt.pos }}</span>
+</div>
+{% endfor %}
+</div>
 </div>

@@ -1,3 +1,6 @@
+---
+---
+
 .rainbowText {
     background: conic-gradient(#EB5757, #F2994A, #F2C94C, #6FCF97, #56CCF2, #BB6BD9);
     background-clip: text;
@@ -50,10 +53,28 @@
 }
 
 #logos>img {
-    width: 20vw;
+    width: 30vw;
 }
 
+#past-imgs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
+#past-imgs > div {
+    display: flex;
+    flex-direction: row;
+}
+
+#past-imgs > div > img {
+    width: MAX(300px, 21vw);
+    height: MAX(200px, 14vw);
+    margin: 10px;
+}
 
 #cmts {
     display: grid;

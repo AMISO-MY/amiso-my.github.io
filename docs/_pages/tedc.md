@@ -3,9 +3,9 @@ layout: single
 title: The Econference Discovery Challenge 2023
 permalink: /tedc/
 classes: wide
+custom_css:
+  - tedc
 ---
-
-<link href="/assets/images/tedc/tedc.css" type="text/css" rel="stylesheet" />
 
 <div id="hero">
     <div id="countdown">
@@ -14,10 +14,8 @@ classes: wide
         <p>AMISO's first ever, student-led social science game show and quiz challenge.</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_tHVpmEi-oty0Ncu3LdJiyFlTBz_bPdbe6fTB4E3rYMTvTw/viewform" target="_blank">Register now!</a>
     </div>
-    <div id="logo"><img src="/assets/images/tedc/tedc-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/tedc/tedc-logo.png" alt="Logo of TEDC"/></div>
 </div>
-
-
 
 # Introduction
 The Econference Discovery Challenge (TEDC) is the first ever student-led, nation-wide competitive social science quiz challenge hosted by AMISO, in collaboration with Asia Pacific University of Technology & Innovation!
@@ -70,8 +68,8 @@ Details for the distribution of cash prizes will be outlined in the [TEDC Info P
 
 # Special Thanks
 <div id="logos">
-    <img src="/assets/images/tedc/ameu.png"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/tedc/ameu.png" alt="Logo of AMEU"/>
+    <img src="/assets/images/amiso-logo.png" alt="Logo of AMISO"/>
 </div>
 
 
