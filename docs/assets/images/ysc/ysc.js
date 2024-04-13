@@ -7,8 +7,8 @@ let countdown = setInterval(() => {
     let delta = prelimDate - now;
 
     if (delta < 0) {
-        clearInterval(countdown);
         document.getElementById("timer").innerHTML = "";
+        clearInterval(countdown);
     }
 
     let [days, hours, minutes, seconds] = [
