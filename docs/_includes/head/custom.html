@@ -6,10 +6,25 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-<link rel="stylesheet" href="{{ '/assets/amiso.css' | relative_url }}">
+{% if layout.custom_css %}
+  {% for stylesheet in layout.custom_css %}
+  <link rel="stylesheet" href="/assets/css/{{ stylesheet }}.css">
+  {% endfor %}
+{% endif %}
+{% if page.custom_css %}
+  {% for stylesheet in page.custom_css %}
+  <link rel="stylesheet" href="/assets/css/{{ stylesheet }}.css">
+  {% endfor %}
+{% endif %}
+{% if layout.custom_js %}
+  {% for script in layout.custom_js %}
+  <script src="/assets/js/{{ script }}.js"></script>
+  {% endfor %}
+{% endif %}
+{% if page.custom_js %}
+  {% for script in page.custom_js %}
+  <script src="/assets/js/{{ script }}.js"></script>
+  {% endfor %}
+{% endif %}
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','{{ site.analytics.google.tag_manager_id }}');</script>
+{%- include /head/gtm.html -%}

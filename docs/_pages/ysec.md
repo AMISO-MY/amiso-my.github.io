@@ -3,10 +3,56 @@ layout: single
 title: Youth STEM Experimentation Camp 2023
 permalink: /ysec/
 classes: wide
+custom_css:
+    - ysec
+custom_js:
+    - ysec
+cmts:
+    - name: "Ong Zhi Zheng"
+      pos: "Advisor"
+    - name: "Joyton Fu Hung Li"
+      pos: "Advisor"
+    - name: "Chang Kian Yau"
+      pos: "Advisor"
+    - name: "Liew Ze Wei"
+      pos: "General Management Team"
+    - name: "Lee Ke Yin"
+      pos: "General Management Team"
+    - name: "Joel Pang Kai Chen"
+      pos: "General Management Team"
+    - name: "Ng Ze Xian"
+      pos: "General Management Team"
+    - name: "Lee Han Yang"
+      pos: "Secretary"
+    - name: "Tan Zhi Qi"
+      pos: "Secretary"
+    - name: "Bok Zhe Shing"
+      pos: "Treasurer"
+    - name: "Quincy Jules Tan Yi Liing"
+      pos: "Publicity"
+    - name: "Eunice Lee Xin Yi"
+      pos: "Publicity"
+    - name: "Ong Kok Rhui"
+      pos: "Publicity"
+    - name: "Lam Wei Heng"
+      pos: "Publicity"
+    - name: "Wong Jer Ren"
+      pos: "Problem Selection Committee Head"
+    - name: "Nelson Loh Kwong Weng"
+      pos: "Problem Selection Committee"
+    - name: "Aaron Oong Zhu Wen"
+      pos: "Problem Selection Committee"
+    - name: "Ng Kin Him"
+      pos: "Problem Selection Committee"
+    - name: "Tan Zhi Qi"
+      pos: "Problem Selection Committee"
+    - name: "Shee Yi Rong"
+      pos: "Logistics"
+    - name: "Ching Wei Yang"
+      pos: "Logistics"
+    - name: "Ooi Zhen Khoon"
+      pos: "Logistics"
 ---
-
-<link href="/assets/images/ysec/ysec.css" type="text/css" rel="stylesheet" />
-<script src="/assets/images/ysec/ysec.js"></script>
 
 <div id="hero">
     <div id="countdown">
@@ -18,7 +64,7 @@ classes: wide
         <!-- <p id="timer">It's a wrap!</p> -->
         <!-- <p>Thanks to everyone who joined YSC!</p> -->
     </div>
-    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png"/></div>
+    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo"/></div>
 </div>
 
 
@@ -35,7 +81,7 @@ The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Screening 
 The important details are as follows:
 
 **Preliminary Round**
-- **Date**			: 25th November 2023 
+- **Date**			: 25th November 2023
 - **Time**			: 10:00am - 11:32am
 - **Venue**			: Online
 
@@ -54,8 +100,9 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - [Sign up today!](https://forms.gle/G561WFRcMLX4zfr29)
 
 
-<!-- # Prizes awarded: -->
-
+{% comment %}
+# Prizes awarded:
+{% endcomment %}
 
 # Timeline
 - 01/09/2023: Registration Starts
@@ -65,21 +112,23 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - 06/12/2023: Finalist Attendance Confirmation Deadline
 - 16/12/2023: Final Round
 
-<!-- # Schedule 
+{% comment %}
+# Schedule
 ![Preliminary Round Schedule]()
-![Final Round Day-Of Schedule]() -->
-
-
+![Final Round Day-Of Schedule]()
+{% endcomment %}
 
 # Special Thanks
 <!-- DISTED Logo, AMISO Logo -->
 <div id="logos">
-    <img src="/assets/images/ysec/disted.png"/>
-    <img src="/assets/images/ysec/nsa.png"/>
-    <img src="/assets/images/amiso-logo.png"/>
+    <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/>
+    <img src="/assets/images/ysec/nsa.png" alt="National STEM Association Logo"/>
+    <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
-<!-- # Reading Materials
+{% comment %}
+
+# Reading Materials
 Below are some reading materials recommended by the YSC Problem Setting Committee.
 A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_Syllabus.pdf) as well.
 
@@ -101,8 +150,9 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 
 ### Astronomy & Astrophysics
 - [https://chojeq.com/iao](https://chojeq.com/iao)
-- [https://usaaao.org/resources/](https://usaaao.org/resources/) -->
+- [https://usaaao.org/resources/](https://usaaao.org/resources/)
 
+{% endcomment %}
 
 # Links
 - [YSEC Infopack](https://docs.google.com/document/d/1z4oLtsypTcpf7X5R42FE8y_79gJ14lWaZdiih1w6Aak/edit?usp=sharing)
@@ -110,5 +160,13 @@ A scope of the YSC syllabus can be found [here](/assets/images/ysc/YSC_Scope_of_
 
 
 <div id="cmts-wrapper">
-    <div id="cmts"></div> 
+<div id="cmts">
+{% for cmt in page.cmts %}
+<div class="tooltip">
+  <img loading="lazy" src="/assets/images/cmt/{{ cmt.name | replace: ' ', '_' }}.jpg" alt="Picture of {{ cmt.name }}">
+  <h6>{{ cmt.name }}</h6>
+  <span class="tooltiptext">{{ cmt.pos }}</span>
+</div>
+{% endfor %}
+</div>
 </div>
