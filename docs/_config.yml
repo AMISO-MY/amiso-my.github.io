@@ -125,6 +125,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://my.linkedin.com/company/amiso-my"
+    
 
 # Site Footer
 footer:
@@ -150,6 +154,9 @@ footer:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://amiso.my/discord/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://my.linkedin.com/company/amiso-my"
 
 # Reading Files
 include:
