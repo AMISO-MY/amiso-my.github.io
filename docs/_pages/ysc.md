@@ -172,8 +172,8 @@ A scope of the YSC syllabus can be found [here](https://docs.google.com/document
 
 # YSC Past Papers
 The below contains Problems and Answers of previous YSC's.
-- [YSC 2024 Prelim (Senior) - Problems & Answers](</assets/files/ysc/YSC_2024_(Senior)_Problems_&_Answers.pdf>)
-- [YSC 2024 Prelim (Junior) - Problems & Answers](</assets/files/ysc/YSC_2024_(Junior)_Problems_&_Answers.pdf>)
+- [YSC 2024 Prelim (Senior) - Problems & Answers](</assets/files/ysc/YSC_2024_Prelim_(Senior)_Problems_&_Answers.pdf>)
+- [YSC 2024 Prelim (Junior) - Problems & Answers](</assets/files/ysc/YSC_2024_Prelim_(Junior)_Problems_&_Answers.pdf>)
 - [YSC 2023 Prelim - Problems & Answers](</assets/files/ysc/YSC_2023_Prelim_Problems_&_Answers.pdf>)
 - [YSC 2023 Final - Problems & Answers](</assets/files/ysc/YSC_2023_Final_Problems_&_Answers.pdf>)
 
