@@ -1,5 +1,14 @@
 # amiso-my.github.io
 
+<!-- TODO:
+- affiliates page
+- committee page
+- past newsletters archive
+- donations page and transparent finances
+- setup automatic analytics bot in discord
+- handle automatic amiso.my email creation
+- optimize website // revamp design?
+ -->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
