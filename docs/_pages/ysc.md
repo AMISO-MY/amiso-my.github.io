@@ -170,12 +170,17 @@ A scope of the YSC syllabus can be found [here](https://docs.google.com/document
 - [The Economy 1.0 by the CORE team](https://www.core-econ.org/the-economy/v1/book/text/0-3-contents.html)
 - [Materials from the UK Linguistics Olympiad](https://www.uklo.org/how-do-i-prepare/)
 
+# YSC Past Papers
+The below contains Problems and Answers of previous YSC's.
+- [2024](https://drive.google.com/drive/folders/1TkPku3DxRq-PX9FZa1U8WF6yANYlTpip?usp=sharing)
+- [2023](https://drive.google.com/drive/folders/1j8nG0QgoMNGmOawXk3xy1ffemyYj48fH?usp=sharing)
+
 # Links
 - [YSC Infopack](https://docs.google.com/document/d/1ej1z8iqn6imAR55sf9l56yg-s0S6UsG8uD-S3_msdqc/view)
 - [Instagram](https://instagram.com/youthstemcup)
 
 # Past YSC Events
-The first YSC was held in 2023, with huge support from Heriot-Watt University Malaysia - the event was a success, and garnered the participation of over 1k students from all across Malaysia! A post-event writeup can be found here, and below are some images from the Final Round of YSC 2023:
+The first YSC was held in 2023, with huge support from Heriot-Watt University Malaysia - the event was a success, and garnered the participation of over 1k students from all across Malaysia! A post-event writeup [can be found here](https://drive.google.com/file/d/1uLmDlMcmzXX3LqL3cueniZ45SrJdaWI4/view?usp=sharing), and below are some images from the Final Round of YSC 2023:
 
 <div id="past-imgs">
     <div>
