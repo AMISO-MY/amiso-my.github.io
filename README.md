@@ -1,6 +1,7 @@
 # amiso-my.github.io
 
 <!-- TODO:
+- add ibo page (flw up w en suhaimi)
 - affiliates page
 - committee page
 - past newsletters archive
@@ -8,6 +9,7 @@
 - setup automatic analytics bot in discord
 - handle automatic amiso.my email creation
 - optimize website // revamp design?
+- certificates generator for the new team
  -->
 
 <!-- ABOUT THE PROJECT -->
