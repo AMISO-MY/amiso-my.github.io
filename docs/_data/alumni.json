@@ -1011,5 +1011,39 @@
         "website": "",
         "tuition": "Yes",
         "email": "syarifazwann@gmail.com"
+    },
+    {
+        "name": "Khow Jin Xen",
+        "iso": [
+            "IEO 2024",
+            "IJSO 2023"
+        ],
+        "workplace": "Sunway College",
+        "job": "A Levels",
+        "linkedin": "https://www.linkedin.com/in/jin-xen-khow/",
+        "github": "jinjinsquared",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/jinnn.192/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Ng Ze Xian",
+        "iso": [
+            "IChO 2024"
+        ],
+        "workplace": "",
+        "job": "",
+        "linkedin": "",
+        "github": "zxng1122",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
+    
 ]
