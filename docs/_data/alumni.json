@@ -995,5 +995,21 @@
         "website": "",
         "tuition": "No",
         "email": ""
+    },
+    {
+        "name": "Syarif Azwan",
+        "iso": [
+            "IESO 2024"
+        ],
+        "workplace": "University of Washington",
+        "job": "BSc in Biology (General)",
+        "linkedin": "https://www.linkedin.com/in/muhammad-syarif-bin-mohd-shariful-azwan-26688b214/",
+        "github": "",
+        "discord": "",
+        "facebook": "https://www.facebook.com/syarifazwann",
+        "instagram": "https://www.instagram.com/syarifazwan/",
+        "website": "",
+        "tuition": "Yes",
+        "email": "syarifazwann@gmail.com"
     }
 ]
