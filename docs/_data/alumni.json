@@ -947,5 +947,21 @@
         "website": "",
         "tuition": "Yes",
         "email": "josanneo22@gmail.com"
+    },
+    {
+        "name": "Ivan Chan Guan Yu",
+        "iso": [
+            "IMO 2024"
+        ],
+        "workplace": "SMK Bintulu",
+        "job": "SPM",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/rushengt/",
+        "website": "",
+        "tuition": "No",
+        "email": "ivancgy@gmail.com"
     }
 ]
