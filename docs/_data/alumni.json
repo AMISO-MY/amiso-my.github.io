@@ -956,12 +956,44 @@
         "workplace": "SMK Bintulu",
         "job": "SPM",
         "linkedin": "",
-        "github": "",
-        "discord": "",
+        "github": "https://github.com/universal6626",
+        "discord": "bakingsoda6626",
         "facebook": "",
         "instagram": "https://www.instagram.com/bakingsodae/",
         "website": "",
         "tuition": "No",
         "email": "ivancgy@gmail.com"
+    },
+    {
+        "name": "Wong De Xin",
+        "iso": [
+            "IEO 2024"
+        ],
+        "workplace": "Sequoia International School",
+        "job": "IGCSE Year 10",
+        "linkedin": "https://www.linkedin.com/in/de-xin-wong-34a6bb320",
+        "github": "",
+        "discord": "sprucely",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/dx.sprucely/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Evan Au-Yong",
+        "iso": [
+            "IEO 2024"
+        ],
+        "workplace": "Sunway College",
+        "job": "A Levels",
+        "linkedin": "https://www.linkedin.com/in/evanauyong/",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/evanauyong/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
