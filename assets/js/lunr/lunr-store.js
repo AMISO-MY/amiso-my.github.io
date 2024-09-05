@@ -268,4 +268,10 @@ var store = [{
 "tags": [],
 "url": "/OFM-2023-update/",
 "teaser": null
+},{
+"title": "2024 test 1",
+"excerpt":"NATIONAL SELECTION PROCESS FOR 2023 (Last updated 9/3/2023) Registration for the national selection process for IPhO 2023 has been closed. Thank you to everyone who have submitted their names! Students who are eligible have been contacted via e-mail today. The e-mail contains information about the first selection test (what was...","categories": [],
+"tags": [],
+"url": "/test/",
+"teaser": null
 }]
