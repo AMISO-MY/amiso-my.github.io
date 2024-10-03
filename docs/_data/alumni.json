@@ -1076,5 +1076,37 @@
         "website": "",
         "tuition": "Yes",
         "email": "raintanqingyi2004@gmail.com"
+    },
+    {
+        "name": "Soh Tze Jun",
+        "iso": [
+            "IPhO 2024"
+        ],
+        "workplace": "NTU",
+        "job": "EEE",
+        "linkedin": "http://www.linkedin.com/in/tzejun-soh-bb776b322",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": "tzejun1@gmail.com"
+    },
+    {
+        "name": "Khor Yan Xun",
+        "iso": [
+            "IOI 2024"
+        ],
+        "workplace": "NUS High School",
+        "job": "",
+        "linkedin": "",
+        "github": "",
+        "discord": "thelegendary08",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
