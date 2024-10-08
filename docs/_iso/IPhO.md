@@ -13,11 +13,11 @@ gallery:
 The Selection for the 2024 IPhO is done through Olimpiad Fizik Malaysia, hosted in a joint collaboration between AMISO and JKOFM (JawatanKuasa OFM) from UKM.
 {% include gallery caption="Olimpiad Fizik Malaysia" %}
 
-[Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)&nbsp;&nbsp;[Register Now!](https://forms.gle/ppghLqargbVbcEZu6){:target="_blank"}
+[Official OFM website](http://www.ukm.my/ipho/)&nbsp;&nbsp;[Official IPhO website](https://www.ipho-new.org/)&nbsp;&nbsp;[Register Now!](https://forms.gle/yRjdrNLwhiWTWDwG7){:target="_blank"}
 
 # Selection Process
 
-For the 2025 IPhO, AMISO will be hosting the 1st and 2nd rounds of the online selection test - [register here!](https://forms.gle/ppghLqargbVbcEZu6){:target="_blank"} 
+For the 2025 IPhO, AMISO will be hosting the 1st and 2nd rounds of the online selection test - [register here!](https://forms.gle/yRjdrNLwhiWTWDwG7){:target="_blank"} 
 
 ![OFM 2024](/assets/images/posts/2024-10-08-OFM-2024.jpg)
 
