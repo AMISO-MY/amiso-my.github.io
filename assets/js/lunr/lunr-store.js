@@ -268,4 +268,10 @@ var store = [{
 "tags": [],
 "url": "/OFM-2023-update/",
 "teaser": null
+},{
+"title": "OFM 2024",
+"excerpt":"Attention young physics prodigies! The journey to International Physics Olympiad 2025 begins with OFM Round 1! 🌟Ready to represent Malaysia on the global stage? Date: 30 November 2024 Time: 8:00pm - 10:30pm Venue: Online (Google Forms &amp; Zoom) Format: 2 papers, 25 MCQs each, 1 hour per paper Difficulty: STPM...","categories": [],
+"tags": [],
+"url": "/OFM-2024/",
+"teaser": null
 }]
