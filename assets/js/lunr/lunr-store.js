@@ -60,7 +60,7 @@ var store = [{
 "teaser": "/assets/images/ppfpm.png"
 },{
 "title": "IPhO - OFM",
-"excerpt":"The Selection for the 2024 IPhO is done through Olimpiad Fizik Malaysia, hosted in a joint collaboration between AMISO and JKOFM (JawatanKuasa OFM) from UKM. Olimpiad Fizik Malaysia Official OFM website  Official IPhO website  Register Now! Selection Process For the 2025 IPhO, AMISO will be hosting the 1st and 2nd rounds of...","categories": [],
+"excerpt":"The Selection for the 2025 IPhO is done through Olimpiad Fizik Malaysia, hosted in a joint collaboration between AMISO and JKOFM (JawatanKuasa OFM) from UKM. Olimpiad Fizik Malaysia Official OFM website  Official IPhO website  Register Now! Selection Process For the 2025 IPhO, AMISO will be hosting the 1st and 2nd rounds of...","categories": [],
 "tags": [],
 "url": "/ipho/",
 "teaser": "/assets/images/ofm-600x400.png"
