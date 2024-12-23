@@ -1,7 +1,17 @@
 [
-    {
-      "title": "Example Link",
-      "short_link": "example",
-      "target_link": "https://example.com"
-    }
-  ]
+  {
+    "title": "Youth STEM Forum Slido",
+    "short_link": "ysf",
+    "target_link": "https://app.sli.do/event/9vkY5MEVYFysArKz9sQxAb"
+  },
+  {
+    "title": "Youth STEM Cup Feedback Form",
+    "short_link": "ysc24feedback",
+    "target_link": "https://forms.gle/hpRcnS8KzUE4xsH67"
+  },
+  {
+    "title": "2024 AMISO AGM RSVP Form",
+    "short_link": "agm2024",
+    "target_link": "https://forms.gle/XNAvCfwhByNSNQhV9"
+  }
+]

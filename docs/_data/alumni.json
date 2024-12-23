@@ -59,16 +59,16 @@
             "IMO",
             "IOL"
         ],
-        "workplace": "SMJK Chung Ling Butterworth ",
-        "job": "SPM",
+        "workplace": "MIT",
+        "job": "Undergraduate",
         "linkedin": "",
         "github": "",
-        "discord": "折人#6510",
+        "discord": "jrwong",
         "facebook": "https://www.facebook.com/jerrenwong1129",
         "instagram": "https://www.instagram.com/jerrenwong/",
         "website": "",
         "tuition": "No",
-        "email": ""
+        "email": "wjren29@gmail.com"
     },
     {
         "name": "Arif Ismail bin Ruslan",
@@ -303,16 +303,16 @@
             "IESO",
             "IOAA"
         ],
-        "workplace": "",
-        "job": "",
-        "linkedin": "",
+        "workplace": "University of Cambridge",
+        "job": "MEng",
+        "linkedin": "https://www.linkedin.com/in/ym-khoo-366b3a271",
         "github": "",
         "discord": "",
         "facebook": "",
         "instagram": "",
         "website": "",
         "tuition": "No",
-        "email": "khooym898@gmail.com"
+        "email": "ymk31@cam.ac.uk"
     },
     {
         "name": "Mohd Ilyas Adam Bin Salahuddin",
@@ -857,8 +857,8 @@
             "IOI 2021",
             "IOI 2022"
         ],
-        "workplace": "Disted College Penang (awaiting university admission)",
-        "job": "A Levels",
+        "workplace": "National Taiwan Normal University",
+        "job": "B.S. in Computer Science",
         "linkedin": "",
         "github": "",
         "discord": "10-chan#1613",
@@ -947,5 +947,198 @@
         "website": "",
         "tuition": "Yes",
         "email": "josanneo22@gmail.com"
+    },
+    {
+        "name": "Ivan Chan Guan Yu",
+        "iso": [
+            "IMO 2024"
+        ],
+        "workplace": "SMK Bintulu",
+        "job": "SPM",
+        "linkedin": "",
+        "github": "https://github.com/universal6626",
+        "discord": "bakingsoda6626",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/bakingsodae/",
+        "website": "",
+        "tuition": "No",
+        "email": "ivancgy@gmail.com"
+    },
+    {
+        "name": "Wong De Xin",
+        "iso": [
+            "IEO 2024"
+        ],
+        "workplace": "Sequoia International School",
+        "job": "IGCSE Year 10",
+        "linkedin": "https://www.linkedin.com/in/de-xin-wong-34a6bb320",
+        "github": "",
+        "discord": "sprucely",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/dx.sprucely/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Evan Au-Yong",
+        "iso": [
+            "IEO 2024"
+        ],
+        "workplace": "Sunway College",
+        "job": "A Levels",
+        "linkedin": "https://www.linkedin.com/in/evanauyong/",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/evanauyong/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Syarif Azwan",
+        "iso": [
+            "IESO 2024"
+        ],
+        "workplace": "University of Washington",
+        "job": "BSc in Biology (General)",
+        "linkedin": "https://www.linkedin.com/in/muhammad-syarif-bin-mohd-shariful-azwan-26688b214/",
+        "github": "",
+        "discord": "",
+        "facebook": "https://www.facebook.com/syarifazwann",
+        "instagram": "https://www.instagram.com/syarifazwan/",
+        "website": "",
+        "tuition": "Yes",
+        "email": "syarifazwann@gmail.com"
+    },
+    {
+        "name": "Khow Jin Xen",
+        "iso": [
+            "IEO 2024",
+            "IJSO 2023"
+        ],
+        "workplace": "Sunway College",
+        "job": "A Levels",
+        "linkedin": "https://www.linkedin.com/in/jin-xen-khow/",
+        "github": "",
+        "discord": "jinjinsquared",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/jinnn.192/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Ng Ze Xian",
+        "iso": [
+            "IChO 2024"
+        ],
+        "workplace": "",
+        "job": "",
+        "linkedin": "",
+        "github": "",
+        "discord": "zxng1122",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Tay Ru Sheng",
+        "iso": [
+            "IJSO 2023"
+        ],
+        "workplace": "Kuen Cheng High School",
+        "job": "SPM",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/rushengt/",
+        "website": "",
+        "tuition": "No",
+        "email": "Rushengtay@gmail.com"
+    },
+    {
+        "name": "Tan Qing Yi",
+        "iso": [
+            "IEO 2024"
+        ],
+        "workplace": "Universiti Tunku Abdul Rahman",
+        "job": "Bachelor of Accounting (Honours)",
+        "linkedin": "https://www.linkedin.com/in/qing-yi-tan-8ba594319",
+        "github": "",
+        "discord": "",
+        "facebook": "https://www.facebook.com/share/ZExD1Yy6hUsiM5Bm/?mibextid=qi2Omg",
+        "instagram": "https://www.instagram.com/raintan_0730?igsh=MWkzZ3pqcXVwdTJwdg==",
+        "website": "",
+        "tuition": "Yes",
+        "email": "raintanqingyi2004@gmail.com"
+    },
+    {
+        "name": "Soh Tze Jun",
+        "iso": [
+            "IPhO 2024"
+        ],
+        "workplace": "NTU",
+        "job": "EEE",
+        "linkedin": "http://www.linkedin.com/in/tzejun-soh-bb776b322",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": "tzejun1@gmail.com"
+    },
+    {
+        "name": "Khor Yan Xun",
+        "iso": [
+            "IOI 2024"
+        ],
+        "workplace": "NUS High School",
+        "job": "",
+        "linkedin": "",
+        "github": "",
+        "discord": "thelegendary08",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
+    },
+    {
+        "name": "Carson Tai Kar Shing",
+        "iso": [
+            "IPhO 2024"
+        ],
+        "workplace": "SMJK Chung Ling",
+        "job": "STPM",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": "carsontai0714@gmail.com"
+    },
+    {
+        "name": "Angeline Christie Danny",
+        "iso": [
+            "IBO 2016"
+        ],
+        "workplace": "",
+        "job": "",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/angelinechristie_/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
