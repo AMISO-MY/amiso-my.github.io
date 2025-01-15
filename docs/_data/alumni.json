@@ -1140,5 +1140,21 @@
         "website": "",
         "tuition": "No",
         "email": ""
+    },
+    {
+        "name": "Loh Jing Chen",
+        "iso": [
+            "IOAA 2023"
+        ],
+        "workplace": "Nanyang Technological University (NTU)",
+        "job": "Electrical and Electronic Engineering",
+        "linkedin": "",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
