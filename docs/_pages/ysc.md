@@ -174,17 +174,10 @@ A scope of the YSC syllabus can be found [here](https://docs.google.com/document
 
 The below are the Sample Problem Sets.
 
-- [YSC Sample Problem Set (Senior)](</assets/files/ysc/YSC_Sample_Problem_Set_(Senior)>)
-- [YSC Sample Problem Set (Junior)](</assets/files/ysc/YSC_Sample_Problem_Set_(Junior)>)
-
+- [YSC Sample Problem Set (Senior)](</assets/files/ysc/YSC_Sample_Problem_Set_(Senior).pdf>)
+- [YSC Sample Problem Set (Junior)](</assets/files/ysc/YSC_Sample_Problem_Set_(Junior).pdf>)
 
 The below contains Problems and Answers of previous YSC's.
-
-### 2024
-- [YSC 2024 Final (Senior) - Problems & Answers](</assets/files/ysc/YSC_2024_Final_(Senior)_Problems_&_Answers.pdf>)
-- [YSC 2024 Final (Junior) - Problems & Answers](</assets/files/ysc/YSC_2024_Final_(Junior)_Problems_&_Answers.pdf>)
-- [YSC 2024 Prelim (Senior) - Problems & Answers](</assets/files/ysc/YSC_2024_Prelim_(Senior)_Problems_&_Answers.pdf>)
-- [YSC 2024 Prelim (Junior) - Problems & Answers](</assets/files/ysc/YSC_2024_Prelim_(Junior)_Problems_&_Answers.pdf>)
 
 ### 2024
 - [YSC 2024 Final (Senior) - Problems & Answers](</assets/files/ysc/YSC_2024_Final_(Senior)_Problems_&_Answers.pdf>)
