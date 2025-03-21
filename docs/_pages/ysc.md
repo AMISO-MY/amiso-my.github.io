@@ -60,11 +60,11 @@ cmts:
 
 <div id="hero">
     <div id="countdown">
-        <h2>13th April 2024, Online</h2>
+        <h2>19th April 2025</h2>
         <h1>A Team Science Competition for Malaysians</h1>
-        <p>AMISO's student-led olympiad returns once again in 2024!</p>
-        <a href="https://forms.gle/knUMAEqTRhF2mjJ88" target="_blank">Register now!</a>
-        <p id="timer">0d 0h 0m 0s</p>
+        <p>AMISO's student-led olympiad returns once again in 2025!</p>
+        <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a>
+        <!-- <p id="timer">0d 0h 0m 0s</p> -->
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
     </div>
@@ -85,50 +85,35 @@ The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Fi
 The important details are as follows:
 
 **Preliminary Round:**
-- **Date**			: 13th April 2024
+- **Date**			: 19th April 2025
 - **Time**			: 10:00am - 11:02am
 - **Venue**			: Online
 
 **Final Round**:
-- **Date**			: 22th June 2024
+- **Date**			: 21st June 2025
 - **Venue**			: Heriot-Watt University Malaysia
-
-
 
 # Registration
 - Application for YSC is **free of charge**!
-- [Sign up today!](https://forms.gle/knUMAEqTRhF2mjJ88)
-
-
+- Registration Deadline : 18 April 2025 (11.59pm)
+- Participants may join individually or form a group of four, discussion is allowed. Preliminary round consists of 36 questions whereas final round consists of 5 problems with 10 questions each (tbc).
+- Top 15 teams from each category will be selected to contest in final round.
+- [Sign up today!](https://forms.gle/7kMcAyDRbQfG3qE3A)
 
 # Cash prize and certificate awarded:
-### Junior level (High school students aged 13 to 17 years old)
-- 1st Place: RM350 and certificate with ranking
-- 2nd Place: RM250 and certificate with ranking
-- 3rd Place: RM150 and certificate with ranking
-- Highest scorer in subject: certificate of best subject award
+Winners and participants will receive certificates!
 
-### Senior level (Pre-U studentsaged 18 to 19 years old):
-- 1st Place: RM350 and certificate with ranking
-- 2nd Place: RM250 and certificate with ranking
-- 3rd Place: RM150 and certificate with ranking
-- Highest scorer in subject: certificate of best subject award
+Prize money fingers crossed? We're trying to find sponsors to fund for it. Do email us (youthstemcup@gmail.com) if you're interested in sponsoring us.
 
-<sup><sup>Cash prizes amount is calculated in teams and will be sent to the leader of the winning team. The team leader is expected to divide the cash prize among his/her team members. (eg. The team who wins first place will get a total of RM350 only to be shared among its team members)</sup></sup>
-
-
-
-# Timeline
+<!-- # Timeline
 - 01/01/2024: Registration Starts
 - 31/03/2024: Registration Deadline
 - 13/04/2024: Preliminary Round
-- 22/06/2024: Final Round
+- 22/06/2024: Final Round -->
 
 <!-- # Schedule
 ![Preliminary Round Schedule]()
 ![Final Round Day-Of Schedule]() -->
-
-
 
 # Special Thanks
 <!-- HWU Logo, AMISO Logo -->
