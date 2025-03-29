@@ -124,7 +124,7 @@ Prize money fingers crossed? We're trying to find sponsors to fund for it. Do em
 
 # Reading Materials
 Below are some reading materials recommended by the YSC Problem Setting Committee.
-A scope of the YSC syllabus can be found [here](https://docs.google.com/document/d/1SqOIqweP0rBAFrgw2uWeFLMI4PrkciRIJFvmy6l_l74/edit?usp=sharing) as well.
+A scope of the YSC syllabus can be found [here](https://docs.google.com/document/d/1jajnhqAS3pBfq2higLZdCzB7_z7gj2b0xEm4aL5FabQ/edit?usp=sharing) as well.
 
 ### Mathematics
 - *A First Course in Calculus* by Serge Lang
@@ -175,7 +175,7 @@ The below contains Problems and Answers of previous YSC's.
 - [YSC 2023 Prelim - Problems & Answers](</assets/files/ysc/YSC_2023_Prelim_Problems_&_Answers.pdf>)
 
 # Links
-- [YSC Infopack](https://docs.google.com/document/d/1ej1z8iqn6imAR55sf9l56yg-s0S6UsG8uD-S3_msdqc/view)
+- [YSC Infopack](https://docs.google.com/document/d/16fuy7yK94xt0-6DNxi0a4RGrZkSRgXIB8JK1Vastlx0/edit?usp=sharing)
 - [Instagram](https://instagram.com/youthstemcup)
 
 # Past YSC Events
