@@ -1156,5 +1156,21 @@
         "website": "",
         "tuition": "No",
         "email": ""
+    },
+    {
+        "name": "Adam Zachry",
+        "iso": [
+            "IPhO 2024"
+        ],
+        "workplace": "Cornell University",
+        "job": "Undergraduate",
+        "linkedin": "https://www.linkedin.com/in/adam-zachry-273840239/",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "https://www.instagram.com/adamzchry/",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
