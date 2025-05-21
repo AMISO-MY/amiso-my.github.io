@@ -155,6 +155,12 @@ A scope of the YSC syllabus can be found [here](https://docs.google.com/document
 - [The Economy 1.0 by the CORE team](https://www.core-econ.org/the-economy/v1/book/text/0-3-contents.html)
 - [Materials from the UK Linguistics Olympiad](https://www.uklo.org/how-do-i-prepare/)
 
+# YSC 2025 Solutions
+- [YSC 2025 Prelim (Junior) - Problems and Answers](</assets/files/ysc/YSC_2025_Prelim_(Junior)_-_Problems_and_Answers.pdf>)
+
+- [YSC 2025 Prelim (Senior) - Problems and Answers](</assets/files/ysc/YSC_2025_Prelim_(Senior)_-_Problems_and_Answers.pdf>)
+
+
 # YSC Past Papers
 
 The below are the Sample Problem Sets.
