@@ -1172,5 +1172,23 @@
         "website": "",
         "tuition": "No",
         "email": ""
+    },
+    {
+        "name": "Yee Sue Wei",
+        "iso": [
+            "iGeo 2023",
+            "iGeo 2024",
+            "IESO 2025"
+        ],
+        "workplace": "",
+        "job": "",
+        "linkedin": "https://www.linkedin.com/in/sue-wei-yee-700a71267/",
+        "github": "",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "",
+        "tuition": "No",
+        "email": ""
     }
 ]
