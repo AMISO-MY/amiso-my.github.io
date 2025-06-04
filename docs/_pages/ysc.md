@@ -64,7 +64,7 @@ cmts:
         <h1>A Team Science Competition for Malaysians</h1>
         <div>AMISO's student-led olympiad returns once again in 2025!</div>
         <!-- <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a> -->
-        <div>Countdown to AMISO 2025 Finals: </div>
+        <div>Countdown to AMISO 2025 Finals: 21st June 2025 0800</div>
         <div id="timer" style="font-size: 1em; font-weight: semi-bold;">Loading...</div>
         <!-- <p id="timer">0d 0h 0m 0s</p> -->
         <!-- <p id="timer">It's a wrap!</p>
