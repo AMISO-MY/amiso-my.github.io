@@ -65,7 +65,7 @@ cmts:
         <p>AMISO's student-led olympiad returns once again in 2025!</p>
         <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a>
         <h2>Countdown to AMISO 2025 Finals</h2>
-        <div id="countdown" style="font-size: 2em; font-weight: bold;">Loading...</div>
+        <div id="timer" style="font-size: 2em; font-weight: bold;">Loading...</div>
         <!-- <p id="timer">0d 0h 0m 0s</p> -->
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
@@ -80,7 +80,7 @@ cmts:
     const distance = targetDate - now;
 
     if (distance < 0) {
-      document.getElementById("countdown").innerHTML = "The event has started!";
+      document.getElementById("timer").innerHTML = "The event has started!";
       return;
     }
 
@@ -89,7 +89,7 @@ cmts:
     const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-    document.getElementById("countdown").innerHTML =
+    document.getElementById("timer").innerHTML =
       `${days}d ${hours}h ${minutes}m ${seconds}s`;
   }
 
