@@ -64,6 +64,8 @@ cmts:
         <h1>A Team Science Competition for Malaysians</h1>
         <p>AMISO's student-led olympiad returns once again in 2025!</p>
         <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a>
+        <h2>Countdown to AMISO 2025 Finals</h2>
+        <div id="countdown" style="font-size: 2em; font-weight: bold;">Loading...</div>
         <!-- <p id="timer">0d 0h 0m 0s</p> -->
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
@@ -71,6 +73,29 @@ cmts:
     <div id="logo"><img src="/assets/images/ysc/ysc-logo.png" alt="Logo of YSC"/></div>
 </div>
 
+<script>
+  function updateCountdown() {
+    const targetDate = new Date("June 21, 2025 08:00:00").getTime(); 
+    const now = new Date().getTime();
+    const distance = targetDate - now;
+
+    if (distance < 0) {
+      document.getElementById("countdown").innerHTML = "The event has started!";
+      return;
+    }
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("countdown").innerHTML =
+      `${days}d ${hours}h ${minutes}m ${seconds}s`;
+  }
+
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+</script>
 
 
 # Introduction
