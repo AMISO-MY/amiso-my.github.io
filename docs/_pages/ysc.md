@@ -155,7 +155,7 @@ A scope of the YSC syllabus can be found [here](https://docs.google.com/document
 - *A First Course in Calculus* by Serge Lang
 - *Junior Problem Seminar* by D.A. Santos
 - [Tristan Chaang's Book](https://play.google.com/store/books/details?id=N-WuEAAAQBAJ)
-- [Theorem And Lemmas in Mathmatics - Leen Jun Khye](/assets/files/ysc/Theorems_and_lemmas_in_mathematics.pdf)
+- [Theorem and Lemmas in Mathematics - Leen Jun Khye](/assets/files/ysc/Theorems_and_lemmas_in_mathematics.pdf)
 
 ### Physics
 - *An Introduction to Mechanics* by Kleppner and Kolenkow
