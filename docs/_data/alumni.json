@@ -708,17 +708,18 @@
     {
         "name": "Yahaya bin Basiron",
         "iso": [
-            "IRAO 2022",
-            "IAO 2023"
+            "IPhO",
+            "IOAA",
+            "IAO"
         ],
-        "workplace": "Kolej PERMATA Insan",
-        "job": "SPM",
+        "workplace": "Kolej Yayasan UEM",
+        "job": "A-Levels",
         "linkedin": "https://www.linkedin.com/in/yahayabasiron/",
-        "github": "https://github.com/Yahayabb",
-        "discord": "Yahayabb#5886",
-        "facebook": "https://www.facebook.com/yahaya.bin.basiron/",
+        "github": null,
+        "discord": null,
+        "facebook": null,
         "instagram": "https://www.instagram.com/yahayabasiron/",
-        "website": "https://linktr.ee/yahayabb",
+        "website": null,
         "tuition": "No",
         "email": "ybasiron6@gmail.com"
     },
