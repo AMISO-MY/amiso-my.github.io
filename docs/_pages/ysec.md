@@ -117,7 +117,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - 08/11/2025: Preliminary Round
 - 26/11/2025: Announcement of Top Scorers
 - 03/12/2025: Finalist Attendance Confirmation Deadline
-- 13/12/2025 - 13/12/2025: Final Round
+- 13/12/2025 - 14/12/2025: Final Round
 
 
 # Special Thanks
