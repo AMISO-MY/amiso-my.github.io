@@ -14,11 +14,18 @@ custom_js:
     <h2>13–14th December 2025 @ DISTED College, Penang</h2>
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
+
     <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
-    <p id="register-timer">Registration closes in: Loading...</p>
-    <p id="timer">Loading...</p>
+    <p id="register-timer" style="font-size: 0.8em; margin-top: 6px;">
+      Registration closes in: Loading...
+    </p>
+
+    <p id="timer" style="font-size: 1.1em; margin-top: 10px;">Loading...</p>
   </div>
-  <div id="logo"><img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo" /></div>
+
+  <div id="logo">
+    <img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo" />
+  </div>
 </div>
 
 <script>
@@ -73,6 +80,7 @@ custom_js:
   setInterval(updateTimers, 1000);
   updateTimers();
 </script>
+
 
 
 
