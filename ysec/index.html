@@ -134,26 +134,22 @@
                   <h1>An experimental camp for Malaysians</h1>
                   <p>A student-led exploration into practical science.</p>
                   <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
-                  <p id="register-timer" style="font-size: 0.8em; margin-top: 6px;">
-                    Registration closes in: Loading...
-                  </p>
-                  <p id="timer" style="font-size: 1.1em; margin-top: 10px;">Loading...</p>
+                  <p id="timer" style="font-size: 0.95em; color: #ddd; margin-top: 8px;">Loading...</p>
                 </div>
                 <div id="logo">
                   <img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo" />
                 </div>
               </div>
               <script>
-                // === CONFIG ===
-                const registrationEnd = new Date("2025-12-01T23:59:59+08:00"); // registration closes
-                const preliminaryStart = new Date("2025-12-13T00:00:00+08:00"); // prelim start
-                const preliminaryEnd = new Date("2025-12-14T23:59:59+08:00");   // prelim end
-                const resultsAnnounce = new Date("2026-01-01T12:00:00+08:00");  // results day
-                const finalStart = new Date("2026-02-15T00:00:00+08:00");       // final start
-                const finalEnd = new Date("2026-02-16T23:59:59+08:00");         // final end
+                // === CONFIGURATION ===
+                const registrationEnd = new Date("2025-12-01T23:59:59+08:00");
+                const preliminaryStart = new Date("2025-12-13T00:00:00+08:00");
+                const preliminaryEnd = new Date("2025-12-14T23:59:59+08:00");
+                const resultsAnnounce = new Date("2025-12-26T12:00:00+08:00");
+                const finalStart = new Date("2026-02-15T00:00:00+08:00");
+                const finalEnd = new Date("2026-02-16T23:59:59+08:00");
 
-                const registerTimer = document.getElementById("register-timer");
-                const eventTimer = document.getElementById("timer");
+                const timer = document.getElementById("timer");
 
                 function formatTime(diff) {
                   const days = Math.floor(diff / (1000 * 60 * 60 * 24));
@@ -163,37 +159,40 @@
                   return `${days}d ${hours}h ${mins}m ${secs}s`;
                 }
 
-                function updateTimers() {
+                function updateTimer() {
                   const now = new Date();
+                  let target;
+                  let label;
 
-                  // === REGISTRATION TIMER ===
                   if (now < registrationEnd) {
-                    const diff = registrationEnd - now;
-                    registerTimer.innerHTML = `Registration closes in: <b>${formatTime(diff)}</b>`;
+                    target = registrationEnd;
+                    label = "🕒 Registration closes in:";
+                  } else if (now < preliminaryStart) {
+                    target = preliminaryStart;
+                    label = "📅 Countdown to Preliminary Round:";
+                  } else if (now < preliminaryEnd) {
+                    target = preliminaryEnd;
+                    label = "🏁 Preliminary Round ends in:";
+                  } else if (now < resultsAnnounce) {
+                    target = resultsAnnounce;
+                    label = "📄 Results announcement in:";
+                  } else if (now < finalStart) {
+                    target = finalStart;
+                    label = "⏳ Countdown to Final Round:";
+                  } else if (now < finalEnd) {
+                    target = finalEnd;
+                    label = "⚗️ Final Round ends in:";
                   } else {
-                    registerTimer.innerHTML = "📝 Registration closed!";
+                    timer.innerHTML = "🎉 Thanks for joining YSEC 2025! See you next year!";
+                    return;
                   }
 
-                  // === EVENT TIMER ===
-                  if (now < preliminaryStart) {
-                    const diff = preliminaryStart - now;
-                    eventTimer.innerHTML = `Countdown to Preliminary Round:<br><b>${formatTime(diff)}</b>`;
-                  } else if (now < preliminaryEnd) {
-                    eventTimer.innerHTML = "🏁 Preliminary Round in progress!";
-                  } else if (now < resultsAnnounce) {
-                    eventTimer.innerHTML = "📄 Preliminary Round ended! Results will be announced on <b>1 January 2026</b>.";
-                  } else if (now < finalStart) {
-                    const diff = finalStart - now;
-                    eventTimer.innerHTML = `Countdown to Final Round:<br><b>${formatTime(diff)}</b>`;
-                  } else if (now < finalEnd) {
-                    eventTimer.innerHTML = "⚗️ Final Round in progress!";
-                  } else {
-                    eventTimer.innerHTML = "🎉 Thanks for joining YSEC 2025! See you next year!";
-                  }
+                  const diff = target - now;
+                  timer.innerHTML = `${label} <b>${formatTime(diff)}</b>`;
                 }
 
-                setInterval(updateTimers, 1000);
-                updateTimers();
+                setInterval(updateTimer, 1000);
+                updateTimer();
               </script>
               <h1 id="introduction">Introduction</h1>
               <p>The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO, in collaboration with DISTED College!</p>
