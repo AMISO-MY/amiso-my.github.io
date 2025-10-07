@@ -10,17 +10,63 @@ custom_js:
 ---
 
 <div id="hero">
-    <div id="countdown">
-        <h2>13-14th December 2025 @ DISTED College, Penang</h2>
-        <h1>An experimental camp for Malaysians</h1>
-        <p>A student led exploration into practical science.</p>
-        <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
-        <p id="timer">0d 0h 0m 0s</p>
-        <!-- <p id="timer">It's a wrap!</p> -->
-        <!-- <p>Thanks to everyone who joined YSC!</p> -->
-    </div>
-    <div id="logo"><img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo"/></div>
+  <div id="countdown">
+    <h2>13–14th December 2025 @ DISTED College, Penang</h2>
+    <h1>An experimental camp for Malaysians</h1>
+    <p>A student-led exploration into practical science.</p>
+    <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
+    <p id="timer">Loading...</p>
+  </div>
+  <div id="logo"><img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo" /></div>
 </div>
+
+<script>
+  // === CONFIG ===
+  const preliminaryStart = new Date("2025-12-13T00:00:00+08:00"); // start of prelim
+  const preliminaryEnd = new Date("2025-12-14T23:59:59+08:00");   // end of prelim
+  const resultsAnnounce = new Date("2026-01-01T12:00:00+08:00");  // results day
+  const finalStart = new Date("2026-02-15T00:00:00+08:00");       // start of finals
+  const finalEnd = new Date("2026-02-16T23:59:59+08:00");         // end of finals
+
+  const timer = document.getElementById("timer");
+
+  function updateTimer() {
+    const now = new Date();
+
+    let target, label;
+
+    if (now < preliminaryStart) {
+      target = preliminaryStart;
+      label = "Countdown to Preliminary Round:";
+    } else if (now < preliminaryEnd) {
+      target = preliminaryEnd;
+      label = "Preliminary Round in progress!";
+    } else if (now < resultsAnnounce) {
+      timer.innerHTML = "Preliminary Round ended! Results will be announced on <b>1 January 2026</b>.";
+      return;
+    } else if (now < finalStart) {
+      target = finalStart;
+      label = "Countdown to Final Round:";
+    } else if (now < finalEnd) {
+      target = finalEnd;
+      label = "Final Round in progress!";
+    } else {
+      timer.innerHTML = "🎉 Thanks for joining YSEC 2025! See you next year!";
+      return;
+    }
+
+    const diff = target - now;
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const mins = Math.floor((diff / (1000 * 60)) % 60);
+    const secs = Math.floor((diff / 1000) % 60);
+
+    timer.innerHTML = `${label} <br><b>${days}d ${hours}h ${mins}m ${secs}s</b>`;
+  }
+
+  setInterval(updateTimer, 1000);
+  updateTimer();
+</script>
 
 
 
