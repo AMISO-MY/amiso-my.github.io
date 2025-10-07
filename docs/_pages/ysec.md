@@ -50,7 +50,7 @@ The important details are as follows:
 
 The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events!
 
-More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1z4oLtsypTcpf7X5R42FE8y_79gJ14lWaZdiih1w6Aak/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
+More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1rCYlhHTnN9SkOXW6YTTUiNv6Obcr9_QMTqjRvvX1gdA/edit?pli=1&tab=t.0), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
 
 # Registration
