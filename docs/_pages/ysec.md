@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Youth STEM Experimentation Camp 2023
+title: Youth STEM Experimentation Camp 2025
 permalink: /ysec/
 classes: wide
 custom_css:
@@ -31,7 +31,7 @@ The camp aims to foster participants’ knowledge in the experimental aspects of
 
 YSEC 2025 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
-The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Screening Round**, and the **Final Experiment Camp**. Participants will have to qualify in the preliminary round in order to proceed.
+The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Round**, and the **Final Experiment Camp**. Participants will have to qualify in the preliminary round in order to proceed.
 
 The important details are as follows:
 
@@ -63,7 +63,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 - 02/11/2025: Registration Deadline
 - 08/11/2025: Preliminary Round
 - 26/11/2025: Announcement of Top Scorers
-- 06/12/2023: Finalist Attendance Confirmation Deadline
+- 06/12/2025: Finalist Attendance Confirmation Deadline
 - 13/12/2025 - 13/12/2025: Final Round
 
 
