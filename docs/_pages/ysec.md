@@ -74,5 +74,5 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 
 # Links
-- [YSEC Infopack](https://docs.google.com/document/d/1z4oLtsypTcpf7X5R42FE8y_79gJ14lWaZdiih1w6Aak/edit?usp=sharing)
+- [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing)
 - [Instagram](https://instagram.com/youthstemexperimentcamp)
