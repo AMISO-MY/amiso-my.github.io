@@ -14,74 +14,12 @@ custom_js:
     <h2>13–14th December 2025 @ DISTED College, Penang</h2>
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
+</div>
 
-    <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
-    <p id="timer" style="font-size: 0.95em; color: #ddd; margin-top: 8px;">Loading...</p>
-  </div>
-
-  <div id="logo">
+<div id="logo">
     <img src="/assets/images/ysec/ysec-logo.png" alt="YSC Logo" />
   </div>
 </div>
-
-<script>
-  // === CONFIGURATION ===
-  const registrationEnd = new Date("2025-12-01T23:59:59+08:00");
-  const preliminaryStart = new Date("2025-12-13T00:00:00+08:00");
-  const preliminaryEnd = new Date("2025-12-14T23:59:59+08:00");
-  const resultsAnnounce = new Date("2025-12-26T12:00:00+08:00");
-  const finalStart = new Date("2026-02-15T00:00:00+08:00");
-  const finalEnd = new Date("2026-02-16T23:59:59+08:00");
-
-  const timer = document.getElementById("timer");
-
-  function formatTime(diff) {
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
-    const mins = Math.floor((diff / (1000 * 60)) % 60);
-    const secs = Math.floor((diff / 1000) % 60);
-    return `${days}d ${hours}h ${mins}m ${secs}s`;
-  }
-
-  function updateTimer() {
-    const now = new Date();
-    let target;
-    let label;
-
-    if (now < registrationEnd) {
-      target = registrationEnd;
-      label = "🕒 Registration closes in:";
-    } else if (now < preliminaryStart) {
-      target = preliminaryStart;
-      label = "📅 Countdown to Preliminary Round:";
-    } else if (now < preliminaryEnd) {
-      target = preliminaryEnd;
-      label = "🏁 Preliminary Round ends in:";
-    } else if (now < resultsAnnounce) {
-      target = resultsAnnounce;
-      label = "📄 Results announcement in:";
-    } else if (now < finalStart) {
-      target = finalStart;
-      label = "⏳ Countdown to Final Round:";
-    } else if (now < finalEnd) {
-      target = finalEnd;
-      label = "⚗️ Final Round ends in:";
-    } else {
-      timer.innerHTML = "🎉 Thanks for joining YSEC 2025! See you next year!";
-      return;
-    }
-
-    const diff = target - now;
-    timer.innerHTML = `${label} <b>${formatTime(diff)}</b>`;
-  }
-
-  setInterval(updateTimer, 1000);
-  updateTimer();
-</script>
-
-
-
-
 
 
 # Introduction
@@ -110,7 +48,7 @@ The important details are as follows:
 
 The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events!
 
-More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1rCYlhHTnN9SkOXW6YTTUiNv6Obcr9_QMTqjRvvX1gdA/edit?pli=1&tab=t.0), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
+More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
 
 # Registration
