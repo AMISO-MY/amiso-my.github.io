@@ -14,6 +14,7 @@ custom_js:
     <h2>13–14th December 2025 @ DISTED College, Penang</h2>
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
+    <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
 </div>
 
 <div id="logo">
