@@ -11,7 +11,8 @@ custom_js:
 
 <div id="hero">
   <div id="countdown">
-    <h2>13–14th December 2025 @ DISTED College, Penang</h2>
+    <h2>13–14th December 2025</h2>
+    <h2>13–14th December 2025</h2>
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
     <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
@@ -23,8 +24,8 @@ custom_js:
 </div>
 
 
-# Introduction
-The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO, in collaboration with DISTED College!
+# IntroductionThe Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO.
+The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO!
 
 The camp aims to foster participants’ knowledge in the experimental aspects of STEM and introduce **high school and pre-university** participants to the practical aspects of the International Science Olympiads. In a world where science is used as a guiding light, it is crucial to also use science in the dark; to apply the scientific method in foreign scenarios and better understand the incricate world around us when not much else is understood! Covering **Biology, Chemistry, and Physics**, YSEC welcomes students to explore the world together!
 
@@ -44,10 +45,11 @@ The important details are as follows:
 **Experiment Camp**
 - **Date**			: 13th to 14th December 2025
 - **Time**			: 8:00am - 9:00pm (First day), 8:00am - 6:00pm (second day)
-- **Venue**			: DISTED College @ Penang
+- **Venue**			: TBD
 - **Question Format**			: TBD
 
-The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events!
+<!-- The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events! -->
+The final experiment camp includes practical sessions, talks by academic professionals, and many more exciting games and events!
 
 More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
@@ -68,7 +70,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 # Special Thanks
 <div id="logos">
-    <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/>
+    <!-- <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/> -->
     <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
@@ -76,3 +78,4 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 # Links
 - [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing)
 - [Instagram](https://instagram.com/youthstemexperimentcamp)
+
