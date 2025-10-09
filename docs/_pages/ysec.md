@@ -38,7 +38,7 @@ The important details are as follows:
 - **Date**			: 8th November 2025
 - **Time**			: 10:00am - 11:32 am (Prelims, subject to changes)
 - **Venue**			: Online
-- **Question Format**			: A total of six questions, with participants required to complete 4 questions in total, as specified in each section. In Section A, 3 questions are presented from each major Science. All must be answered. In Section B, another 3 questions are given (one for each Science), with the participants required to answer at least 1 of their choice.
+- **Question Format**			: A total of six questions, with participants required to complete 4 questions in total, as specified in each section. In Section A, 3 questions are presented from each major Science. All must be answered. In Section B, another 3 questions are given (one for each Science), with the participants required to answer only 1 of their choice.
 
 
 **Experiment Camp**
