@@ -24,7 +24,7 @@ custom_js:
 </div>
 
 
-# IntroductionThe Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO.
+# Introduction
 The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO!
 
 The camp aims to foster participants’ knowledge in the experimental aspects of STEM and introduce **high school and pre-university** participants to the practical aspects of the International Science Olympiads. In a world where science is used as a guiding light, it is crucial to also use science in the dark; to apply the scientific method in foreign scenarios and better understand the incricate world around us when not much else is understood! Covering **Biology, Chemistry, and Physics**, YSEC welcomes students to explore the world together!
