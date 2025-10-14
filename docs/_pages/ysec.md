@@ -47,13 +47,13 @@ The important details are as follows:
 - **Venue**			: DISTED College @ Penang
 - **Question Format**			: TBD
 
-<h2>Sample Problems</h2>
+<h3>Sample Problems</h3>
 
 <!-- Google Drive Embed -->
 <iframe 
     src="https://drive.google.com/file/d/1CS77rKF-ntv9tXF30wg41fpqbDtGZwh-/preview" 
     width="100%" 
-    height="600" 
+    height="800" 
     style="border-radius: 12px; border: none;">
 </iframe>
 
