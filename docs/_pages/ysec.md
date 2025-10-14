@@ -53,7 +53,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 <!-- Sample Problems Section -->
 <div style="margin: 60px 0;">
-  <h3 style="text-align:center;">Sample Problems</h3>
+  <h3>Sample Problems</h3>
 
   <iframe 
       src="https://drive.google.com/file/d/1CS77rKF-ntv9tXF30wg41fpqbDtGZwh-/preview" 
