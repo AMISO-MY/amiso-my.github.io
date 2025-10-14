@@ -44,11 +44,26 @@ The important details are as follows:
 **Experiment Camp**
 - **Date**			: 13th to 14th December 2025
 - **Time**			: 8:00am - 9:00pm (First day), 8:00am - 6:00pm (second day)
-- **Venue**			: TBD
+- **Venue**			: DISTED College @ Penang
 - **Question Format**			: TBD
 
-<!-- The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events! -->
-The final experiment camp includes practical sessions, talks by academic professionals, and many more exciting games and events!
+<h2>Sample Problems</h2>
+
+<!-- Google Drive Embed -->
+<iframe 
+    src="https://drive.google.com/file/d/1CS77rKF-ntv9tXF30wg41fpqbDtGZwh-/preview" 
+    width="100%" 
+    height="600" 
+    style="border-radius: 12px; border: none;">
+</iframe>
+
+<p style="text-align:center; margin-top:10px;">
+  <a href="https://drive.google.com/file/d/1CS77rKF-ntv9tXF30wg41fpqbDtGZwh-/view?usp=sharing" target="_blank">
+    Open in new tab ↗
+  </a>
+</p>
+
+The final experiment camp, held in DISTED College in Penang, includes practical sessions, talks by academic professionals, and many more exciting games and events!
 
 More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
@@ -69,7 +84,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 # Special Thanks
 <div id="logos">
-    <!-- <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/> -->
+    <img src="/assets/images/ysec/disted.png" alt="Disted Logo"/>
     <img src="/assets/images/amiso-logo.png" alt="AMISO Logo"/>
 </div>
 
