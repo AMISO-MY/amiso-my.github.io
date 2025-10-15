@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Youth STEM Experimentation Camp 2025
+title: Youth STEM Experiment Camp 2025
 permalink: /ysec/
 classes: wide
 custom_css:
@@ -24,13 +24,13 @@ custom_js:
 
 
 # Introduction
-The Youth STEM Experimental Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO!
+The Youth STEM Experiment Camp (YSEC) is the first ever student-led, nation-wide experimental science camp hosted by AMISO!
 
 The camp aims to foster participants’ knowledge in the experimental aspects of STEM and introduce **high school and pre-university** participants to the practical aspects of the International Science Olympiads. In a world where science is used as a guiding light, it is crucial to also use science in the dark; to apply the scientific method in foreign scenarios and better understand the incricate world around us when not much else is understood! Covering **Biology, Chemistry, and Physics**, YSEC welcomes students to explore the world together!
 
 YSEC 2025 is a competition in which participants can join in groups of four, and are allowed to discuss amongst their teams during the competition. Points are calculated in teams rather than individually, and if there is a tie in points between teams, the team which submitted their answers earlier will be ranked higher.
 
-The Youth STEM Experiment Cup consists of 2 rounds: the **Preliminary Round**, and the **Final Experiment Camp**. Participants will have to qualify in the preliminary round in order to proceed.
+The Youth STEM Experiment Camp consists of 2 rounds: the **Preliminary Round**, and the **Final Experiment Camp**. Participants will have to qualify in the preliminary round in order to proceed.
 
 The important details are as follows:
 
@@ -65,7 +65,7 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 
 # Registration
-- Application for YSC 2025 is **free of charge**!
+- Application for YSEC 2025 is **free of charge**!
 - [Sign up today!](https://forms.cloud.microsoft/r/Crfjj8ydZf)
 
 
