@@ -1,4 +1,6 @@
 main:
+  - title: "YSEC 2025"
+    url: /docs/_pages/ysec.md
   - title: "News"
     url: /news/
   - title: "Olympiads"
