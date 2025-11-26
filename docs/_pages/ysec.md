@@ -52,20 +52,20 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 
 # Finalists (Alphabetical Order)
 
-| Team Name                 | Code  | Rank | Status    |
-|---------------------------|-------|------|-----------|
-| ALPHA                     | T063  | 3    | FINALIST  |
-| Allsinteacha_craz         | T074  | 12   | FINALIST  |
-| Barnacles                 | T104  | 10   | FINALIST  |
-| Eureka                    | T002  | 8    | FINALIST  |
-| Joseph Chan Yuan Sheng 67 | T110  | 6    | FINALIST  |
-| KYSUNTAR Boys             | T042  | 10   | FINALIST  |
-| kidneypool                | T115  | 7    | FINALIST  |
-| Neutrino                  | T109  | 4    | FINALIST  |
-| Quantum Biochemists       | T045  | 9    | FINALIST  |
-| reflex arc.exe            | T071  | 4    | FINALIST  |
-| Sine Me Up Daddy          | T103  | 2    | FINALIST  |
-| The Fourmula              | T075  | 1    | FINALIST  |
+| Team Name                 | Code  |
+|---------------------------|-------|
+| ALPHA                     | T063  |
+| Allsinteacha_craz         | T074  |
+| Barnacles                 | T104  |
+| Eureka                    | T002  |
+| Joseph Chan Yuan Sheng 67 | T110  |
+| KYSUNTAR Boys             | T042  |
+| kidneypool                | T115  |
+| Neutrino                  | T109  |
+| Quantum Biochemists       | T045  |
+| reflex arc.exe            | T071  |
+| Sine Me Up Daddy          | T103  |
+| The Fourmula              | T075  |
 
 An RSVP confirmation form will be sent to all finalists.
 
