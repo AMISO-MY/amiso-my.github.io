@@ -14,7 +14,7 @@ custom_js:
     <h2>13–14th December 2025</h2>
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
-    <a href="https://forms.cloud.microsoft/r/Crfjj8ydZf" target="_blank">Register now!</a>
+    <a href="#finalists">Check out the finalist list!</a>
   </div>
 
   <div id="logo">
@@ -50,7 +50,7 @@ The final experiment camp, held in DISTED College in Penang, includes practical 
 
 More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
-# Finalists 
+# Finalists {#finalists}
 
 | Team Name                 | Code  |
 |---------------------------|-------|
