@@ -50,6 +50,24 @@ The final experiment camp, held in DISTED College in Penang, includes practical 
 
 More details can be found in the [YSEC Infopack](https://docs.google.com/document/d/1XweflOj6oGHsjTC0Otnj5n0px4bJBVy18-oPrsRpiVM/edit?usp=sharing), such as the detailed schedules, terms and conditions, and additional details on both the Preliminary and the Final Camp Round.
 
+# Finalists (Alphabetical Order)
+
+| Team Name                 | Code  | Rank | Status    |
+|---------------------------|-------|------|-----------|
+| ALPHA                     | T063  | 3    | FINALIST  |
+| Allsinteacha_craz         | T074  | 12   | FINALIST  |
+| Barnacles                 | T104  | 10   | FINALIST  |
+| Eureka                    | T002  | 8    | FINALIST  |
+| Joseph Chan Yuan Sheng 67 | T110  | 6    | FINALIST  |
+| KYSUNTAR Boys             | T042  | 10   | FINALIST  |
+| kidneypool                | T115  | 7    | FINALIST  |
+| Neutrino                  | T109  | 4    | FINALIST  |
+| Quantum Biochemists       | T045  | 9    | FINALIST  |
+| reflex arc.exe            | T071  | 4    | FINALIST  |
+| Sine Me Up Daddy          | T103  | 2    | FINALIST  |
+| The Fourmula              | T075  | 1    | FINALIST  |
+
+An RSVP confirmation form will be sent to all finalists.
 
 <!-- Sample Problems Section -->
 <div style="margin: 60px 0;">
