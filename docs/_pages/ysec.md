@@ -96,6 +96,7 @@ An RSVP confirmation form will be sent to all finalists.
 - 13/12/2025 - 14/12/2025: Final Round
 
 # Results {#results}
+
 | Award             | Team             |
 |-------------------|------------------|
 | Overall Champion  | Sine Me Up Daddy |
