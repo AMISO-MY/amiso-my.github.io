@@ -95,6 +95,14 @@ An RSVP confirmation form will be sent to all finalists.
 - 03/12/2025: Finalist Attendance Confirmation Deadline
 - 13/12/2025 - 14/12/2025: Final Round
 
+# Results {#results}
+| Award             | Team             |
+|-------------------|------------------|
+| Overall Champion  | Sine Me Up Daddy |
+| Best in Physics   | Sine Me Up Daddy |
+| Best in Chemistry | reflex arc.exe   |
+| Best in Biology   | Neutrino         |
+
 
 # Special Thanks
 <div id="logos">
