@@ -15,6 +15,7 @@ custom_js:
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
     <a href="#finalists">Check out the finalist list!</a>
+    <br/>
     <a href="#results">Check out the winners!</a>
   </div>
 
