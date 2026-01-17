@@ -15,6 +15,8 @@ custom_js:
     <h1>An experimental camp for Malaysians</h1>
     <p>A student-led exploration into practical science.</p>
     <a href="#finalists">Check out the finalist list!</a>
+    <br/>
+    <a href="#results">Check out the winners!</a>
   </div>
 
   <div id="logo">
@@ -68,6 +70,15 @@ More details can be found in the [YSEC Infopack](https://docs.google.com/documen
 | The Fourmula              | T075  |
 
 An RSVP confirmation form will be sent to all finalists.
+
+# Results {#results}
+
+| Award             | Team             |
+|-------------------|------------------|
+| Overall Champion  | Sine Me Up Daddy |
+| Best in Physics   | Sine Me Up Daddy |
+| Best in Chemistry | reflex arc.exe   |
+| Best in Biology   | Neutrino         |
 
 <!-- Sample Problems Section -->
 <div style="margin: 60px 0;">
