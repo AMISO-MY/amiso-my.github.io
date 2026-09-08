@@ -7,66 +7,66 @@ custom_css:
     - ysc
 custom_js:
     - ysc
-cmts:
-    - name: "Joyton Fu Hung Li"
-      pos: "Advisor"
-    - name: "Lee Han Yang"
-      pos: "Advisor"
-    - name: "Liew Ze Wei"
-      pos: "Event Coordinator"
-    - name: "Lee Ke Yin"
-      pos: "Event Coordinator"
-    - name: "Joel Pang Kai Chen"
-      pos: "Event Coordinator"
-    - name: "Ong Zhi Zheng"
-      pos: "Event Coordinator"
-    - name: "Ng Kin Him"
-      pos: "Secretary"
-    - name: "Tan Zhi Qi"
-      pos: "Secretary"
-    - name: "Yahaya Bin Basiron"
-      pos: "Secretary"
-    - name: "Bok Zhe Shing"
-      pos: "Treasurer"
-    - name: "Quincy Jules Tan Yi Liing"
-      pos: "Publicity"
-    - name: "Eunice Lee Xin Yi"
-      pos: "Publicity"
-    - name: "Ong Kok Rhui"
-      pos: "Publicity"
-    - name: "Lam Wei Heng"
-      pos: "Publicity"
-    - name: "Shee Yi Rong"
-      pos: "Logistics"
-    - name: "Ching Wei Yang"
-      pos: "Logistics"
-    - name: "Ooi Zhen Khoon"
-      pos: "Logistics"
-    - name: "Ho Hao Yuan"
-      pos: "Logistics"
-    - name: "Wong Jer Ren"
-      pos: "Problem Selection Committee Head of Math"
-    - name: "Nelson Loh Kwong Weng"
-      pos: "Problem Selection Committee Head of Physics"
-    - name: "Ms Ong Sy Ing"
-      pos: "Problem Selection Committee Head of Biology"
-    - name: "Aaron Oong Zhu Wen"
-      pos: "Problem Selection Committee Head of Chemistry"
-    - name: "Ng Kin Him"
-      pos: "Problem Selection Committee Head of Earth Science"
-    - name: "Shee Yi Rong"
-      pos: "Problem Selection Committee Head of Social Science"
+# cmts:
+    # - name: "Joyton Fu Hung Li"
+    #   pos: "Advisor"
+    # - name: "Lee Han Yang"
+    #   pos: "Advisor"
+    # - name: "Liew Ze Wei"
+    #   pos: "Event Coordinator"
+    # - name: "Lee Ke Yin"
+    #   pos: "Event Coordinator"
+    # - name: "Joel Pang Kai Chen"
+    #   pos: "Event Coordinator"
+    # - name: "Ong Zhi Zheng"
+    #   pos: "Event Coordinator"
+    # - name: "Ng Kin Him"
+    #   pos: "Secretary"
+    # - name: "Tan Zhi Qi"
+    #   pos: "Secretary"
+    # - name: "Yahaya Bin Basiron"
+    #   pos: "Secretary"
+    # - name: "Bok Zhe Shing"
+    #   pos: "Treasurer"
+    # - name: "Quincy Jules Tan Yi Liing"
+    #   pos: "Publicity"
+    # - name: "Eunice Lee Xin Yi"
+    #   pos: "Publicity"
+    # - name: "Ong Kok Rhui"
+    #   pos: "Publicity"
+    # - name: "Lam Wei Heng"
+    #   pos: "Publicity"
+    # - name: "Shee Yi Rong"
+    #   pos: "Logistics"
+    # - name: "Ching Wei Yang"
+    #   pos: "Logistics"
+    # - name: "Ooi Zhen Khoon"
+    #   pos: "Logistics"
+    # - name: "Ho Hao Yuan"
+    #   pos: "Logistics"
+    # - name: "Wong Jer Ren"
+    #   pos: "Problem Selection Committee Head of Math"
+    # - name: "Nelson Loh Kwong Weng"
+    #   pos: "Problem Selection Committee Head of Physics"
+    # - name: "Ms Ong Sy Ing"
+    #   pos: "Problem Selection Committee Head of Biology"
+    # - name: "Aaron Oong Zhu Wen"
+    #   pos: "Problem Selection Committee Head of Chemistry"
+    # - name: "Ng Kin Him"
+    #   pos: "Problem Selection Committee Head of Earth Science"
+    # - name: "Shee Yi Rong"
+    #   pos: "Problem Selection Committee Head of Social Science"
 ---
 
 <div id="hero">
     <div id="countdown">
-        <h2>19th April 2025 (Prelim); 21st June 2025 (Final)</h2>
+        <h2>12th September 2026 (Prelim); 7th November 2026 (Final)</h2>
         <h1>A Team Science Competition for Malaysians</h1>
-        <div>AMISO's student-led olympiad returns once again in 2025!</div>
+        <div>AMISO's student-led olympiad returns once again in 2026!</div>
         <!-- <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a> -->
-        <div>Countdown to YSC 2025 Finals: 21st June 2025 0800</div>
+        <div>Countdown to YSC 2025 Finals: 7 November 2026 0800</div>
         <div id="timer" style="font-size: 1em; font-weight: semi-bold;">Loading...</div>
-        <!-- <p id="timer">0d 0h 0m 0s</p> -->
+        <p id="timer">0d 0h 0m 0s</p>
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
     </div>
@@ -75,7 +75,7 @@ cmts:
 
 <script>
   function updateCountdown() {
-    const targetDate = new Date("June 21, 2025 08:00:00").getTime(); 
+    const targetDate = new Date("November 7, 2026 08:00:00").getTime(); 
     const now = new Date().getTime();
     const distance = targetDate - now;
 
@@ -110,20 +110,21 @@ The Youth STEM Cup consists of 2 rounds: the **Preliminary Round**, and the **Fi
 The important details are as follows:
 
 **Preliminary Round:**
-- **Date**			: 19th April 2025
-- **Time**			: 10:00am - 11:02am
+- **Date**			: 12th September 2026
+- **Time**			: 10:00am - 12:10pm
 - **Venue**			: Online
 
 **Final Round**:
-- **Date**			: 21st June 2025
-- **Venue**			: Heriot-Watt University Malaysia
+- **Date**			: 7th November 2026
+- **Time**      : 9:00am - 6:00pm
+- **Venue**			: Heriot-Watt University Putrajaya 
 
 # Registration
 - Application for YSC is **free of charge**!
-- Registration Deadline : 18 April 2025 (11.59pm)
+- Registration Deadline : 10th September 2026 (11.59pm)
 - Participants may join individually or form a group of four, discussion is allowed. Preliminary round consists of 36 questions whereas final round consists of 5 problems with 10 questions each (tbc).
 - Top 15 teams from each category will be selected to contest in final round.
-- [Sign up today!](https://forms.gle/7kMcAyDRbQfG3qE3A)
+- [Sign up today!](https://tally.so/r/681DAe)
 
 # Cash prize and certificate awarded:
 Winners and participants will receive certificates!
