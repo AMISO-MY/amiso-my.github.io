@@ -66,7 +66,7 @@ custom_js:
         <!-- <a href="https://forms.gle/7kMcAyDRbQfG3qE3A" target="_blank">Register now!</a> -->
         <div>Countdown to YSC 2025 Finals: 7 November 2026 0800</div>
         <div id="timer" style="font-size: 1em; font-weight: semi-bold;">Loading...</div>
-        <p id="timer">0d 0h 0m 0s</p>
+        <!-- <p id="timer">0d 0h 0m 0s</p> -->
         <!-- <p id="timer">It's a wrap!</p>
         <p>Thanks to everyone who joined YSC!</p> -->
     </div>
