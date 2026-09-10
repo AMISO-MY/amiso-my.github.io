@@ -1204,5 +1204,21 @@
         "website": "",
         "tuition": "Yes",
         "email": "dunlinmy88@gmail.com"
+    },
+    {
+        "name": "Low Yu Xuan",
+        "iso": [
+            "IOAI"
+        ],
+        "workplace": "University College Dublin",
+        "job": "",
+        "linkedin": "https://www.linkedin.com/in/low-yu-xuan/",
+        "github": "https://github.com/yxlow07/",
+        "discord": "",
+        "facebook": "",
+        "instagram": "",
+        "website": "https://yxlow07.github.io/",
+        "tuition": "Yes",
+        "email": "yuxuanlow013@gmail.com"
     }
 ]
